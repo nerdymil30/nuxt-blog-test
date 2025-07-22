@@ -1,0 +1,104 @@
+/* Content styling for markdown */
+.prose {
+  @apply max-w-none;
+}
+
+/* Hide the first H1 heading in ContentRenderer to avoid duplication with manual header */
+.content-renderer-no-title h1:first-child {
+  @apply hidden;
+}
+
+/* Typography improvements */
+.prose h1 {
+  @apply text-4xl font-bold mb-6 mt-8 text-gray-900 dark:text-gray-100;
+}
+
+.prose h2 {
+  @apply text-3xl font-semibold mb-4 mt-6 text-gray-800 dark:text-gray-200;
+}
+
+.prose h3 {
+  @apply text-2xl font-medium mb-3 mt-5 text-gray-700 dark:text-gray-300;
+}
+
+.prose p {
+  @apply mb-4 leading-relaxed text-gray-700 dark:text-gray-300;
+}
+
+.prose ul, .prose ol {
+  @apply mb-4 pl-6;
+}
+
+.prose li {
+  @apply mb-2;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-blue-500 pl-4 py-2 mb-4 bg-gray-50 dark:bg-gray-800 italic;
+}
+
+.prose code {
+  @apply bg-gray-100 dark:bg-gray-800 px-2 py-1 rounded text-sm font-mono;
+}
+
+.prose pre {
+  @apply bg-gray-900 text-gray-100 p-4 rounded-lg mb-4 overflow-x-auto;
+}
+
+.prose pre code {
+  @apply bg-transparent p-0;
+}
+
+.prose a {
+  @apply text-blue-600 dark:text-blue-400 hover:underline;
+}
+
+.prose table {
+  @apply w-full border-collapse mb-4;
+}
+
+.prose th, .prose td {
+  @apply border border-gray-300 dark:border-gray-600 px-4 py-2;
+}
+
+.prose th {
+  @apply bg-gray-100 dark:bg-gray-700 font-semibold;
+}
+
+/* Blog post meta styling */
+.blog-meta {
+  @apply flex flex-wrap gap-4 text-sm text-gray-600 dark:text-gray-400 mb-6 pb-4 border-b border-gray-200 dark:border-gray-700;
+}
+
+.blog-tags {
+  @apply flex flex-wrap gap-2;
+}
+
+.blog-tag {
+  @apply bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded-full text-xs;
+}
+
+/* Content navigation */
+.content-nav {
+  @apply space-y-2;
+}
+
+.content-nav-item {
+  @apply block p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors;
+}
+
+.content-nav-item.active {
+  @apply bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200;
+}
+
+/* Search styling */
+.search-input {
+  @apply w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .prose {
+    @apply text-gray-300;
+  }
+} 
