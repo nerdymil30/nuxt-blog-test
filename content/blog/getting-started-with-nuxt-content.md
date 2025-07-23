@@ -11,6 +11,8 @@ draft: false
 
 # Getting Started with Nuxt Content
 
+Changed content-check
+
 Welcome to your new markdown-based blog! This post will guide you through the basics of creating content with Nuxt Content.
 
 ## What is Nuxt Content?
