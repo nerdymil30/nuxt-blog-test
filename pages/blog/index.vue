@@ -128,13 +128,23 @@
 const { normalizePosts, getPostUrl } = useBlogPost()
 
 // Fetch all blog posts using correct Nuxt Content v3 queryCollection syntax
-const { data: allPosts } = await useAsyncData('all-blogPosts', async () => {
+const { data: allPosts, refresh } = await useAsyncData('all-blogPosts', async () => {
   const posts = await queryCollection('content')
     .where('path', 'LIKE', '/blog%')
     .all()
   
-  // Normalize posts to have flat access to meta fields
   return normalizePosts(posts)
+}, {
+  default: () => [],
+  server: true
+})
+
+// Force refresh on client-side if data is empty
+onMounted(() => {
+  if (!allPosts.value?.length) {
+    console.log('No posts found, refreshing...')
+    refresh()
+  }
 })
 
 console.log('allPosts', allPosts.value)
