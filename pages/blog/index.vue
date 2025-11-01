@@ -84,40 +84,7 @@
         </div> 
 
         <!-- Blog Posts Grid -->
-        <div v-if="error" class="text-center py-16">
-          <div class="text-6xl mb-4">⚠️</div>
-          <h3 class="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-2">
-            Error loading posts
-          </h3>
-          <p class="text-gray-600 dark:text-gray-400 mb-6">
-            {{ error.message || 'Something went wrong while loading blog posts.' }}
-          </p>
-        </div>
-
-        <div v-else-if="pending" class="space-y-8">
-          <!-- Loading skeleton -->
-          <div class="text-center py-8">
-            <div class="text-4xl mb-4">📚</div>
-            <h3 class="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-2">
-              Loading posts...
-            </h3>
-            <p class="text-gray-600 dark:text-gray-400">
-              Fetching the latest blog content
-            </p>
-          </div>
-          
-          <!-- Skeleton cards -->
-          <div class="grid gap-8 md:grid-cols-2">
-            <div v-for="n in 4" :key="n" class="animate-pulse">
-              <div class="bg-gray-200 dark:bg-gray-700 rounded-lg h-48 mb-4"></div>
-              <div class="h-4 bg-gray-200 dark:bg-gray-700 rounded mb-2"></div>
-              <div class="h-4 bg-gray-200 dark:bg-gray-700 rounded w-3/4 mb-2"></div>
-              <div class="h-3 bg-gray-200 dark:bg-gray-700 rounded w-1/2"></div>
-            </div>
-          </div>
-        </div>
-
-        <div v-else-if="filteredPosts.length === 0" class="text-center py-16">
+        <div v-if="filteredPosts.length === 0" class="text-center py-16">
           <div class="text-6xl mb-4">📝</div>
           <h3 class="text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-2">
             No posts found
@@ -160,8 +127,8 @@
 <script setup>
 const { normalizePosts, getPostUrl } = useBlogPost()
 
-// Use lazy loading for better UX - data loads after page renders
-const { data: allPosts, pending, error } = await useLazyAsyncData('all-blogPosts', async () => {
+// Fetch all blog posts using correct Nuxt Content v3 queryCollection syntax
+const { data: allPosts, refresh } = await useAsyncData('all-blogPosts', async () => {
   const posts = await queryCollection('content')
     .where('path', 'LIKE', '/blog%')
     .all()
@@ -169,8 +136,15 @@ const { data: allPosts, pending, error } = await useLazyAsyncData('all-blogPosts
   return normalizePosts(posts)
 }, {
   default: () => [],
-  server: true,    // Try SSR first
-  client: true     // Fall back to client if needed
+  server: true
+})
+
+// Force refresh on client-side if data is empty
+onMounted(() => {
+  if (!allPosts.value?.length) {
+    console.log('No posts found, refreshing...')
+    refresh()
+  }
 })
 
 console.log('allPosts', allPosts.value)
