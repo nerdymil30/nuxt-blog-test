@@ -661,7 +661,7 @@ def main():
     """Main entry point"""
     # Configuration
     PROJECT_ROOT = Path(__file__).parent.parent
-    XML_FILE = PROJECT_ROOT / 'AAII-Migration-assets' / 'aaiilaorg.WordPress.2025-07-27 (1).xml'
+    XML_FILE = PROJECT_ROOT / 'AAII-Migration-assets' / 'aaiilaorg.WordPress.2025-11-01.xml'
 
     # Validate XML file exists
     if not XML_FILE.exists():

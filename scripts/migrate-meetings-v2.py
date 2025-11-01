@@ -493,7 +493,7 @@ WordPress Post ID → Markdown Filename
 def main():
     """Main entry point"""
     PROJECT_ROOT = Path(__file__).parent.parent
-    XML_FILE = PROJECT_ROOT / 'AAII-Migration-assets' / 'aaiilaorg.WordPress.2025-07-27 (1).xml'
+    XML_FILE = PROJECT_ROOT / 'AAII-Migration-assets' / 'aaiilaorg.WordPress.2025-11-01.xml'
 
     if not XML_FILE.exists():
         logger.error(f"XML file not found: {XML_FILE}")
