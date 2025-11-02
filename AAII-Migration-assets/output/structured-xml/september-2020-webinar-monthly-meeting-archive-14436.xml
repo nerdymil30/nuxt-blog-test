@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>SEPTEMBER 2020 Webinar Monthly Meeting ARCHIVE</title>
+    <link>https://aaiila.org/september-2020-webinar-monthly-meeting-archive/</link>
+    <post_id>14436</post_id>
+    <post_name>september-2020-webinar-monthly-meeting-archive</post_name>
+    <post_date>2020-09-03 17:47:21</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>don</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, September 12, 2020</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Howard Marks</name>
+          <title>Co-Founder and Co-Chairman of Oaktree Capital</title>
+          <photo_id>14439</photo_id>
+          <photo_local_path>assets/images/howard-marks_14439.jpg</photo_local_path>
+          <bio>Since the formation of Oaktree in 1995, Mr. Marks has been responsible for ensuring the firm's adherence to its core investment philosophy; communicating closely with clients concerning products and strategies; and contributing his experience to big-picture decisions relating to investments and corporate direction. From 1985 until 1995, Mr. Marks led the groups at The TCW Group, Inc. that were responsible for investments in distressed debt, high yield bonds, and convertible securities. Mr. Marks holds a B.S.Ec. degree cum laude from the Wharton School of the University of Pennsylvania with a major in finance and an M.B.A. in accounting and marketing from the Booth School of Business of the University of Chicago, where he received the George Hay Brown Prize. He is a CFA charterholder. Mr. Marks is a Trustee and Chairman of the Investment Committee at the Metropolitan Museum of Art.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>A Conversation With Howard Marks</title>
+        <description>Please join us for this very special webinar featuring Howard Marks, Co-Founder and Co-Chairman of Oaktree Capital in his first ever address to an AAII audience. Mr. Marks is one of today's most prolific thinkers and insightful commentators on the economy and the stock market. In this webinar, Mr. Marks will entertain questions from AAII Los Angeles Chapter Board Member, Daniel Joye (Leader of our Chapter's Investment Strategies Group), as well as respond to questions from the webinar audience.</description>
+        <learning_outcomes>
+          <outcome>The status of the coronavirus</outcome>
+          <outcome>How an experienced investor thinks about the economy in today's unprecedented times</outcome>
+          <outcome>The current level of the stock market</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/h4S8aks7YAY</url>
+          <label>Presentation Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2020/09/Questions-for-Howard-Marks.pdf</url>
+          <label>Questions For Howard Marks</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Kristina Hooper</name>
+          <title>Chief Global Market Strategist, Invesco</title>
+          <photo_id>14438</photo_id>
+          <photo_local_path>assets/images/kristina-hooper_14438.jpg</photo_local_path>
+          <bio>Kristina Hooper is Chief Global Market Strategist at Invesco. In this role, she leads Invesco's Global Market Strategy (GMS) Office, which has strategists on-the-ground in North America, Europe and Asia. Ms. Hooper and her team formulate macro views of the markets and economy, examine the investment implications of those views, and share their insights with clients and the media around the world. She has regularly been quoted in The Wall Street Journal, Financial Times, The New York Times, Reuters and appears regularly on CNBC and Bloomberg TV. Ms. Hooper earned a BA degree, cum laude, from Wellesley College; a J.D. from Pace University School of Law, where she was a Trustees' Merit Scholar; an MBA in finance from New York University. Ms. Hooper is a Certified Financial Planner (CFP), Chartered Alternative Investment Analyst (CAIA), and a Certified Investment Management Analyst (CIMA) .</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>How Investors can Survive and Thrive in a World Gone Mad!</title>
+        <description>We are in an environment of extreme uncertainty. It's a challenge to craft an outlook during a pandemic, and so we will explore five possible scenarios. The shape of the recovery is of course dependent on a variety of factors: infection rates, fiscal policy, monetary policy, public health policy (including the stringency of lockdowns), and progress toward the development of therapies and a vaccine. It is also impacted by consumer and business behavior. We will explore all these factors, and discuss how we arrived at our base case scenario. We will also discuss investment implications.</description>
+        <learning_outcomes>
+          <outcome>This presentation will consider five different possible scenarios/shapes for the economic recovery, including our base case</outcome>
+          <outcome>This presentation will explore the various factors that will impact the shape of the economic recovery in the US and around the world</outcome>
+          <outcome>This presentation will also explore the investment implications of the various scenarios</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2020/09/Kristina-Hooper-September-2020.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

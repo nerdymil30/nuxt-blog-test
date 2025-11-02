@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "title": "MAY 2020 Webinar Monthly Meeting ARCHIVE",
+    "link": "https://aaiila.org/may-2020-webinar-monthly-meeting-archive/",
+    "post_id": "14234",
+    "post_name": "may-2020-webinar-monthly-meeting-archive",
+    "post_date": "2020-05-17 17:35:04",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "don"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, May 16, 2020",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Spuds Powell",
+          "title": "Managing Director, Kayne Anderson Rudnick Wealth Advisors",
+          "bio": "Spuds Powell is managing director of Kayne Anderson Rudnick Wealth Advisors and also serves on the Wealth Advisory Investment Committee. He has approximately 26 years of experience in the investment management industry. Before joining Kayne Anderson in 2004, he served in management roles with Financial Engines and Franklin Templeton Funds. He is ranked #1 on the Barron's Top 100 Independent Financial Advisors list for the third year in a row and has been among the top 10 nationally for the last seven years. Powell is a Certified Private Wealth Advisor (CPWA) and formerly served on the Fidelity Wealth Advisor Solutions Client Advisory Council. In addition, he has been frequently quoted in The Wall Street Journal, Forbes, Investors' Business Daily and other media outlets. He earned a B.S. in industrial and labor relations from Cornell University, where he was awarded the Cornell Tradition Fellowship for leadership and academic achievement.",
+          "photo_id": "14107"
+        }
+      ],
+      "presentation": {
+        "title": "",
+        "description": "Over Spuds Powell's 26-year career, he has seen countless examples of what differentiates successful investors from the masses. He will review the greatest challenges faced by investors today, how to navigate through them and why doing so successfully translates to superior risk-adjusted performance. In these uncertain and volatile times, it's critically important to avoid these common pitfalls.",
+        "learning_outcomes": [
+          "What differentiates the most successful investors from the masses",
+          "How to avoid the most common mistakes made by affluent investors",
+          "How to successfully cope with the greatest investment challenges"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://transcripts.gotomeeting.com/?utm_source=recordingReadyNotification&utm_medium=email#/s/34d360ec970b7b1aa33bd1b39ecef99eb478b1830d5730c3eb0737eab21deb89",
+          "label": "View Interactive Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2020/05/Powell-5-16-20.pdf",
+          "label": "Slides Only"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Mitchell Tuchman",
+          "title": "Co-Founder and Managing Director, Rebalance IRA",
+          "bio": "Mitch Tuchman began his career at Atari and spent the first half of his career a Silicon Valley software entrepreneur when he sold two start-ups during the dot-com period. He then entered investment management with Apex Capital where he oversaw a $200 million technology portfolio, co-managed its venture capital fund and served as a director of four Nasdaq companies as an activist investor. He observed the commission-based broker model pervasive in the financial services industry resulting in most investors suffering poor returns and saw an opportunity to use technology to lower costs and emulate the best practices on sophisticated endowments such as Yale and Harvard, founding the first robo-adviser, MarketRiders in 2008. Recognizing that robo-advisers needed a human touch, in 2012 he partnered with Scott Puritz to form Rebalance. Today, Rebalance manages $800 million in client assets. Tuchman received his B.S. at Boston University and MBA from the Harvard Business School.",
+          "photo_id": "14124"
+        }
+      ],
+      "presentation": {
+        "title": "",
+        "description": "Mitchell Tuchman will explain how Wall Street is very good at convincing you to act against your own interests. He will share with you the hard truths about why the average investor achieves returns lower than inflation and less than half of a balanced stock and bond portfolio and, in doing so, how investors' money is sent on a one-way trip to Wall Street's coffers. He will then outline a simple approach for any investor to grow their savings in a fast and safe way.",
+        "learning_outcomes": [
+          "How to survive market meltdowns like the coronavirus, 9/11 and the Great Recession",
+          "How a boring, \"play not to lose\" approach to investing usually wins",
+          "When and how sophisticated investors make changes to their portfolios"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://transcripts.gotomeeting.com/?utm_source=recordingReadyNotification&utm_medium=email#/s/5d7c54444fda55486f155d7b351e50667153e912cd2d024e0a808de70ea4d9b5",
+          "label": "View Interactive Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2020/05/Tuchman-5-16-20.pdf",
+          "label": "Slides Only"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2020/05/Tuchman-Best-and-Worst-Days.pdf",
+          "label": "Best and Worst Days Results"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>MARCH 2022 Skirball/Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/march-2022-skirball-webinar-meeting-archive/</link>
+    <post_id>15322</post_id>
+    <post_name>march-2022-skirball-webinar-meeting-archive</post_name>
+    <post_date>2022-02-20 17:21:58</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, March 19, 2022</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Christine Benz</name>
+          <title>Director of Personal Finance, Morningstar, Inc.</title>
+          <photo_id>15358</photo_id>
+          <photo_local_path>assets/images/christine-benz_15358.gif</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Morningstar's Best Ideas for 2022 and Beyond</title>
+        <description>What does Morningstar's bottom-up research say about today's markets? Which market segments look particularly over-or undervalued today? Morningstar's director of personal finance Christine Benz will discuss how that top-down view translates into specific ideas for stocks, mutual funds, and exchange-traded funds. She'll also share considerations that should be top of mind for investors in the realm of tax-and financial planning.</description>
+        <learning_outcomes>
+          <outcome>Which categories of stocks appear relatively under-or overvalued today based on Morningstar's bottom-up assessments</outcome>
+          <outcome>How higher yields and inflation are apt to impact investors in cash and bonds and how investors can protect their portfolios</outcome>
+          <outcome>Tax-savings strategies to consider as you manage your investments</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/aOxfcsH9zik</url>
+          <label>Webinar Recording - 9:00 am</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/04/Best-Times.pdf</url>
+          <label>Presenter's Slides - 9:00 am</label>
+          <status>not_validated</status>
+        </slides>
+        <recording>
+          <url>https://youtu.be/DJ-poIxIFnM</url>
+          <label>Webinar Recording - 10:45 am</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/04/Terrible-Times.pdf</url>
+          <label>Presenter's Slides - 10:45 am</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <presentation>
+        <title>What If This Turns Out to Be a Terrible Time to Retire?</title>
+        <description>Low bond yields and elevated equity valuations suggest that new retirees are confronting a challenging environment. This presentation discusses some of these headwinds and shares strategies for troubleshooting them at the portfolio and financial plan levels. Christine will also discuss Morningstar's recent research on safe withdrawal rates.</description>
+        <learning_outcomes>
+          <outcome>The implications of low bond yields and not-inexpensive equity valuations for retirees' asset allocations and withdrawal rates</outcome>
+          <outcome>How retirees can defend against "sequence of return risk" and inflation</outcome>
+          <outcome>How retirees can confront other potential risk factors to their retirement plans, including high long-term care costs</outcome>
+        </learning_outcomes>
+      </presentation>
+    </topic>
+  </topics>
+</meeting>

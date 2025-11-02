@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "title": "April 2024 Skirball/Webinar ARCHIVE",
+    "link": "https://aaiila.org/april-2024-skirball-webinar-archive/",
+    "post_id": "16632",
+    "post_name": "april-2024-skirball-webinar-archive",
+    "post_date": "2024-11-17 11:15:22",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, April 20, 2024",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Christine Benz",
+          "title": "Director of Personal Finance for Morningstar",
+          "bio": "Christine Benz is director of personal finance for Morningstar and senior columnist for Morningstar.com. She is author of \"30-Minute Money Solutions: A Step-by-Step Guide to Managing Your Finances\" (Wiley, 2010). Benz is also co-author of \"Morningstar Guide to Mutual Funds: 5-Star Strategies for Success,\" a national bestseller published in 2003, and author of the book's second edition, which was published in 2005. Before assuming her current role in 2008, Benz also served as Morningstar's director of mutual fund analysis. She has served as editor of several of Morningstar's publications over the years, including PracticalFinance, Morningstar Mutual Funds and Morningstar FundInvestor. She has worked as an analyst and editor at Morningstar since 1993. Benz holds a bachelor’s degree in political science and Russian/East European studies from the University of Illinois at Urbana-Champaign.",
+          "photo_id": "12980",
+          "photo_local_path": "assets/images/christine-benz_12980.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "5 Must Knows About Retirement Spending",
+        "description": "One of the most difficult questions in retirement planning is how much retirees can safely spend without prematurely depleting their assets. Morningstar’s director of personal finance and retirement planning Christine Benz will discuss key factors to bear in mind as you develop a safe and livable in-retirement spending rate. She will also share what current conditions–especially higher interest rates--mean for in-retirement spending going forward. Finally, she’ll look at the interplay between your in-retirement spending and your portfolio’s asset allocation.",
+        "learning_outcomes": [
+          "Several factors affect safe withdrawal rates for retirement: stock valuations, bond yields, and inflation; these are out of retirees’ control but important to consider",
+          "Retirees can exert control over their plans’ success by adjusting asset allocation, the length of the drawdown period (working longer), and probability of success",
+          "Being somewhat flexible with in-retirement withdrawals (i.e., tethering withdrawals to portfolio performance) helps improve startling and lifetime withdrawal percentages"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/WaUWxt2O4Hg",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [],
+      "presentation": {
+        "title": "Morningstar’s Best Ideas for 2024 and Beyond",
+        "description": "The market has rallied significantly since 2022, which has some investors wondering how much upside remains. Christine Benz will use Morningstar.com tools, including Morningstar's price/fair value graph, to help assess what bottom-up research is saying about today’s markets. She'll share which market segments—style-box squares, sectors, and geographic regions--look particularly over- and undervalued today. She'll also discuss the implications of Morningstar's bottom-up research for retirement planning, financial planning, and tax planning. Her presentation will culminate with specific investment ideas for individual stocks, mutual funds and exchange-traded funds (ETFs).",
+        "learning_outcomes": [
+          "Morningstar's philosophy and criteria for rating stocks, mutual funds, and exchange-traded funds",
+          "Which parts of the equity market are attractively valued and overvalued based on Morningstar's bottom-up research",
+          "Morningstar's best ideas for tax planning, retirement planning, and diversification"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/pSCu7xzqHtU",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

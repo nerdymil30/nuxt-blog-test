@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "title": "April 2025 Hotel ANGELENO/Webinar ARCHIVE",
+    "link": "https://aaiila.org/april-2025-hotel-angeleno-webinar-archive/",
+    "post_id": "17525",
+    "post_name": "april-2025-hotel-angeleno-webinar-archive",
+    "post_date": "2025-05-06 15:14:52",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "17142"
+    }
+  ],
+  "event": {
+    "date": "Saturday, April 19, 2025",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Feroz Ansari",
+          "title": "Senior Principal and Portfolio Manager at Compak Asset Management",
+          "bio": "",
+          "photo_id": "17438",
+          "photo_local_path": "assets/images/feroz-ansari_17438.png"
+        }
+      ],
+      "presentation": {
+        "title": "ARCHIVE MATERIALS",
+        "description": "Feroz Ansari is a Senior Principal and Portfolio Manager at Compak Asset Management. Feroz has over 28 years of experience in wealth management, banking, treasury management, asset allocation and asset management. He started his career in 1993 as a Treasury Associate at Banque Indosuez and held the Position of Treasurer, Head of Treasury & Corporate Banking and Deputy General Manager at Emirates Bank.. He has completed risk management, trading, portfolio management, leadership and financial management programs at The Oxford University in England, and Harvard University. Feroz is an Adjunct Faculty member at the UC-Irvine’s Paul Merage School of Business. He teaches the MBA Wealth Management course to Fully Employment MBA (FEMBA), Executive MBA (EMBA) and Master’s of Finance (M. Fin.) students.",
+        "learning_outcomes": [
+          "Obtain a keener sense of stock market performance history",
+          "Evaluate your portfolio from both financial feasibility and emotional perspectives",
+          "Be a more confident investor in times of market volatility and/or market declines"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=5ee4cd8c-5a6b-5fc7-d054-9296aaa946ca&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Nick Atkeson",
+          "title": "Founder of Delta Investment Management",
+          "bio": "",
+          "photo_id": "17434",
+          "photo_local_path": "assets/images/nick-atkeson_17434.jpg"
+        },
+        {
+          "name": "John Souter",
+          "title": "Investment Advisor of Delta Investment Management",
+          "bio": "",
+          "photo_id": "17435",
+          "photo_local_path": "assets/images/john-souter_17435.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Investing in Innovation and Managing Downside Risk",
+        "description": "Nick Atkeson is a principal of Delta Investment Management. Mr. Atkeson has over 25 years of industry experience. Prior to founding Delta Investment Management, Mr. Atkeson was a partner and portfolio manager of Delta Force Capital, a San Francisco-based hedge fund and held senior positions at Banc of America Securities, ThinkEquity, and Susquehanna International Group. Mr. Atkeson is co‑author of “Win By Not Losing: A Disciplined Approach to Building and Protecting Your Wealth in the Stock Market by Managing Your Risk” published by McGraw Hill. Mr. Atkeson graduated from Haverford College with a BA in Economics and from Stanford University Graduate School of Business with an MBA. John Souter is an investment advisor at Delta Investment Management. Prior to Delta, he co-managed the Rail-Splitter Fund, a fundamental long/short equity hedge fund for 21 years. He spent 7 years on Wall Street as a sell-side analyst working alongside Delta founders Nick Atkinson and Andrew Houghton at Susquehanna International. Mr. Souter has served on the boards of Visura Technologies, Minds Matter Chicago, and Cristo Rey High School (Waukegan) and started his career in public accounting as a CPA with PWC. He received his MBA at Kellogg (Northwestern University) and a BA from University of Notre Dame.",
+        "learning_outcomes": [
+          "To assess capital needs, competitive moats, and earnings power to determine which are the most innovative companies",
+          "To Identify entry points and exit discipline on individual stocks deemed to be innovative",
+          "Hedging techniques for individual stocks, sectors, and the overall market"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=bd1d29e4-5d33-33ff-9145-c6c73e9d29d9&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

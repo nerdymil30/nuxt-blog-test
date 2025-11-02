@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "JULY 2021 Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/july-2021-webinar-meeting-archive/",
+    "post_id": "14954",
+    "post_name": "july-2021-webinar-meeting-archive",
+    "post_date": "2021-06-21 09:55:00",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, July 17, 2021",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Micky Jagirdar",
+          "title": "Co-Portfolio Manager: Global Concentrated Strategy, Ariel Investments",
+          "bio": "Micky Jagirdar serves as co-portfolio manager of our global concentrated strategy, and covers the autos, health care and technology sectors as a research analyst. He is also the Head of Investments of the international and global equities team. In this capacity, he arranges retreats and teach-ins which hone the team's critical and counterintuitive thinking capabilities, helping them serve as better \"Devil's Advocates\" on our investment theses. Micky is a sought after speaker at investment conferences and a frequent guest on Bloomberg and CNBC. He is also widely quoted in Barron's and Forbes. In 2020, Micky obtained the FSA credential, awarded by the Sustainable Accounting Standards Board (SASB). Fluent in several Indian languages including Hindi, Micky earned a Bachelor of Commerce in accounting and finance from the University of Mumbai and an MBA in finance and investments from the Zicklin School of Business at Baruch College. .",
+          "photo_id": "14957",
+          "photo_local_path": "assets/images/micky-jagirdar_14957.png"
+        }
+      ],
+      "presentation": {
+        "title": "",
+        "description": "European Pharma is trading at a rare discount to market PE that has been seen only twice in the last 40 years, and it is undeniably out-of-favor. While most companies deserve the de-rating, Ariel Investments Co-Portfolio Manager Micky Jagirdar will discuss Ariel's contrarian call on those that do not. Attend this presentation to learn why European Pharma represents a rare alpha-generating opportunity in the market today.",
+        "learning_outcomes": [
+          "What is an alpha generating opportunity, and how to determine which stocks fit the description",
+          "How to determine which discounted stocks are worth investing in, and which stocks are just value traps",
+          "Which European Pharma stocks are worth investing in today?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/f8dABa6IBSw",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Ben Johnson, CFA",
+          "title": "Director of Global Exchange-Traded Fund Research, Morningstar, Inc.",
+          "bio": "Ben Johnson, CFA, is director of global ETF and passive strategies research. Before assuming his current role, he was director of ETF research for Europe and Asia. He also previously served as a senior equity analyst, covering the agriculture and chemicals industries. Before joining Morningstar in 2006, he worked as a financial advisor for Morgan Stanley. Johnson holds a bachelor's degree in economics from the University of Wisconsin. He also holds the Chartered Financial Analyst (CFA) designation. In 2015, Fund Directions and Fund Action named Johnson among the 2015 Rising Stars of Mutual Funds.",
+          "photo_id": "14958",
+          "photo_local_path": "assets/images/ben-johnson-cfa_14958.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "The Ins and Outs of Investing With ETFs",
+        "description": "Ben Johnson, Morningstar's Director of Global ETF Research, shows how exchange-traded funds (ETFs) are an efficient means of accessing countless corners of global markets. He'll also discuss the key benefits of this investment wrapper, share tips for trading ETFs, and spotlight some of Morningstar's top-rated ETFs.",
+        "learning_outcomes": [
+          "How ETFs differ from mutual funds, their benefits and drawbacks, and why and how to use them in your portfolio",
+          "Best practices for ETF trading",
+          "How Morningstar identifies best-of-breed ETFs"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/JMZMgDZylSw",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

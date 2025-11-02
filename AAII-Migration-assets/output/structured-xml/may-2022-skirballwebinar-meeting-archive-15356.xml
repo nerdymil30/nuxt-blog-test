@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>MAY 2022 Skirball/Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/may-2022-skirball-webinar-meeting-archive/</link>
+    <post_id>15356</post_id>
+    <post_name>may-2022-skirball-webinar-meeting-archive</post_name>
+    <post_date>2022-04-24 12:08:02</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, May 21, 2022</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Kevin Carter</name>
+          <title>Founder and Managing Partner, Big Tree Capital LLC; Founder and Chief Investment Officer, EMQQ</title>
+          <photo_id>15471</photo_id>
+          <photo_local_path>assets/images/kevin-carter_15471.jpg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>The Future of Emerging Markets: Capturing A Rising Digital Generation</title>
+        <description>The developing world is coming online at a dizzying pace. Every second, three people go online for the first time, leapfrogging two decades of Western digitization, becoming consumers from their new, cheap smartphones. Defined by McKinsey &amp; Co. as "the biggest growth opportunity in the history of capitalism," Kevin Carter gives you an on-the-ground look at the next wave of global internet giants, driven by the 5.4 billion people under age 30 in emerging and frontier markets.</description>
+        <learning_outcomes>
+          <outcome>Explain how McKinsey's "biggest growth opportunity in the history of capitalism" is now on discount</outcome>
+          <outcome>How investors can capitalize on the "next 5 billion" connected consumers across the developing world</outcome>
+          <outcome>How the world's largest Gen-Z population will shape the future of the world's largest democracy: India's coming golden age</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/ZvqcDPcFc0Q</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/05/Kevin-Carter-EMQQ-Global-Introduction-5.18.22.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Mark Skousen</name>
+          <title>Presidential Fellow, Chapman University; Editor in Chief, Forecasts &amp;amp; Strategies</title>
+          <photo_id>15469</photo_id>
+          <photo_local_path>assets/images/mark-skousen_15469.jpg</photo_local_path>
+          <bio>Mark Skousen, Ph.D., is editor in chief of Forecasts &amp; Strategies, an award-winning investment newsletter (www.markskousen.com). He was recently named one of the top 20 living economists in the world, and in 2018, Steve Forbes awarded him a Triple Crown in Economics for his work in economic theory, history and education. In 2014, he was appointed a presidential fellow at Chapman University. He has worked for the government (as a CIA analyst), nonprofits (president of FEE) and several for-profit companies. In 2004–05, he taught economics and finance at Columbia Business School and Columbia University. He was a columnist for Forbes magazine. His investment books include “Investing in One Lesson” (Regnery Publishing, 2007), “The Maxims of Wall Street” (Capital Press, 2017) and “A Viennese Waltz Down Wall Street: Austrian Economics for Investors” (LFB Publishers, 2013).</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Madness or Wisdom of Crowds? Puzzles &amp; Paradoxes of Wall St.</title>
+        <description>In this provocative session, Dr. Mark Skousen auctions off a jar of pennies to demonstrate both the wisdom of crowds and the madness of crowds. He also analyzes a number of fascinating financial anomalies, including the negative interest rate dilemma, the random walk hypothesis, the big oil vs. big blue paradox, the weekend effect, the gold puzzler, and other strange effects on Wall Street. This is a "Combo Event (Skirball "in person" plus Webinar), however for all those attending in person they will receive a Free autographed copy of the 10th anniversary addition of "The Maxims of Wall Street." Additional copies will be available for $10.</description>
+        <learning_outcomes>
+          <outcome>Lessons from auctioning off a jar of pennies: How to avoid action fever when you buy hot stocks</outcome>
+          <outcome>Why the stock market reflects both the wisdom of crowds and the madness of crowds, and how to know the difference</outcome>
+          <outcome>Solving the dividend paradox and other anomalies on Wall Street</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/2FLR-q_2Ces</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/05/Mark-Skousen-Wisdom-Madness-of-Crowds_2022-05-28.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

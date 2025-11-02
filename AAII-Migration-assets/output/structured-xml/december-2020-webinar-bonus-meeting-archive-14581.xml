@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>DECEMBER 2020 Webinar Bonus Meeting ARCHIVE</title>
+    <link>https://aaiila.org/december-2020-webinar-bonus-meeting-archive/</link>
+    <post_id>14581</post_id>
+    <post_name>december-2020-webinar-bonus-meeting-archive</post_name>
+    <post_date>2020-11-22 23:16:21</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>don</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Wednesday, December 16, 2020</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Ben Carlson, CFA</name>
+          <title>Director of Institutional Asset Management, Ritholtz Wealth Management</title>
+          <photo_id>14651</photo_id>
+          <photo_local_path>assets/images/ben-carlson-cfa_14651.png</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>The Hardest Investing Environment Ever</title>
+        <description>We live in a world where investors have no safe yield options, valuations have been trending higher for decades and there are no easy answers for where to put your money. In this talk, Ben Carlson will walk through how we got here, what it means for investors going forward and how to think about setting expectations and investing in one of the hardest market environments in history.</description>
+        <learning_outcomes>
+          <outcome>How to think about risk and reward in a world with no yield</outcome>
+          <outcome>What the alternatives are to find income for your portfolio</outcome>
+          <outcome>Why the markets may not be as dire as some people are predicting</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/GNKb5RB9RUU</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>David M. Blanchett, Ph.D., CFA, CFP</name>
+          <title>Head of Retirement Research, Morningstar</title>
+          <photo_id>14650</photo_id>
+          <photo_local_path>assets/images/david-m-blanchett-phd-cfa-cfp_14650.jpeg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Guaranteed Income: The Forgotten Household Asset</title>
+        <description>Guaranteed income is the largest financial asset for most retirees, yet its role in a financial plan is generally quite minor, treated simply as a cash flow that can be used to fund the retirement liability. Explore why financial planners need to consider guaranteed income more fully, since doing so can have significant implications on optimal investment spending strategies. Topics about guaranteed income discussed include: its role on the balance sheet, its impact on portfolios, how it affects optimal spending strategies and why it's worth more than other assets, especially today.</description>
+        <learning_outcomes>
+          <outcome>How to evaluate the benefit of guaranteed income and why the probability of success is the wrong metric to assess its value</outcome>
+          <outcome>How guaranteed income should be considered as part of a balanced sheet and statement of cash flows</outcome>
+          <outcome>Realize the impact of guaranteed income on optimal spending strategies, including a review of how it is a more valuable asset than a traditional portfolio, especially in today's environment</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/WFzc6T0pPvY</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2021/01/AAII-Guar-Inc-Blanchett-12-20.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

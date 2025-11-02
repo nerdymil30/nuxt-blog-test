@@ -15,6 +15,7 @@ topics:
       - "Retirees can exert control over their plans’ success by adjusting asset allocation, the length of the drawdown period (working longer), and probability of success"
       - "Being somewhat flexible with in-retirement withdrawals (i.e., tethering withdrawals to portfolio performance) helps improve startling and lifetime withdrawal percentages"
   - title: "Morningstar’s Best Ideas for 2024 and Beyond"
+    speaker: "Christine Benz"
     keyPoints:
       - "Morningstar's philosophy and criteria for rating stocks, mutual funds, and exchange-traded funds"
       - "Which parts of the equity market are attractively valued and overvalued based on Morningstar's bottom-up research"

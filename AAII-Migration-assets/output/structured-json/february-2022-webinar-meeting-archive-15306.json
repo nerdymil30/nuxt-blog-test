@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "FEBRUARY 2022 Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/february-2022-webinar-meeting-archive/",
+    "post_id": "15306",
+    "post_name": "february-2022-webinar-meeting-archive",
+    "post_date": "2022-01-17 13:20:27",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, February 19, 2022",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Peter Boockvar",
+          "title": "Chief Investment Officer, Bleakley Financial Group",
+          "bio": "In his role as Chief Investment Officer, Peter leads the team that is responsible for the development, management and oversight of Bleakley's investment management program, managing the investment committee, and setting the firm's overall investment philosophy, global investment outlook and asset allocation decisions. Peter is also the portfolio manager of a global macro multi-asset strategy and one focused on global income. Peter's market insights are frequently sought out by industry leaders and for the last 5 years has been a regular guest host and contributor on CNBC programs. He is also regularly quoted in articles for Forbes, Barron's, Bloomberg, CNN Money and a number of other news outlets. Peter graduated magna cum laude with a BBA in Finance from The George Washington University.",
+          "photo_id": "15314",
+          "photo_local_path": "assets/images/peter-boockvar_15314.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Inflation Is Not So Transitory",
+        "description": "Peter's presentation will focus on inflation and monetary policy, and how best investors can maneuver through what will be a more challenging macro landscape. Peter will discuss which factors to look at in deciding whether inflation is temporary or of a more permanent nature. Secondly, how will central bankers respond to rising and persistent inflation, and how should investors position themselves for the year ahead.",
+        "learning_outcomes": [
+          "Learn why inflation is not transitory",
+          "Learn how central bankers will most likely respond to the current inflationary landscape",
+          "Learn how best to maneuver through these markets"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/p8fO12zk8jg",
+          "label": "Presenter's Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2022/03/01-BOOCKVAR-Inflation-is-not-transitory-Oct-2021.pdf",
+          "label": "Presenter's Slides"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Barry C. Knapp",
+          "title": "Managing Partner, Director of Research-Ironsides Macroeconomics, LLC",
+          "bio": "",
+          "photo_id": "15315",
+          "photo_local_path": "assets/images/barry-c-knapp_15315.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "It's Never Different This Time",
+        "description": "My interest in macroeconomics began during a period when Milton Friedman and Paul Samuelson renewed the post-WWII debate over the role of government in economic policy while studying economics at the University of Rhode Island. The battle between those drawn to the fatal conceit of central planning, and what Friedrich Hayek called 'the spontaneous economic order, is again a central economic question in the aftermath of the Global Financial Crisis and the Covid-19 pandemic. Classic economic liberalism is in retreat, just as the world's reserve currency is testing the limits of our sovereign debt borrowing capacity. You will get the historical perspective from a long-time participant",
+        "learning_outcomes": [
+          "Why monetary policy normalization will leave the markets prone to risk-off shocks but will not negatively impact earnings and growth",
+          "How the pandemic was a positive productivity and inflationary shock, at the opposite of the global financial crisis",
+          "Why excessive government debt is inflationary and private sector debt is deflationary. This is another significant difference between the financial crisis and the pandemic that the Fed and most market participants failed to recognize"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/6gbj0wII6zw",
+          "label": "Presenter's Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2022/03/02-KNAPP-Ironsides-Macroeconomics-AAII-Presentation-February-2022.pdf",
+          "label": "Presenter's Slides"
+        }
+      ]
+    }
+  ]
+}

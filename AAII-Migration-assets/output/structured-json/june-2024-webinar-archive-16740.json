@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "title": "JUNE 2024 Webinar ARCHIVE",
+    "link": "https://aaiila.org/june-2024-webinar-archive/",
+    "post_id": "16740",
+    "post_name": "june-2024-webinar-archive",
+    "post_date": "2024-11-18 11:30:09",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, June 15, 2024",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Chris Watling",
+          "title": "CEO and Chief Market Strategist, Longview Economics",
+          "bio": "Prior to founding Longview Economics, Chris Watling worked in the City of London for 12 years with Cazenove and CAI Cheuvreux as a global economist and strategist. He also held roles as an equity analyst and corporate financier at Cazenove in the mid 1990s. He qualified as a chartered accountant with KPMG and holds master's and bachelor's degrees in economics. He regularly chairs and speaks at global investment conferences, is often quoted in the financial press and appears frequently on CNBC, Bloomberg and other media outlets. He is also an ambassador for WeSeeHope, a charity that supports children and young people in sub-Saharan Africa affected by HIV/AIDS.",
+          "photo_id": "16744",
+          "photo_local_path": "assets/images/chris-watling_16744.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Rotate, Rotate, Rotate! Why the Magnificent 7 Won't Dominate Forever and What's Coming Next for Investors",
+        "description": "How long can the Magnificent 7 keep outperforming the market? What stock market indicators are signaling a change in leadership? Find out how changing global macro themes can impact sector leadership changes in the stock market. What new sectors will emerge to replace the Magnificent 7? Attend this talk and learn what the key drivers are behind this new emerging theme.",
+        "learning_outcomes": [
+          "Markets have fashions, with those fashions rotating every 5-7 years",
+          "As that fashion changes, usually dictated by a changing global macro theme (think, the rise of China, the housing boom, and various new waves of tech advancement), then the global sector leadership changes",
+          "This current(tech) leadership has been impressive but is also \"long in the tooth\".  A new macro theme is set to emerge this year",
+          "Why the macroeconomic landscape  suggests greater respect for risk than many are willing to give markets right now"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/fTlKLrOuEJ8",
+          "label": "Webinar Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2024/11/06-JUN-Chris-Watling-Longview-15th-June-2024-AAII-LA-Chapter-Webinar-1.pdf",
+          "label": "Presenter’s Slides"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Marilyn Cohen",
+          "title": "Founder and CEO, Envision Capital Management",
+          "bio": "Marilyn Cohen is one of the country’s top bond managers. She began her financial career as a securities analyst at William O’Neil & Co. She later moved into bond brokerage at Cantor Fitzgerald Inc. She founded Envision Capital Management, where she is CEO, 24 years ago. Her company specializes in managing bond portfolios for individuals. Cohen writes the bond column appearing in Forbes magazine and has authored five books that teach individuals how to profitably invest in bonds. Cohen is a popular guest on CNBC, FOX Business News, PBS and each of the major broadcast networks.",
+          "photo_id": "16746",
+          "photo_local_path": "assets/images/marilyn-cohen_16746.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Suffering from Bond Strategy Fatigue? The Doctor is in",
+        "description": "Attend this presentation to...",
+        "learning_outcomes": [
+          "Learn the superiority of owning individual bonds versus open end, closed end and ETF bond funds",
+          "Learn what not to invest in and why",
+          "Walk away with actionable recommendations, names you may not be familiar with"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/iEU_7UT-e5c",
+          "label": "Webinar Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2024/11/06-JUN-AAII-LA-6-15-24-Marilyn-Cohen-Suffering-Bond-Fatigue-V3.pdf",
+          "label": "Presenter’s Slides"
+        }
+      ]
+    }
+  ]
+}

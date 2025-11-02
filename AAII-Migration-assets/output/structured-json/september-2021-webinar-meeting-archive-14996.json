@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "SEPTEMBER 2021 Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/september-2021-webinar-meeting-archive/",
+    "post_id": "14996",
+    "post_name": "september-2021-webinar-meeting-archive",
+    "post_date": "2021-08-19 20:52:58",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, September 18, 2021",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Bruce Johnstone, CFA",
+          "title": "Senior Managing Director and Marketing Investment Strategist, Fidelity Investments",
+          "bio": "",
+          "photo_id": "15005",
+          "photo_local_path": "assets/images/bruce-johnstone-cfa_15005.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Plenty of Fiscal and Monetary Stimulus! Has it been overdone?",
+        "description": "The presentation will cover the results of the enormous fiscal stimulus already provided (and contemplated) by the U.S. Government, and the presumed economic outlook. Likewise, it will peruse the extent and effects of the ballooning amount of monetary stimulus being provided by the Central Banks around the globe. Taking into account the staggering geopolitical factors shaping economies and markets, the outlook for stock and bond markets will be discussed.",
+        "learning_outcomes": [
+          "Has too much fiscal stimulus been undertaken to deal with the pandemic economy?",
+          "Are central banks underplaying the inflation risk of over-printing to provide the funds for the enormous stimulus (and debt) underway?",
+          "When including the geopolitical outlook, have stock and bond markets \"over\" discounted the upside potential?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2021/09/09.18.2021_AAII_Los-Angeles-CA_SCRUBBED-Slides-by-Bruce-Johnstone.pdf",
+          "label": "Presenter's Slides"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Jason De Sena Trennert",
+          "title": "Founder, Managing Partner, and Chief Investment Strategist, Strategas Securities, LLC",
+          "bio": "Jason DeSena Trennert is known as one of Wall Street's top thought leaders on the subject of markets and economic policy. In 2006, Trennert co-founded Strategas. Prior to founding Strategas, he was the chief investment strategist and a senior managing director at International Strategy & Investment (ISI) Group. He is a regular guest on business news programs broadcast by CNBC, CNBC Italia, Fox Business News and Bloomberg TV, among others. Trennert has an MBA from The Wharton School at the University of Pennsylvania and B.S. in international economics from Georgetown University.",
+          "photo_id": "15006",
+          "photo_local_path": "assets/images/jason-de-sena-trennert_15006.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Economic & Investment Outlook for a Post-Pandemic World",
+        "description": "How has the pandemic permanently changed the U.S. economy and the rest of the world, once it is finally defeated? Will the future of inflation be of a transitory nature or permanently higher going forward? How high will inflation be, and what will be the impact on interest rates? Given these new and emerging macro-economic trends what sectors and industry groups will thrive and which will do poorly in the new post-pandemic world? Don't miss Jason Trennert's presentation as he explores these questions and more, in order to help investors navigate the current macro environment.",
+        "learning_outcomes": [
+          "The outlook for the economy and public policy in a post-pandemic world",
+          "The potential for long-lasting inflation",
+          "Sector and industry group recommendations"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/ch--4E_snjg",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

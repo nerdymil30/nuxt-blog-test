@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "JANUARY 2021 Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/january-2021-webinar-meeting-archive/",
+    "post_id": "14674",
+    "post_name": "january-2021-webinar-meeting-archive",
+    "post_date": "2021-01-06 02:07:15",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, January 16, 2021",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Tom Petruno",
+          "title": "Financial Writer and Columnist",
+          "bio": "",
+          "photo_id": "14676",
+          "photo_local_path": "assets/images/tom-petruno_14676.gif"
+        }
+      ],
+      "presentation": {
+        "title": "2021: For Investors, a Year of Promise--or Peril?",
+        "description": "As investors close the books on 2020 many can't help but feel a bit uncomfortable. While 270,000 Americans perished from COVID, and tens of millions either lost their jobs or saw their work hours slashed, the stock market hit record highs. Bond holders, too, made money as the Fed held its key interest rate near zero, boosting the value of older bonds. As 2021 dawns, the key question is whether elevated stock and bond prices already reflect virtually all of what could go right for for the US and global economies in the new year--and very little of what could go wrong.",
+        "learning_outcomes": [
+          "With the market trading at 22X forecasted earnings for 2021, are investors and analysts being too optimistic about the recovery?",
+          "Will the GOP work with the Biden Administration for further fiscal aid? And what else can the Fed do?",
+          "Which 'flation is the bigger concern--inflation, disinflation or deflation? If we have a strong economic recovery could this stoke higher inflation?\nIf so, what will happen to the bond and stock markets?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/rN1acbzIRZ8",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Jeffrey Kleintop",
+          "title": "Senior Vice President, Chief Global Investment Strategist, Charles Schwab &amp; Co.",
+          "bio": "Jeffery Kleintop, Senior VP and Chief Global Investment Strategist at Charles Schwab, is responsible for analyzing and discussing international markets, trends, and events to help investors understand their significance and financial implications. He provides research, commentary and actionable insights to Schwab's client-facing teams and the firm's Investor Services and Advisor Services clients. Prior to joining Schwab, Jeffrey served as chief market strategist at LPL Financial. Cited in The Wall Street Journal as one of \"Wall Street's best and brightest,\" Jeffrey frequently appears on CNBC, Bloomberg TV, and CNN, and is often quoted in The Wall Street Journal and Barrons. Jeffrey is a Chartered Financial Analyst (CFA) and has a MBA from Pennsylvania State University; B.S. Business Administration, University of Delaware.",
+          "photo_id": "14677",
+          "photo_local_path": "assets/images/jeffrey-kleintop_14677.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "2021 Global Market Outlook",
+        "description": "Our Global Market Outlook for 2021 includes a vaccine-lead broad based market recovery, with the new market cycle bringing on new leadership by international stocks. For the global economic recovery, we look for a successful end to lockdowns this winter, followed by mass immunizations in the spring, and a sharp rebound of economic activity in virus-depressed sectors by summer. Economic and earnings growth are likely to exceed that of the U.S. for the first time in years, supporting relative outperformance of international stocks.",
+        "learning_outcomes": [
+          "How easy monetary and fiscal policy combined with a COVID-19 vaccine rollout leads to a strong rise in economic and earnings growth",
+          "What could interrupt global economic growth in 2021: debt, politics and trade",
+          "Why international stocks may lead a broader overall market advance compared to 2020"
+        ]
+      },
+      "materials": []
+    }
+  ]
+}

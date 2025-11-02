@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>February 2023 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/february-2023-webinar-meeting-archive/</link>
+    <post_id>15863</post_id>
+    <post_name>february-2023-webinar-meeting-archive</post_name>
+    <post_date>2023-01-23 18:25:55</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>asstwebmaster</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, February  18, 2023</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Doug Ramsey</name>
+          <title>Chief Investment Officer, The Leuthold Group, LLC</title>
+          <photo_id>15869</photo_id>
+          <photo_local_path>assets/images/doug-ramsey_15869.jpg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Sowing The Seeds For A New Bull Market</title>
+        <description>Doug Ramsey will discuss how current trends in the economy shape the backdrop for stock and bond investors. Entering 2023, a majority of professional economic forecasts expected the U.S. economy to fall into recession sometime this year. Are their fears warranted, and if so, to what extent have prices of financial assets already compensated for that possibility?</description>
+        <learning_outcomes>
+          <outcome>How this cycle’s upswing in inflation differs radically from the high inflation periods of the past, and why inflation could drop to surprisingly low levels by the end of the year</outcome>
+          <outcome>How stock prices not only anticipate future economic developments, but play an important role in shaping those developments</outcome>
+          <outcome>Why the monitoring of technical market developments can be useful to fundamental investors</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/tequ_OMwH9E</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2023/03/2023-02-18-Sowing-The-Seeds-For-The-Next-Bull-Market.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Cameron Dawson, CFA</name>
+          <title>Chief Investment Officer, NewEdge Wealth</title>
+          <photo_id>15868</photo_id>
+          <photo_local_path>assets/images/cameron-dawson-cfa_15868.jpg</photo_local_path>
+          <bio>Cameron Dawson, CFA is the Chief Investment Officer at NewEdge Wealth. She is in charge of developing NewEdge Wealth’s investment themes, strategies, and market views, while also working closely with the firm’s advisors and clients. Prior to joining NewEdge Wealth, Cameron was the Chief Market Strategist at Fieldpoint Private Securities and a Senior Equity Analyst at Bank of America. Throughout her career, she has developed extensive experience in macroeconomics and implementing forward-thinking investment themes and asset allocation strategies. She is widely known for her differentiated and thoughtful financial commentary and frequently appears on Bloomberg, CNBC, and Fox Business, among many others. Additionally, Cameron is a Chartered Financial Analyst (CFA) and a former board member of the CFA Society of Orlando.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Brave New World or Dust Off the Old Playbook? What “Works In the Next Cycle</title>
+        <description>Cameron Dawson will be presenting a broad spectrum of macro forces driving the next cycle’s leadership. She will also discuss how to use inter market and relative analysis to position portfolios for large rotations in leadership, and discuss the question if the last cycle’s laggards (Value, Non-US) can become the new leadership.</description>
+        <learning_outcomes>
+          <outcome>What macro forces will drive the next cycle’s leadership?</outcome>
+          <outcome>What is inter market and relative analysis, and how to use it to spot rotations in leadership?</outcome>
+          <outcome>Will today’s leaders become tomorrow’s laggards, and will value and non-US become the new market leaders for the next decade?.</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/kHwdhHE-fVM</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2023/03/NewEdge-Wealth-2023-Outlook-and-February-Update-2-19-23.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

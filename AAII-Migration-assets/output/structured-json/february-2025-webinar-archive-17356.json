@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "February 2025 Webinar ARCHIVE",
+    "link": "https://aaiila.org/february-2025-webinar-archive/",
+    "post_id": "17356",
+    "post_name": "february-2025-webinar-archive",
+    "post_date": "2025-05-05 12:39:52",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "17142"
+    }
+  ],
+  "event": {
+    "date": "Saturday, February 15, 2025",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Robert C. Doll, CFA",
+          "title": "Chief Executive Officer and Chief Investment Officer, Crossmark Global Investments",
+          "bio": "",
+          "photo_id": "17303",
+          "photo_local_path": "assets/images/robert-c-doll-cfa_17303.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "10 Predictions for 2025",
+        "description": "Bob Doll is a financial services industry veteran with over 40 years of experience managing large cap equity strategies as well as long and long-short equity strategies. His weekly, quarterly, and annual investment commentaries focus on key themes and risks driving equity markets, monetary policy, and the global economy. Bob is a regular guest and contibutor to multiple media outlets such as CNBC, Bloomberg TV, Moneywise, and Fox Business News.",
+        "learning_outcomes": [
+          "How did Bob Doll do in his predictions for 2024?",
+          "What are Bob's predictions for 2025?",
+          "Which sectors of the market will outperform and which sectors should investors stay clear of?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=698bcff1-9791-8780-0a8c-6dfa055a3f3d&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Amy P. Raskin",
+          "title": "Chief Investment Officer, Chevy Chase Trust",
+          "bio": "",
+          "photo_id": "17302",
+          "photo_local_path": "assets/images/amy-p-raskin_17302.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Thematic Investing: Capitalizing on Change",
+        "description": "As Chief Investment Officer, Amy P. Raskin leads investment strategy, research and portfolio management at Chevy Chase Trust. Prior to Chevy Chase Trust, Amy was Senior Vice President at AllianceBernstein in New York, serving as Director of Thematic Research, head of U.S. & Global Growth Equity Research and Chief Investment Officer of AllianceBernstein Venture Capital Fund. Amy’s team published in-depth research papers on a wide range of investment-related topics such as climate change, China, molecular medicine, hybrid autos and broadband, among others. Amy joined AllianceBernstein in 2000 as an equity analyst and spent 13 years there focused on deep research and thematic investing. Earlier, she worked as an investment banker at Lehman Brothers and as a research analyst at Donaldson, Lufkin & Jenrette. Amy graduated from the University of Pennsylvania School of Engineering and Applied Science with a major in Systems Engineering and a minor in Management from the Wharton School. She serves on the Board of Advisors for the University of Pennsylvania School of Engineering and Applied Science and is a member of the Board of Directors of the JDRF T1D Fund, a venture philanthropy fund focused on finding a cure for type-1 diabetes. Amy is a guest contributor on CNBC and a sought-after speaker at industry conferences.",
+        "learning_outcomes": [
+          "How to identify powerful disruptive trends taking place in the economy today and how an investor can benefit from these disruptions for a sustainable period of time",
+          "What are some of the most important changes taking place in the economy today, and which sectors will benefit the most and which sectors do investors need to avoid",
+          "Why the massive shift toward indexing and passive investing has accentuated overvaluation of some sectors and massive undervaluation of other sectors and why this will contribute to a major transition in market leadership"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=7da4c27d-8cdb-ca61-235b-9a87373875c5&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

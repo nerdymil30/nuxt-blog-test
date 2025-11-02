@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>March 2023 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/march-2023-webinar-meeting-archive/</link>
+    <post_id>15903</post_id>
+    <post_name>march-2023-webinar-meeting-archive</post_name>
+    <post_date>2023-02-18 17:29:39</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, March  18, 2023</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>James Stack</name>
+          <title>CEO and founder of Stack Financial Management and President of InvesTech Research</title>
+          <photo_id>15907</photo_id>
+          <photo_local_path>assets/images/james-stack_15907.jpg</photo_local_path>
+          <bio>Jim Stack is President of InvesTech Research, founded in 1980, and is nationally renowned in the industry for his historical perspective and safety-first approach to investing. His has been featured and regularly quoted in The Wall Street Journal, The New York Times, Barron’s, U.S. news and World Report, USA Today, Kiplinger Magazine, and many other publications. InvesTech’s “safety first” investment philosophy has guided subscribers through the most treacherous bear markets of the past 40 years. In the late 1990s, he was criticized in the media for warning of a stock market Tech Bubble before its collapse. In 2005 InvesTech was credited with having warned investors of the impending housing bubble and the great Financial Crisis that unfolded two years later. Mr. Stack’s track record has been described by Forbes as “more or less impervious to declines.” Jim is also CEO and founder of Stack Financial Management, which has been recognized by Barron’s as one of the Top 100 Independent Financial Advisor’s in the U.S., and by Forbes as one of America’s Top 250 Wealth Advisors.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Monetary Showdown -- Fasten Your Seat Belts!</title>
+        <description>In this presentation, James Stack will discuss that Wall Street is on a collision course with the Federal Reserve as it struggles to catch up to inflation pressures that are proving to be higher and more deeply ingrained than widely believed. How far will the damage spread, and will it ultimately lead to one of the best buying opportunities in over a decade?</description>
+        <learning_outcomes>
+          <outcome>Why inflation will prove to be “stickier” and more persistent than most investors currently believe</outcome>
+          <outcome>How long will the Federal Reserve be forced to fight inflation with high interest rates and how can investors know when the bear market is over?</outcome>
+          <outcome>What does Jim Stack’s Gorilla Index and Housing Bellwether index tell investors on which areas of the market to avoid and which areas to overweight</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/ApiTVGoH3RU</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2023/03/2023-AAII-Monetary-Showdown-For-AAII-Distribution.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

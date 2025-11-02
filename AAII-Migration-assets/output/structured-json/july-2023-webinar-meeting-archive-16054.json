@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "July 2023 Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/july-2023-webinar-meeting-archive/",
+    "post_id": "16054",
+    "post_name": "july-2023-webinar-meeting-archive",
+    "post_date": "2023-06-18 15:56:05",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, July 15, 2023",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Scott Nations",
+          "title": "President of Nations Indexes, Inc.",
+          "bio": "Scott Nations is the President of Nations Indexes, Inc. and a bestselling author. Scott also spent a decade as a Contributor to CNBC and regularly appears on-air to discuss markets, current economic events, and the outlook for a variety of financial vehicles. Scott founded Nations Indexes in 2014. Nations Indexes is the world’s leading independent developer of volatility and option enhanced indexes and investment vehicles. Nations Indexes created the methodology used in the Nasdaq-100 Volatility Index (ticker symbol VOLQ). Futures on VOLQ launched on the Chicago Mercantile Exchange on October 5, 2020. Scott is also the developer of the Nations suite of large-cap volatility indexes including VolDex®(ticker symbol VOLI) and TailDex® (ticker symbol TDEX), the first measure of the market’s expectations for a “tail event” or steep drop in prices. In addition to these indexes, Nations Indexes has also created a number of option strategy indexes which combine equity indexes and other underlying asset classes with unique option strategies which generate unique risk/return profiles. Prior to founding Nations Indexes, Scott was a member of the Chicago Mercantile Exchange and was a market maker and floor manager for a leading index option trading firm. Scott is the author of The Anxious Investor which was published by HarperCollins in 2022. It examines the behavioral biases all humans fall prey to with an emphasis on how the biases manifest themselves when it comes to money and investing. The book also provides prescriptive guidelines regarding what to expect from markets and how to recognize your own biases. Scott is also the author of A History of the United States in Five Crashes, a general interest history of the five modern stock market crashes (1907, 1929,1987, 2008 and the Flash of 2010) which was published by HarperCollins in June 2017. It remains an Amazon.com “Editor’s Pick” in history. Scott is the author of Options Math for Traders, published by Wiley & Sons in 2012.",
+          "photo_id": "16049",
+          "photo_local_path": "assets/images/scott-nations_16049.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "We are crazy when it comes to money--How to use that as a shield and a weapon",
+        "description": "Humans fall prey to all sorts of behavioral biases and those biases are never more evident than when we are investing. Unfortunately, none of the biases, not a single one, makes you a BETTER investor; they all hurt your investment returns. I'll discuss the most common, most insidious investing biases to help you identify them before you fall prey to them. Our goal is to make you a better investor.",
+        "learning_outcomes": [
+          "What are the most common types of behavioral biases that investors deal with on a daily basis?",
+          "What steps can an investor take to identify biases in your own decision making?",
+          "How can an investor minimize behavioral biases to make them a better investor?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/LTUEOsRN_t0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Fritz Gilbert",
+          "title": "Author and Founder of the Award-winning Blog ``The Retirement Manifesto``",
+          "bio": "Fritz Gilbert is the author of \"Keys To A Successful Retirement\" and founder of the award-winning blog \"The Retirement Manifesto,\" a blog focused on helping people achieve a great retirement. He started writing 3 years prior to his retirement and has continued writing through his first 5 years of retirement, offering a unique glimpse into the realities of the retirement transition. Following a 33-year career in Corporate America, he retired at the age of 55 and relocated to a cabin in the Appalachian Mountains of North Georgia, where he and his wife, Jackie, enjoy running Freedom For Fido, a 501c3 that builds free fences for low-income families with dogs on chains. Fritz has been featured in various media outlets, including CNBC, Forbes, Marketwatch, and Morningstar and has become a respected voice in the retirement field.",
+          "photo_id": "16052",
+          "photo_local_path": "assets/images/fritz-gilbert_16052.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Learning to Thrive in Retirement",
+        "description": "A unique discussion on how to plan for retirement, based on the adventures of Lewis & Clark and the planning and agility required to successfully complete their journey across the American West. We'll explore the planning Lewis & Clark undertook prior to their departure, the adjustments they made en route, and the key takeaways we can all apply as we plan for our journey into the unknown world of retirement. Lessons are often more memorable when shared as stories, and this webinar will weave together the story of Lewis & Clark, the parallels between their journey and your personal journey into the vast unknown. By applying the principles they applied, you'll come away with a new perspective on how best to conquer and thrive on the frontier of retirement.",
+        "learning_outcomes": [
+          "What you can learn from the Lewis & Clark expedition that will help you thrive in retirement",
+          "Why holistic planning is one of the most important things you can do to ensure a great retirement",
+          "Why you should expect bumps in the road of retirement, and what you should do now to prepare"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/Sh1_7ctywow",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

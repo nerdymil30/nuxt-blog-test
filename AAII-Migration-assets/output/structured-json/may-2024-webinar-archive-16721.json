@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "title": "May 2024 Webinar ARCHIVE",
+    "link": "https://aaiila.org/may-2024-webinar-archive/",
+    "post_id": "16721",
+    "post_name": "may-2024-webinar-archive",
+    "post_date": "2024-11-18 11:00:00",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, May 18, 2024",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "David L. Bahnsen",
+          "title": "Founder, Managing Partner, &amp; Chief Investment Officer, The Bahnsen Group",
+          "bio": "",
+          "photo_id": "16693",
+          "photo_local_path": "assets/images/david-l-bahnsen_16693.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Investing in a Post-COVID World",
+        "description": "In this talk David Bahnsen will explain why dividend growth stocks represent a better value proposition than big cap growth stocks or technology stocks. Also, why is there so much more inherent risk in the markets then investors currently realize and what can investors do now to better position their portfolios for the current economic environment. Attend this talk and learn the real reasons why the economy has not gone into recession and why the experts got it so wrong.",
+        "learning_outcomes": [
+          "Why the economy has confounded the experts by not going into a recession",
+          "Why big cap growth and high multiple stocks  are the most vulnerable they have been since 1999",
+          "Why dividend growth is getting more attention, and deservedly so",
+          "Why the macroeconomic landscape  suggests greater respect for risk than many are willing to give markets right now"
+        ]
+      },
+      "materials": []
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Doug Ramsey, CFA, CMT",
+          "title": "Chief Investment Officer of The Leuthold Group, LLC",
+          "bio": "Doug Ramsey is the Chief Investment Officer of The Leuthold Group, LLC, and Co-Portfolio Manager of the Leuthold Core Investment Fund and the Leuthold Global Fund. In addition to his CIO and Portfolio Management responsibilities heading both the asset allocation and investment strategy committees, Doug maintains the firm’s proprietary Major Trend Index, a multi-factor model which evaluates the underlying health of the markets, both domestically and globally. He is also the lead writer for The Leuthold Group’s highly regarded institutional research publications. Doug is an accomplished speaker and has presented at a range of engagements, including the Morningstar Investment Conference, CFA societies across the U.S., Minnesota CPA Society, Minneapolis Business Bank, and a variety of Advisor and private client events throughout the country. These appearances have encompassed a variety of settings, from intimate meetings to groups of around 300 attendees. Additionally, Doug is frequently used as a resource by the financial press, including appearances on CNBC and Bloomberg TV; he has been quoted several times in Barron’s and is often referred to by the leading trade journals for a variety of topics. He is a member of the Charles Dow Award committee, and the Market Technicians Association. Before joining the Leuthold team, Doug was Chief Investment Officer of Treis Capital in Des Moines, Iowa, where he managed equity portfolios and published a quantitative equity research product. Prior to that, he worked at Principal Global Investors. Doug is a Phi Beta Kappa graduate of Coe College in Cedar Rapids, IA, where he earned a Bachelor’s degree in Economics and Business Administration. He also played four years of varsity basketball at Coe, earning Academic All-America honors in 1986-87. Doug received an MA degree in Economics from The Ohio State University in 1990; he earned his CFA designation in 1996 and became a Chartered Market Technician in 2003.",
+          "photo_id": "16695",
+          "photo_local_path": "assets/images/doug-ramsey-cfa-cmt_16695.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "A New Policy Paradigm?",
+        "description": "Doug will discuss the extremely unusual economic recovery that’s unfolded following the COVID pandemic. Aided by extremely loose monetary and fiscal policies, the U.S. economy “overshot” in 2002, producing an inflation rate that peaked at over 9% in June 2022. In response to that inflation surge, Fed Reserve slammed on the monetary brakes, but deficit spending continued to soar. Can loose fiscal policy offset the impact of monetary tightening on both the U.S. economy and the stock market?",
+        "learning_outcomes": [
+          "Linkages between the economy and stock market are unstable over time",
+          "Huge federal deficits have had a strong correlation with high corporate profit margins",
+          "Stock market returns over the last decade have been supported by an escalation in both P/E multiples\nand corporate profit margins. That’s been an extremely rewarding combination, but seems very unlikely\nto be repeated in the next 5-10 years"
+        ]
+      },
+      "materials": [
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2024/11/05-MAY-2024-05-18-Webinar.pdf",
+          "label": "Presenter’s Slides"
+        }
+      ]
+    }
+  ]
+}

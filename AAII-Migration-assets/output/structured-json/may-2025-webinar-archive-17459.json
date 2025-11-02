@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "title": "May 2025 Webinar ARCHIVE",
+    "link": "https://aaiila.org/may-2025-webinar-archive/",
+    "post_id": "17459",
+    "post_name": "may-2025-webinar-archive",
+    "post_date": "2025-05-22 17:29:37",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "17142"
+    }
+  ],
+  "event": {
+    "date": "Saturday, May 17, 2025",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Steve Chen",
+          "title": "Founder and CEO of Boldin",
+          "bio": "",
+          "photo_id": "17463",
+          "photo_local_path": "assets/images/steve-chen_17463.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Possibilities and Probabilities: Stress Testing Your Retirement Plans for Risks and Opportunities",
+        "description": "Steve Chen is the Founder and CEO of Boldin, formerly NewRetirement, a holistic financial planning platform that includes software, classes, coaching, and expert advice, helping millions of people improve their financial wellness. The company has been recognized as the best retirement solution by Forbes and the American Association of Individual Investors (AAII). Before founding Boldin, Steve built venture-backed companies in education and financial services, and worked with organizations such as Charles Schwab, Dimensional Fund Advisors, and Fidelity. He holds a degree in Systems Engineering from Boston University and hosts a podcast where he interviews thought leaders in the financial industry.",
+        "learning_outcomes": [
+          "Why DIY planning improves financial outcomes and peace of mind",
+          "How to develop your baseline plan",
+          "The importance of stress testing your plan against 5 big risks",
+          "How to see opportunities to achieve your dreams: retire earlier, spend more, or increase your wealth"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=8dc99c71-fa92-ebc6-1f48-1b6838682f20&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Alex Ebkarian",
+          "title": "COO and co-founder of Allegiance Gold",
+          "bio": "",
+          "photo_id": "17464",
+          "photo_local_path": "assets/images/alex-ebkarian_17464.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Why Gold is in a Secular Bull Market—5 Trends Fueling Its Rise",
+        "description": "Alex Ebkarian is COO and co-founder of Allegiance Gold, a leading full-service physical precious metals dealer. With over 20 years of experience in investment and financial services, Alex’s passion for gold began as a child growing up in Lebanon. He witnessed firsthand gold’s role as a safeguard during hyperinflation, and how it preserved its value and protected wealth during the Great Recession. Since 2017, Allegiance Gold has built a reputation for excellence through education, transparency and strong relationships, earning an A+ rating from the Better Business Bureau (BBB).",
+        "learning_outcomes": [
+          "Understand the dynamics of the gold market, the geopolitical and economic factors fueling its rise, and why gold becomes a worthy long-term investment in diversified portfolios.",
+          "Have a clearer understanding of different asset classes of gold, the varying degrees of risk, volatility and time duration involved, and how to determine which asset class suits you",
+          "Understand the concept of owning vs. renting gold, and whether you should start by investing in coins or bars if you choose ownership"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=45dc8cda-cc53-7102-7042-c55b4a5b0d87&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

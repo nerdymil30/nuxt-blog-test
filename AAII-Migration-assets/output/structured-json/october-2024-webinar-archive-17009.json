@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "OCTOBER 2024 Webinar ARCHIVE",
+    "link": "https://aaiila.org/october-2024-webinar-archive/",
+    "post_id": "17009",
+    "post_name": "october-2024-webinar-archive",
+    "post_date": "2024-11-20 11:40:42",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, October 19, 2024",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "James Paulsen",
+          "title": "Chief Investment Strategist, The Leuthold Group, LLC",
+          "bio": "James Paulsen is a PhD trained economist. Jim has been an investment industry professional since 1983. He recently retired as chief investment strategist for the Leuthold group, and prior to that he served as chief investment strategist at Wells Capital Management where he worked for 20 years. He is an avid speaker and writer on the economy and the markets and frequently appears on CNBC and Bloomberg TV. He earned a bachelor’s degree and a doctoral degree in economics from Iowa State University. His current thinking on the economy and the markets can be found at Paulsenperspectives.Substack.com",
+          "photo_id": "17014",
+          "photo_local_path": "assets/images/james-paulsen_17014.gif"
+        }
+      ],
+      "presentation": {
+        "title": "A Backward Fed Has Led to a Backward Bull",
+        "description": "In this talk, learn why the bull market is not ending, but just getting started! Find out why bond yields will decline more than what most investors are expecting, which will supercharge this bull. Finally, find out why the U.S. economy will not experience a recession, but rather a soft landing. Don't miss Jim Paulsen's talk. He has come out of retirement and ready to share his insights on what to expect from the markets and the economy!",
+        "learning_outcomes": [
+          "Fed actions have resulted in a Fed-Induced Bull Market Restart",
+          "Bond Yields to decline much more than expected",
+          "Lack of Private sector vulnerabilities keeps a Recession at bay"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com:443/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=cf7fc9aa-933c-cfb4-5ab0-5983ee7d17fc&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Mebane Faber",
+          "title": "Chief Investment Officer, Cambria Investment Management",
+          "bio": "Mebane Faber is the author of several books, including \"The Ivy Portfolio\" with Eric Richardson (Wiley, 2009), “Global Asset Allocation” (2015) and, most recently, \"Invest With the House\" (2016). He writes the MebFaber.com blog and The Idea Farm newsletter, and he has been featured in The New York Times, Barron’s, The New Yorker and dozens of other forums. As chief investment officer of Cambria Investment Management, he runs Cambria’s exchange-traded funds (ETFs), separate accounts and hedge funds. He graduated from the University of Virginia with a double major in engineering science and biology.",
+          "photo_id": "17016",
+          "photo_local_path": "assets/images/mebane-faber_17016.gif"
+        }
+      ],
+      "presentation": {
+        "title": "Ten Years Later: Shareholder Yield: A Better Approach to Dividend Investing",
+        "description": "Join Meb Faber, Cambria’s Chief Investment Officer, as he discusses the importance of a holistic income strategy.",
+        "learning_outcomes": [
+          "Dividend and buyback strategy considerations",
+          "Today’s market environment, historical performance, and risk",
+          "Key differences between US and foreign stock markets."
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=60fd3999-d66c-5535-e5d9-948ce29786e8&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

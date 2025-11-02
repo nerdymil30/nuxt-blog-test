@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>NOVEMBER 2024 Webinar ARCHIVE</title>
+    <link>https://aaiila.org/november-2024-webinar-archive/</link>
+    <post_id>17034</post_id>
+    <post_name>november-2024-webinar-archive</post_name>
+    <post_date>2024-11-21 11:55:13</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, November 16, 2024</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Christine Short</name>
+          <title>Head of Research, Global Corporate Events | Wall Street Horizon, a TMX Company</title>
+          <photo_id>17037</photo_id>
+          <photo_local_path>assets/images/christine-short_17037.jpg</photo_local_path>
+          <bio>Christine Short, Head of Global Corporate Events Research at Wall Street Horizon, a TMX Company, is focused on analyzing and publishing insights on the fundamentals of publicly traded companies. A corporate earnings expert with over 15 years of experience, Christine’s research has been widely featured in top-tier financial news outlets such as WSJ, FT and Barron’s, and she has appeared on networks such as CNBC, Fox Business News, and Bloomberg. Prior to joining Wall Street Horizon, Christine covered corporate earnings research at Estimize, Standard &amp; Poors, and Thomson Reuters.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>The Art of Corporate Body Language</title>
+        <description>Corporate body language represents the non-verbal cues companies give the marketplace about their financial well-being, either intentionally or unintentionally. This is typically seen when companies change the date/time of a corporate event, or the content of that event. In the current trading environment, investors need to be a little more discerning when looking at data. The more information you have the better. Use this in conjunction with other bespoke data to build out your trading mosaic. Investors who track these changes can generate additional alpha or avoid risk in their portfolios. Academic research shows for example that when a company confirms a quarterly earnings date that is later than when they have historically reported, it’s typically a sign that the company will share bad news on their upcoming call, while moving a release date earlier would suggest the opposite.</description>
+        <learning_outcomes>
+          <outcome>How to find corporate event changes that could impact your portfolio</outcome>
+          <outcome>How to assess these changes and determine the health of any company</outcome>
+          <outcome>How to work this into your investing strategy especially around earnings season</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=e969a340-9f5c-c0b9-b411-f0bb5392b273&amp;forceDialog=0</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Paul Merriman</name>
+          <title>Founder, Merriman Financial Education Foundation</title>
+          <photo_id>17038</photo_id>
+          <photo_local_path>assets/images/paul-merriman_17038.gif</photo_local_path>
+          <bio>Paul Merriman is a nationally recognized expert on mutual funds, index investing and buy-and-hold investment strategies. He is the founder of Merriman Wealth Management, an investment advisory firm managing over $3.0 billion. Now retired, Merriman is dedicated to educating investors. He is the author of eight books, including "We're Talking Millions! 12 Simple Ways to Supercharge Your Retirement," and "Financial Fitness Forever" (McGraw-Hill, 2011). He is a regular columnist on the retirement page of MarketWatch.com and produces a weekly podcast at paulmerriman.com. Merriman is also a contributing editor to the AAII Journal. In 2012, Merriman launched the Merriman Financial Education Foundation. He received the 2021 James B. Cloonan Excellence in Investment Education Award.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>2 Funds to Own Forever, and How to Invest in Small Caps</title>
+        <description>Few equity styles generate as much love and hate as small-cap value. It boasts impressive long-term returns, but the ride can be rocky. The silver lining to that dark cloud is diversification. Portfolios that include an allocation to small-cap value have increased returns more than they've increased risk and been more resilient. For more conservative investors, Paul shows investors the long term risk and return of adding large value, small cap growth and small cap value to the S&amp;P or Total Market Index.</description>
+        <learning_outcomes>
+          <outcome>How combining the S&amp;P, large cap value, small cap growth and small cap value could double your lifetime return with lower risk</outcome>
+          <outcome>How to select the best performing factor funds</outcome>
+          <outcome>How the addition of small cap value raises expected return and safe withdrawal rate for retirees</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2024/11/11-Nov-2024-Paul-Merriman-Slides-AAII-LA-Final.pdf</url>
+          <label>Webinar Slides</label>
+          <status>not_validated</status>
+        </slides>
+        <recording>
+          <url>https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=fe1cc0cd-2a2e-fd0b-e747-51de237de1f7&amp;forceDialog=0</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

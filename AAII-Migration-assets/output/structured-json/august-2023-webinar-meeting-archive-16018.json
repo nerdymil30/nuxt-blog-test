@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "August 2023 Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/august-2023-webinar-meeting-archive/",
+    "post_id": "16018",
+    "post_name": "august-2023-webinar-meeting-archive",
+    "post_date": "2023-06-20 22:03:54",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, August 19, 2023",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Justin McNichols",
+          "title": "Chief Investment Officer for Osborne Partners",
+          "bio": "Justin McNichols is the chief investment officer for Osborne Partners, has over 20 years of experience and became a principal of the firm in 2000. Previously, he was head of equity research at Wells Fargo Asset Management. McNichols has managed over $1 billion in separate account and mutual fund assets, and is a CFA charterholder. McNichols is a member of the CFA Society San Francisco and CFA Institute. McNichols received a B.A. in economics and a MBA in finance from the University of California, Irvine.",
+          "photo_id": "16026",
+          "photo_local_path": "assets/images/justin-mcnichols_16026.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Why Most Investors Underperform",
+        "description": "The investment management industry has long focused on specializing in particular investment styles or investing in a specific style box. This methodology has led many professional and individual investors to dramatically underperform equity markets over time. In our experience, a style-agnostic approach leads to superior performance, a broader investment universe and better diversified investment portfolios.",
+        "learning_outcomes": [
+          "Why a style box mindset is outdated",
+          "Why most professional investors underperform markets",
+          "Why most individual investors underperform markets"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/OpvRbF45TU4",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Kevin Simpson",
+          "title": "CIO/Founder of Capital Wealth Planning",
+          "bio": "Kevin Simpson is the CIO/Founder of Capital Wealth Planning, a $8B money manager based in Naples FL. The firm was founded almost 20 years ago with the premise of investing in blue-chip companies that have a history of raising their dividends and coupling it with covered call writing will lead to less volatility on the market and still achieve wealth over time. The ability to share these two important investment strategies to help improve returns is a passion that Kevin enjoys sharing.",
+          "photo_id": "16023",
+          "photo_local_path": "assets/images/kevin-simpson_16023.png"
+        }
+      ],
+      "presentation": {
+        "title": "Dividend Growers and Covered Calls: A Walk Toward Wealth",
+        "description": "In listening to Kevin Simpson, you will get an insight on how a money manager digests and disseminates the constant market chatter to make clear decisive market moves no matter what the market cycle. You will get a \"look behind the curtain\" in navigating a bull, bear or even a range bound market and find ways to still make money no matter the market climate. Kevin will also discuss how historically you can hedge your portfolio in these incredibly sticky inflationary times.",
+        "learning_outcomes": [
+          "How dividend growers perform in any market cycle and how you can still make money.",
+          "Investing doesn't have to be complicated; invest in names you know",
+          "From ordinary investor to seasoned professional, a guide on using covered call writing to enhance income"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/LTRwM4jHVXY",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

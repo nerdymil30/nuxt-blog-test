@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "title": "March 2025 Webinar ARCHIVE",
+    "link": "https://aaiila.org/march-2025-webinar-archive/",
+    "post_id": "17357",
+    "post_name": "march-2025-webinar-archive",
+    "post_date": "2025-05-05 21:02:40",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "17142"
+    }
+  ],
+  "event": {
+    "date": "Saturday, March 15, 2025",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Callie Cox",
+          "title": "Chief Market Strategist, Ritholtz Wealth Management",
+          "bio": "",
+          "photo_id": "17359",
+          "photo_local_path": "assets/images/callie-cox_17359.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Mood swings: why market sentiment matters in investing",
+        "description": "Callie Cox is the Chief Market Strategist at Ritholtz Wealth Management and the author of OptirmistiCalllie, a newsletter of Wall Street-quality research for everyday Investors. She's passionate about teaching everyday investors the power of investing for their wallets and their lives. Prior to joining Ritholtz, Callie was the head of US research at eToro, one of the world's biggest social investing brokerages. Prior to eToro, she was on research teams at Ally Invest, LPL Financial, and TABB Group. She's a Business Insider contributor, and her work has been featured in major publications such as CNBC, Bloomberg, the Financial Times, Yahoo Finance and Barron's. She frequently shares market analysis on Twitter at @callieabost, and on Linkedin/Bluesky.",
+        "learning_outcomes": [
+          "Intro to myself/how I think about markets",
+          "Why sentiment matters",
+          "How to gauge the market's mood",
+          "Why the mood matters in this moment",
+          "How to use sentiment analysis in your own investing journey",
+          "How to manage your won emotions as an investor"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=3352bb28-a7b6-7262-020b-be4bb4983281&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Jack Bowers",
+          "title": "Executive Editor, Fidelity Monitor &amp; Insight",
+          "bio": "",
+          "photo_id": "17360",
+          "photo_local_path": "assets/images/jack-bowers_17360.gif"
+        }
+      ],
+      "presentation": {
+        "title": "Ten Contrarian Thoughts",
+        "description": "Jack Bowers drew on his personal interest in investing and desktop publishing and a career at Hewlett-Packard to start the Fidelity Monitor newsletter in 1986. From those beginnings, he is now the CEO of Independent Fidelity Investors Inc., which publishes two newsletters, Fidelity Monitor and Fidelity Insight. He also serves as chief investment strategist of Weber Asset Management and CEO of Bowers Wealth Management Inc. Among newsletters tracked by the Hulbert Financial Digest, Fidelity Monitor is one of the top risk-adjusted performers over the last 20 years. Bowers has appeared on the Forbes Newsletter Honor Roll twice. He holds a bachelor’s degree in electrical engineering from Washington State University.",
+        "learning_outcomes": [
+          "Exercise your critical thinking skills",
+          "Be more skeptical of mass media reporting",
+          "Better understand why a bullish long-term view sets you up for success"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=cceedde0-5dca-1ab6-5191-5703a257ce71&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

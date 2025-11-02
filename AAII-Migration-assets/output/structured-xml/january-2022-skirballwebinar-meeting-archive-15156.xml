@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>JANUARY 2022 Skirball/Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/january-2022-skirball-webinar-meeting-archive/</link>
+    <post_id>15156</post_id>
+    <post_name>january-2022-skirball-webinar-meeting-archive</post_name>
+    <post_date>2021-12-10 19:18:03</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, January 15, 2022</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Cullen Roche</name>
+          <title>Founder and Chief Investment Officer of Discipline Funds</title>
+          <photo_id>15171</photo_id>
+          <photo_local_path>assets/images/cullen-roche_15171.jpg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Disciplined Investing in an Undisciplined World</title>
+        <description>The talk will focus on the many complex macro financial dynamics the world confronts today including the future of inflation, low bond yields, the emergence of cryptocurrencies and future stock market returns.</description>
+        <learning_outcomes>
+          <outcome>What causes inflation and how to prepare for future inflation dynamics</outcome>
+          <outcome>How to build a sufficiently diversified "all weather" portfolio</outcome>
+          <outcome>How a financial planning based focus can lead to better portfolio returns</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://www.youtube.com/watch?v=a1jnEsrCMA4</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Tony Danaher</name>
+          <title>President and Portfolio Manager for Guild Investment Management</title>
+          <photo_id>15297</photo_id>
+          <photo_local_path>assets/images/tony-danaher_15297.jpg</photo_local_path>
+          <bio>Tony Danaher is President and Portfolio Manager for Guild Investment Management, joining Guild in 1990. Tony earned his MBA from Pepperdine University in 1999. He studied business and accounting, having earned his BA from Maharishi International University of Management.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Is 2022 The Year for Major Disruptors to Have a Place in Your Portfolio? We Say Yes.</title>
+        <description>Tony Danaher will present Guild Investment’s general predictions for 2022, along with a discussion of what the new year is likely to bring on interest rates, crypto, potential market disruptors along with identifying opportunities for investors.</description>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://www.youtube.com/watch?v=R3fTA_G6BJM</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

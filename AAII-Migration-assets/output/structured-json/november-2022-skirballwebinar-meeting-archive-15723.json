@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "title": "NOVEMBER 2022 Skirball/Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/november-2022-skirball-webinar-meeting-archive/",
+    "post_id": "15723",
+    "post_name": "november-2022-skirball-webinar-meeting-archive",
+    "post_date": "2022-10-16 15:34:10",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, November 19, 2022",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Terri Spath, CFA, CFP",
+          "title": "Founder and Chief Investment Officer, Zuma Wealth LLC",
+          "bio": "Terri Spath, CFA, CFP founded Zuma Wealth LLC in 2021 bringing the expertise that comes with stewarding billions of dollars at some of the largest investment shops, including Franklin Templeton Investments, Mercer Advisors and Sierra Investments. Terri is a regular guest on CNBC and Bloomberg, a sought-after industry speaker and frequent contributor to numerous publications. She was recently named a “Top 10 Inspiring Women of 2022” by industry Era Magazine. Terri has earned the CFA, the CFP, and MBA in Finance from Columbia University, and an AB in Economics from the University of Michigan.",
+          "photo_id": "15738",
+          "photo_local_path": "assets/images/terri-spath-cfa-cfp_15738.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "The 4 Horsemen of the Apocalypse: Are We in a Recession? How to Invest Right Now",
+        "description": "In this lively and insightful talk, Terri Spath, Founder of Zuma Wealth LLC, will examine the four key indicators that, when taken together, determine the probability of economic recession. Studying those assessments, Terri will then discuss, evaluate, and debate the most effective ways to position and adjust investments in your portfolio, to adapt to a slow or negative growth environment combined with frothy inflation.",
+        "learning_outcomes": [
+          "Dynamic rules for stocks",
+          "How and when to adjust for volatility",
+          "The viability of fixed-income investments",
+          "Outlook for cryptocurrencies (are they all dead?)",
+          "How to ensure investment success over the next 12 months and coming years"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/1KjQt-odQU0",
+          "label": "Webinar Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2022/12/SPATH-4-horsemen-FINAL.pdf",
+          "label": "Presenter’s Slides"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Taylor R. Schulte, CFP",
+          "title": "Founder, Define Financial, &amp; Podcaster “Stay Wealthy”, “Investopedia’s #2 Ranked Financial Adviser in the US for 2022”",
+          "bio": "",
+          "photo_id": "15739",
+          "photo_local_path": "assets/images/taylor-r-schulte-cfp_15739.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Inflation Surge: Where to Invest Your Money + Pitfalls to Avoid",
+        "description": "Inflation is one of the biggest threats to retirement. With consumer prices hitting a 40-year high this year, I’m sharing how to invest when inflation is surging and why retirement investors can do to protect their purchasing power. I’m also sharing three costly mistakes to avoid-mistakes that can derail a retirement plan.",
+        "learning_outcomes": [
+          "How to factor inflation into your retirement plan",
+          "Where to invest when inflation is surging",
+          "Three costly mistakes every retirement investor should avoid"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/7X3-xTkIzds",
+          "label": "Webinar Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2022/12/Schulte-Inflation-AAII-Los-Angeles-2022.pdf",
+          "label": "Presenter’s Slides"
+        }
+      ]
+    }
+  ]
+}

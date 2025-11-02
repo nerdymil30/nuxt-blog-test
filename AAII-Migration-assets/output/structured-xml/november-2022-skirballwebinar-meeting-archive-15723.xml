@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>NOVEMBER 2022 Skirball/Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/november-2022-skirball-webinar-meeting-archive/</link>
+    <post_id>15723</post_id>
+    <post_name>november-2022-skirball-webinar-meeting-archive</post_name>
+    <post_date>2022-10-16 15:34:10</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, November 19, 2022</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Terri Spath, CFA, CFP</name>
+          <title>Founder and Chief Investment Officer, Zuma Wealth LLC</title>
+          <photo_id>15738</photo_id>
+          <photo_local_path>assets/images/terri-spath-cfa-cfp_15738.jpg</photo_local_path>
+          <bio>Terri Spath, CFA, CFP founded Zuma Wealth LLC in 2021 bringing the expertise that comes with stewarding billions of dollars at some of the largest investment shops, including Franklin Templeton Investments, Mercer Advisors and Sierra Investments. Terri is a regular guest on CNBC and Bloomberg, a sought-after industry speaker and frequent contributor to numerous publications. She was recently named a “Top 10 Inspiring Women of 2022” by industry Era Magazine. Terri has earned the CFA, the CFP, and MBA in Finance from Columbia University, and an AB in Economics from the University of Michigan.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>The 4 Horsemen of the Apocalypse: Are We in a Recession? How to Invest Right Now</title>
+        <description>In this lively and insightful talk, Terri Spath, Founder of Zuma Wealth LLC, will examine the four key indicators that, when taken together, determine the probability of economic recession. Studying those assessments, Terri will then discuss, evaluate, and debate the most effective ways to position and adjust investments in your portfolio, to adapt to a slow or negative growth environment combined with frothy inflation.</description>
+        <learning_outcomes>
+          <outcome>Dynamic rules for stocks</outcome>
+          <outcome>How and when to adjust for volatility</outcome>
+          <outcome>The viability of fixed-income investments</outcome>
+          <outcome>Outlook for cryptocurrencies (are they all dead?)</outcome>
+          <outcome>How to ensure investment success over the next 12 months and coming years</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/1KjQt-odQU0</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/12/SPATH-4-horsemen-FINAL.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Taylor R. Schulte, CFP</name>
+          <title>Founder, Define Financial, &amp;amp; Podcaster “Stay Wealthy”, “Investopedia’s #2 Ranked Financial Adviser in the US for 2022”</title>
+          <photo_id>15739</photo_id>
+          <photo_local_path>assets/images/taylor-r-schulte-cfp_15739.jpg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Inflation Surge: Where to Invest Your Money + Pitfalls to Avoid</title>
+        <description>Inflation is one of the biggest threats to retirement. With consumer prices hitting a 40-year high this year, I’m sharing how to invest when inflation is surging and why retirement investors can do to protect their purchasing power. I’m also sharing three costly mistakes to avoid-mistakes that can derail a retirement plan.</description>
+        <learning_outcomes>
+          <outcome>How to factor inflation into your retirement plan</outcome>
+          <outcome>Where to invest when inflation is surging</outcome>
+          <outcome>Three costly mistakes every retirement investor should avoid</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/7X3-xTkIzds</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/12/Schulte-Inflation-AAII-Los-Angeles-2022.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

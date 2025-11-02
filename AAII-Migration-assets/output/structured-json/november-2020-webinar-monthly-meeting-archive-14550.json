@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "NOVEMBER 2020 Webinar Monthly Meeting ARCHIVE",
+    "link": "https://aaiila.org/november-2020-webinar-monthly-meeting-archive/",
+    "post_id": "14550",
+    "post_name": "november-2020-webinar-monthly-meeting-archive",
+    "post_date": "2020-11-06 23:31:56",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    },
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    }
+  ],
+  "event": {
+    "date": "Saturday, November 21, 2020",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Steven Romick, CFA",
+          "title": "Managing Partner of FPA LP, Portfolio Manager of FPA Crescent Fund",
+          "bio": "",
+          "photo_id": "14645",
+          "photo_local_path": "assets/images/steven-romick-cfa_14645.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Value In The Age of Growth",
+        "description": "Much has been made about the death of active management. Indeed, tech darlings like Amazon and Netflix have powered much of the global equity market's returns in recent years. The goal of the FPA Crescent Fund is to generate equity-like returns over the long-term but take less risk than the stock market. Over more than two decades of investing, FPA Crescent has delivered on its stated goals. But in the face of seemingly infinite money printing, active management's future appears less certain. Join Steve for a dynamic conversation on how to navigate the current economic environment without exposing investor capital to the myriad of risks in today's equity and debt markets.",
+        "learning_outcomes": [
+          "The current market for risk assets around the world is expensive, offering little margin of safety",
+          "What you don't own can be just as important as what you do own",
+          "Differentiated, global multi-asset strategies with an absolute return focus like FPA Crescent may provide good risk-adjusted returns over full market cycles"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/IcYwpsssBeY",
+          "label": "Presenter's Webinar Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2020/12/StevenRomickPreso.pdf",
+          "label": "Presenter's Slides"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Jamie Hopkins, CFP",
+          "title": "Managing Director, Carson Group",
+          "bio": "Jamie Hopkins, Esq., LLM, MBA, CFP, RICP is the managing director of Carson Coaching and the Director of Retirement Research for Carson Group. He is a finance professor of practice at Creighton University's Heider College of Business and is the author of the book: Rewirement: Rewiring The Way You Think About Retirement Planning. Jamie helped co-create the Retirement Income Certified Professional (RICP) designation at The American College of Financial Services. He was named as a top 40 financial service professional under the age of 40 by InvestmentNews. In 2020, his work on retirement planning and the SECURE Act won an award from WealthManagement.com for being the best Thought Leadership Advisor Education in the industry.",
+          "photo_id": "14553",
+          "photo_local_path": "assets/images/jamie-hopkins-cfp_14553.png"
+        }
+      ],
+      "presentation": {
+        "title": "What Does the 2020 Election Mean for Your Retirement?",
+        "description": "Elections have consequences. This has become a popular phrase in politics over the past few years, but the reality is elections do have consequences for your finances, especially your retirement. With many crucial retirement programs like Social Security, Medicare, and Medicaid experiencing funding issues, reform could be on the way, and the election will impact the direction of reform. The markets like certainty, and uncertainty can create volatility, so where will this election cycle leave the markets? I often describe retirement planning like trying to hit a moving target in the wind. Elections can change the way the wind blows and the course of your retirement plan.",
+        "learning_outcomes": [
+          "How could the markets react to the election - do markets really prefer a blue or red wave?",
+          "What will the future of Social Security look like?",
+          "Tax and regulatory reform 2.0 - What might a change in power in DC mean for tax policy and regulatory reforms?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/_Ujl9fANXEw",
+          "label": "Presenter's Webinar Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2020/12/CP_Biden_Presidency_Impact_101120.pdf",
+          "label": "Presenter's Slides"
+        }
+      ]
+    }
+  ]
+}

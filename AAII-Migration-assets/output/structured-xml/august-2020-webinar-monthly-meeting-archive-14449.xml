@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>AUGUST 2020 Webinar Monthly Meeting ARCHIVE</title>
+    <link>https://aaiila.org/august-2020-webinar-monthly-meeting-archive/</link>
+    <post_id>14449</post_id>
+    <post_name>august-2020-webinar-monthly-meeting-archive</post_name>
+    <post_date>2020-08-28 02:31:45</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>don</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, August 22, 2020</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Ken Fisher</name>
+          <title>Founder, Executive Chairman and Co-Chief Investment Officer, Fisher Investments</title>
+          <photo_id>14460</photo_id>
+          <photo_local_path>assets/images/ken-fisher_14460.jpg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title />
+        <description>In this talk Ken will display the what and why of several semi-predictable outcomes of American elections, why most market seers must always be wrong, and have been this year and will continue to do so. Then, he will delve into the most basic market lesson to learn from the COVID-19 experience that you can apply broadly to other market phenomena, and why the 2020's weak 1st half, tied to 2019, tells you nothing about it's back half. Ken will further delve into more specific views about how he sees markets for the back half of 2020 and into 2021 focusing on tools he has long utilized including the Pessimism of Disbelief and Confirmation Bias.</description>
+        <learning_outcomes>
+          <outcome>How the 2020 bear and new bull market is the same and different than prior ones</outcome>
+          <outcome>How to know what to expect in markets from the November election regardless of who wins</outcome>
+          <outcome>How to understand why, what so many viewed as the stock market irrationally disconnected from a disastrous economy is not only rational but the way markets are supposed to work</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/O1mX0z0vZKA</url>
+          <label>PRESENTER'S WEBINAR RECORDING</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Noel Marroquin</name>
+          <title>Senior Trading Solutions Specialist, TD Ameritrade</title>
+          <photo_id>14461</photo_id>
+          <photo_local_path>assets/images/noel-marroquin_14461.png</photo_local_path>
+          <bio>Chicago-based Active Trader Business Development Team member delivering consultations on TD Ameritrade's trading platforms with over 17 years experience. Throughout my career I have focused on delivering critical information and education to traders of varying skill levels, in order to make educated decisions.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Harnessing the Power of ThinkorSwim</title>
+        <description>ThinkorSwim is the trading platform used by customers at TD Ameritrade. I will be providing a tour of ThinkorSwim to show investors how ThinkorSwim can enhance investor decision making with regards to buying or selling stocks, options, and ETFs. We will explore the numerous capabilities that ThinkorSwim can provide investors in terms of making customized charts, watchlists, navigation, and how to properly place trades.</description>
+        <learning_outcomes>
+          <outcome>How investors can use ThinkorSwim to enhance their decision making and trading when selecting stocks, options, or ETFs</outcome>
+          <outcome>How to use the various features of ThinkorSwim, such as charts, watchlists, and how to place trades</outcome>
+        </learning_outcomes>
+      </presentation>
+    </topic>
+    <topic id="3">
+      <speakers>
+        <speaker>
+          <name>Sean McLaughlin</name>
+          <title>Senior Market Strategist, Trade Ideas LLC</title>
+          <photo_id>14462</photo_id>
+          <photo_local_path>assets/images/sean-mclaughlin_14462.png</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Leverage the Power of AI for Smarter Strategy and Algorithmic Trading</title>
+        <description>Observe the Trade Ideas platform in action and see it's AI (artificial intelligence) features. Learn how Artificially Intelligent (AI) strategy can give you the power of performance without the demand for your time and energy!</description>
+        <learning_outcomes>
+          <outcome>Learn the power of algorithmic trading to minimize human error and maximize edge capture</outcome>
+          <outcome>Learn how strategies are continually optimized to perform best in current market environments</outcome>
+          <outcome>Observe the Trade Ideas platform and see its AI (artificial intelligence)
+in action</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/4GCKFrKIAKE</url>
+          <label>PRESENTER'S WEBINAR RECORDING</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

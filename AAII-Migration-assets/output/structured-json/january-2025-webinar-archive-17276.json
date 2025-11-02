@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "January 2025 Webinar ARCHIVE",
+    "link": "https://aaiila.org/january-2025-webinar-archive/",
+    "post_id": "17276",
+    "post_name": "january-2025-webinar-archive",
+    "post_date": "2025-01-15 17:45:37",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "17142"
+    }
+  ],
+  "event": {
+    "date": "Saturday, January 18, 2025",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Anthony Danaher",
+          "title": "President, Guild Investment Management",
+          "bio": "",
+          "photo_id": "17245",
+          "photo_local_path": "assets/images/anthony-danaher_17245.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Your Century-Long Legacy: Building Wealth That Spans Lives and Generations",
+        "description": "Tony Danaher joined Guild Investment Management in July 1990. As President and Partner, Mr. Danaher serves as the primary portfolio manager, performing research, and overseeing other business functions for the company, such as regulatory compliance and accounting. Tony was born in 1967. While working for Guild, he earned his M.B.A. from Pepperdine University in 1999. Prior to joining Guild, Mr. Danaher studied architecture and design at Kansas State University from 1985 to 1986, before changing disciplines to focus on accounting, and earning a B.A. in Business Administration with an emphasis in Accounting from Maharishi International University in 1990. He has also been interviewed by leading business and financial media, and participates in many investment associations and events.",
+        "learning_outcomes": [
+          "How to structure a \"Century-Ready Portfolio\" that balances longevity protection with growth potential, incorporating both traditional wisdom and modern investment tools",
+          "A practical framework for conducting family investment meetings that address both extended lifespan needs and next-generation transfer, including a plan for maintaining, modifying, and exploring investment approaches",
+          "Specific strategies to protect against the dual risks of outliving your assets and having your legacy mismanaged by heirs who prefer automated solutions to traditional investment analysis"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=a042d243-404e-c61c-6186-f67c375d2413&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Mark Skousen, Ph. D.",
+          "title": "Economist, Editor (Forecasting &amp; Strategies Newsletter), Author",
+          "bio": "",
+          "photo_id": "13119",
+          "photo_local_path": "assets/images/mark-skousen-ph-d_13119.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "The Great Rotation: Which Investments Will Do Best Under the New Trump Era, and What Investments Should be Avoided",
+        "description": "Mark Skousen, Ph.D., is editor in chief of Forecasts & Strategies, an award-winning investment newsletter (www.markskousen.com). He was named one of the top 20 living economists in the world, and in 2018, Steve Forbes awarded him a triple crown in economics for his work in economic theory, history and education. In 2014, he was appointed a presidential fellow at Chapman University. He has worked for the government (as a CIA analyst), nonprofits (president of FEE) and several for-profit companies. From 2004 to 2005, he taught economics and finance at Columbia Business School and Columbia University. He was a columnist for Forbes magazine. His investment books include \"Investing in One Lesson\" (Regnery Publishing, 2007), \"The Maxims of Wall Street\" (Capital Press, 2017) and \"A Viennese Waltz Down Wall Street: Austrian Economics for Investors\" (LFB Publishers, 2013).",
+        "learning_outcomes": [
+          "What are the greatest threats, both here and abroad, in the first presidential year?",
+          "Why price inflation is here to stay no matter who is president:  What are the best inflation hedges?",
+          "What is Trump's most dangerous policy prescription?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=13cc7557-4ac7-7f03-f3fd-3d58d60cb485&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

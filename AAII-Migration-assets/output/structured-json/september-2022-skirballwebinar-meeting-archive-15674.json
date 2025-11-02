@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "SEPTEMBER 2022 Skirball/Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/september-2022-skirball-webinar-meeting-archive/",
+    "post_id": "15674",
+    "post_name": "september-2022-skirball-webinar-meeting-archive",
+    "post_date": "2022-08-17 13:43:11",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, September 17, 2022",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Hal Reynolds, CFA",
+          "title": "Chairman and Chief Investment Officer of Los Angeles Capital",
+          "bio": "As Chief Investment Officer and Chairman of Los Angeles Capital's Investment Committee, Hal Reynolds oversees the Firm's investment process. Since co-founding the Firm in 2002, Mr. Reynolds has worked closely with the Research team to develop Investor Preference Theory, the Dynamic Alpha Stock Selection Model, and the Forward Attribution process for developing forwarding looking expected factor returns. Working with the Firm's Research Directors, he develops the firm's research goals and provides guidance on key projects to enhance the stock selection, portfolio construction, and trading processes. As a member of the Portfolio Review Committee, he works with senior members of the portfolio management team to establish key portfolio parameters for portfolio construction and rebalancing and developing procedures for monitoring and controlling portfolio risk. Mr. Reynolds has a BA from the University of Virginia and a MBA from the University of Pittsburgh.",
+          "photo_id": "15672",
+          "photo_local_path": "assets/images/hal-reynolds-cfa_15672.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Reflections on the 40 year Bull Market and expectations for the future",
+        "description": "This fall marks the 40th anniversary of the equity bull market during which equity markets have generated an impressive 11.7% annualized return. What underlying conditions created such a favorable environment and how are market conditions changing today? What drove the rise of indexing and what might we expect from active management going forward? Can investors balance sustainability goals (related to environmental, social, and governance goals) and return goals? How effective have asset class diversification strategies been and what are expected returns going forward?",
+        "learning_outcomes": [
+          "The impact of inflation, rising interest rates, COVID, and ESG on expected equity returns",
+          "How investors are balancing sustainability and return objectives",
+          "Effectiveness of active management and diversification strategies"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/n0mPebJfc-0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Frank Barbera",
+          "title": "Senior Portfolio Manager, Financial Sense Wealth Management",
+          "bio": "",
+          "photo_id": "15673",
+          "photo_local_path": "assets/images/frank-barbera_15673.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Navigating the Hyper-Stagflationary Crisis, and protect your portfolio",
+        "description": "This presentation will look at a number of elements that have produced intractable inflation and how Federal Reserve Policy is now boxed into a horrible, and likely permanent corner. From 1966 to 1981, the stock market experienced what was termed the Invisible Crash, as U.S. stock market indices lost over 70% of their purchasing power over 16 years. The current situation is likely to be a more volatile and even larger version of the same phenomenon. This presentation will show investors how they can combat what is innately a very hostile climate and reverse that polarity so they can benefit and grow their wealth over time, using but not limited to, precious metal and mining stocks.",
+        "learning_outcomes": [
+          "Understand the duality of the current Global Macro condition and the reasons why this pernicious stagflation is likely to be with us for years to come",
+          "Learn how to position your investment capital so as to protect your portfolio in the face of challenging economic headwinds",
+          "Learn about a little understood segment of the precious metals arena, that at the right time, could generate huge percentage returns, and how to zero in on some of the best ideas"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/yeK79q0Iz-E",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

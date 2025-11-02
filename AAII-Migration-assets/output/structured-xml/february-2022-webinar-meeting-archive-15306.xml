@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>FEBRUARY 2022 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/february-2022-webinar-meeting-archive/</link>
+    <post_id>15306</post_id>
+    <post_name>february-2022-webinar-meeting-archive</post_name>
+    <post_date>2022-01-17 13:20:27</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, February 19, 2022</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Peter Boockvar</name>
+          <title>Chief Investment Officer, Bleakley Financial Group</title>
+          <photo_id>15314</photo_id>
+          <photo_local_path>assets/images/peter-boockvar_15314.jpg</photo_local_path>
+          <bio>In his role as Chief Investment Officer, Peter leads the team that is responsible for the development, management and oversight of Bleakley's investment management program, managing the investment committee, and setting the firm's overall investment philosophy, global investment outlook and asset allocation decisions. Peter is also the portfolio manager of a global macro multi-asset strategy and one focused on global income. Peter's market insights are frequently sought out by industry leaders and for the last 5 years has been a regular guest host and contributor on CNBC programs. He is also regularly quoted in articles for Forbes, Barron's, Bloomberg, CNN Money and a number of other news outlets. Peter graduated magna cum laude with a BBA in Finance from The George Washington University.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Inflation Is Not So Transitory</title>
+        <description>Peter's presentation will focus on inflation and monetary policy, and how best investors can maneuver through what will be a more challenging macro landscape. Peter will discuss which factors to look at in deciding whether inflation is temporary or of a more permanent nature. Secondly, how will central bankers respond to rising and persistent inflation, and how should investors position themselves for the year ahead.</description>
+        <learning_outcomes>
+          <outcome>Learn why inflation is not transitory</outcome>
+          <outcome>Learn how central bankers will most likely respond to the current inflationary landscape</outcome>
+          <outcome>Learn how best to maneuver through these markets</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/p8fO12zk8jg</url>
+          <label>Presenter's Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/03/01-BOOCKVAR-Inflation-is-not-transitory-Oct-2021.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Barry C. Knapp</name>
+          <title>Managing Partner, Director of Research-Ironsides Macroeconomics, LLC</title>
+          <photo_id>15315</photo_id>
+          <photo_local_path>assets/images/barry-c-knapp_15315.jpg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>It's Never Different This Time</title>
+        <description>My interest in macroeconomics began during a period when Milton Friedman and Paul Samuelson renewed the post-WWII debate over the role of government in economic policy while studying economics at the University of Rhode Island. The battle between those drawn to the fatal conceit of central planning, and what Friedrich Hayek called 'the spontaneous economic order, is again a central economic question in the aftermath of the Global Financial Crisis and the Covid-19 pandemic. Classic economic liberalism is in retreat, just as the world's reserve currency is testing the limits of our sovereign debt borrowing capacity. You will get the historical perspective from a long-time participant</description>
+        <learning_outcomes>
+          <outcome>Why monetary policy normalization will leave the markets prone to risk-off shocks but will not negatively impact earnings and growth</outcome>
+          <outcome>How the pandemic was a positive productivity and inflationary shock, at the opposite of the global financial crisis</outcome>
+          <outcome>Why excessive government debt is inflationary and private sector debt is deflationary. This is another significant difference between the financial crisis and the pandemic that the Fed and most market participants failed to recognize</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/6gbj0wII6zw</url>
+          <label>Presenter's Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/03/02-KNAPP-Ironsides-Macroeconomics-AAII-Presentation-February-2022.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

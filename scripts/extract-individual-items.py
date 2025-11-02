@@ -3,16 +3,26 @@
 Extract Individual Meeting Items to Separate XML Files
 Splits the main WordPress XML export into individual item files for easier analysis
 Removes all useless WordPress metadata, keeps only essential fields and useful postmeta
+Filters for published posts from 2021 onwards
 """
 
 import xml.etree.ElementTree as ET
 from pathlib import Path
 import re
 import copy
+from datetime import datetime
 
 PROJECT_ROOT = Path(__file__).parent.parent
 XML_FILE = PROJECT_ROOT / 'AAII-Migration-assets' / 'aaiilaorg.WordPress.2025-11-01.xml'
-OUTPUT_DIR = PROJECT_ROOT / 'AAII-Migration-assets' / 'individual-posts'
+OUTPUT_BASE_DIR = PROJECT_ROOT / 'AAII-Migration-assets' / 'individual-posts'
+
+# Category-based output directories
+OUTPUT_DIRS = {
+    'monthly': OUTPUT_BASE_DIR / 'monthly-meetings',
+    'strategic': OUTPUT_BASE_DIR / 'strategic-investing',
+    'retirement': OUTPUT_BASE_DIR / 'retirement-investing',
+    'other': OUTPUT_BASE_DIR / 'other'
+}
 
 def sanitize_filename(text):
     """Convert text to filename-safe format"""
@@ -25,6 +35,33 @@ def sanitize_filename(text):
     # Remove leading/trailing hyphens
     text = text.strip('-')
     return text
+
+def determine_category_folder(category_text):
+    """
+    Determine which folder to use based on WordPress category.
+    Returns: 'monthly', 'strategic', 'retirement', or 'other'
+    """
+    if not category_text:
+        return 'other'
+
+    category_lower = category_text.lower()
+
+    # Check for Strategic Investing
+    if 'strategic' in category_lower and 'investing' in category_lower:
+        return 'strategic'
+
+    # Check for Retirement
+    if 'retirement' in category_lower:
+        return 'retirement'
+
+    # Check for Monthly Meetings (Hotel Angeleno, Skirball, etc.)
+    if ('hotel' in category_lower and 'angeleno' in category_lower) or \
+       ('monthly' in category_lower and 'meeting' in category_lower) or \
+       'skirball' in category_lower:
+        return 'monthly'
+
+    # Default to other
+    return 'other'
 
 def should_keep_postmeta(meta_key):
     """
@@ -80,11 +117,13 @@ def main():
         return
 
     print(f"Parsing: {XML_FILE}")
-    print(f"Output directory: {OUTPUT_DIR}\n")
+    print(f"Output base directory: {OUTPUT_BASE_DIR}\n")
 
-    # Create output directory
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    print(f"Created output directory: {OUTPUT_DIR}\n")
+    # Create all output directories
+    for category_key, output_dir in OUTPUT_DIRS.items():
+        output_dir.mkdir(parents=True, exist_ok=True)
+        print(f"Created directory: {output_dir}")
+    print()
 
     # Parse XML
     tree = ET.parse(XML_FILE)
@@ -116,9 +155,17 @@ def main():
     # Filter for meeting archive posts
     meeting_count = 0
     extracted_count = 0
+    skipped_status_count = 0
+    skipped_date_count = 0
+    category_counts = {
+        'monthly': 0,
+        'strategic': 0,
+        'retirement': 0,
+        'other': 0
+    }
 
     print("=" * 80)
-    print("EXTRACTING MEETING ARCHIVE POSTS")
+    print("EXTRACTING PUBLISHED MEETING ARCHIVE POSTS (2021 ONWARDS)")
     print("=" * 80)
 
     for item in items:
@@ -132,18 +179,50 @@ def main():
 
             # Only process posts, not attachments
             if post_type == 'post':
+                # Check if post is published
+                status_elem = item.find('wp:status', namespaces)
+                status = status_elem.text if status_elem is not None else ""
+
+                if status != 'publish':
+                    skipped_status_count += 1
+                    print(f"SKIPPED (status={status}): {title}")
+                    continue
+
+                # Check if post is from 2021 onwards
+                post_date_elem = item.find('wp:post_date', namespaces)
+                if post_date_elem is not None and post_date_elem.text:
+                    try:
+                        post_date = datetime.strptime(post_date_elem.text, '%Y-%m-%d %H:%M:%S')
+                        if post_date.year <= 2019:
+                            skipped_date_count += 1
+                            print(f"SKIPPED (year={post_date.year}): {title}")
+                            continue
+                    except ValueError:
+                        # If date parsing fails, skip to be safe
+                        skipped_date_count += 1
+                        print(f"SKIPPED (invalid date): {title}")
+                        continue
+
                 meeting_count += 1
 
                 # Get post ID for filename
                 post_id_elem = item.find('wp:post_id', namespaces)
                 post_id = post_id_elem.text if post_id_elem is not None else 'unknown'
 
+                # Extract category to determine output folder
+                category_elem = item.find('category[@domain="category"]')
+                category_text = category_elem.text if category_elem is not None else ""
+
+                # Determine which folder based on category
+                category_folder = determine_category_folder(category_text)
+                output_dir = OUTPUT_DIRS[category_folder]
+
                 # Sanitize title for filename
                 safe_title = sanitize_filename(title)
 
                 # Generate filename
                 filename = f"{safe_title}-{post_id}.xml"
-                filepath = OUTPUT_DIR / filename
+                filepath = output_dir / filename
 
                 try:
                     # Create a minimal XML document with just this item
@@ -175,8 +254,10 @@ def main():
                     tree_out.write(filepath, encoding='utf-8', xml_declaration=True)
 
                     extracted_count += 1
+                    category_counts[category_folder] += 1
                     postmeta_removed = postmeta_count - postmeta_kept
-                    print(f"{extracted_count}. {filename} (removed {postmeta_removed} postmeta entries, kept {postmeta_kept})")
+                    category_label = category_folder.upper()
+                    print(f"{extracted_count}. [{category_label}] {filename} (removed {postmeta_removed} postmeta, kept {postmeta_kept})")
 
                 except Exception as e:
                     print(f"ERROR extracting '{title}': {e}")
@@ -184,16 +265,32 @@ def main():
     print("\n" + "=" * 80)
     print(f"EXTRACTION COMPLETE")
     print("=" * 80)
-    print(f"Total meetings found: {meeting_count}")
-    print(f"Successfully extracted: {extracted_count}")
-    print(f"Output directory: {OUTPUT_DIR}")
+    total_found = meeting_count + skipped_status_count + skipped_date_count
+    print(f"Total archive posts found: {total_found}")
+    print(f"Published posts from 2021+ extracted: {extracted_count}")
+    print(f"Skipped (non-published status): {skipped_status_count}")
+    print(f"Skipped (2020 or earlier): {skipped_date_count}")
+
+    print(f"\nCategory Breakdown:")
+    print(f"  Monthly Meetings: {category_counts['monthly']} files → {OUTPUT_DIRS['monthly']}")
+    print(f"  Strategic Investing: {category_counts['strategic']} files → {OUTPUT_DIRS['strategic']}")
+    print(f"  Retirement & Investing: {category_counts['retirement']} files → {OUTPUT_DIRS['retirement']}")
+    print(f"  Other: {category_counts['other']} files → {OUTPUT_DIRS['other']}")
+
     print(f"\nMetadata Cleanup Summary:")
     print(f"  Each file: ~95% of useless postmeta entries removed")
     print(f"  Kept fields: _thumbnail_id, stunnig_headers_bg_img")
     print(f"  Removed patterns: _wpb_*, post_single_*, _oembed_*, _yoast_*, etc.")
     print(f"\nExpected size reduction: ~70-80% per file")
-    print(f"\nTo view an individual post, open:")
-    print(f"  {OUTPUT_DIR}/july-2025-webinar-archive-17614.xml")
+
+    # Find example files in each category
+    print(f"\nTo view sample posts:")
+    for category_key, count in category_counts.items():
+        if count > 0:
+            category_dir = OUTPUT_DIRS[category_key]
+            sample_files = list(category_dir.glob('*.xml'))
+            if sample_files:
+                print(f"  [{category_key.upper()}] {sample_files[0]}")
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>MAY 2021 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/may-2021-webinar-meeting-archive/</link>
+    <post_id>14844</post_id>
+    <post_name>may-2021-webinar-meeting-archive</post_name>
+    <post_date>2021-04-17 13:59:09</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, May 15, 2021</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Sebastien Page, CFA</name>
+          <title>Head of the Global Multi-Asset Division, T. Rowe Price Group, Inc.</title>
+          <photo_id>14858</photo_id>
+          <photo_local_path>assets/images/sebastien-page-cfa_14858.jpeg</photo_local_path>
+          <bio>Sebastien Page is head of the Global Multi-Asset Division. He oversees a team of investment professionals dedicated to actively managing a broad set of Muti-asset portfolios representing more than $363 billion in assets including the firm's target date franchise. He is a member of the Asset Allocation Committee, which is responsible for tactical investment decisions across asset allocation portfolios. Sebastien's investment experience began in 2000, and he has been with T. Rowe Price since 2015. Sebastien coauthored award-winning research papers for The Journal of Portfolio Management in 2003, 2010, and 2011 and the Financial Analysts Journal in 2010 and 2014. He is the author of the book "Beyond Diversification: What Every Investor Needs to Know About Asset Allocation" and coauthor of the book "Factor Investing and Asset Allocation". Sebastien is a member of the editorial board of the Financial Analysts Journal. He regularly appears on CNBC and Bloomberg TV.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Asset Allocation: When Conventional Wisdom Fails</title>
+        <description>Is diversification a flawed concept? Should you always play it safe with your retirement savings? What's your most important investment decision? Can we forecast the future in capital markets? This presentation will dispel myths in asset allocation. Sebastien Page's book, "Beyond Diversification," relies on over 200 academic papers, investment insights from his colleagues, his 20+ years of experience in investment management, and wisdom from his father. In addition to addressing some of the big questions in asset allocation, Sebastien will discuss the current investment environment. He will address the impact of low interest rates, and whether the 60/40 portfolio is "dead".</description>
+        <learning_outcomes>
+          <outcome>How the pros forecast returns and risks in capital markets</outcome>
+          <outcome>How to make better asset allocation decisions</outcome>
+          <outcome>How to increase your odds of success in investing</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/x6_LRQLxCQE [youtu.be]</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2021/06/Page-Multi-Asset-Investing-May-2021-AAII.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Michael K. Farr</name>
+          <title>President and majority owner of Farr, Miller, &amp;amp; Washington, LLC</title>
+          <photo_id>14859</photo_id>
+          <photo_local_path>assets/images/michael-k-farr_14859.jpg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Good Riddance to 2020: Economic &amp; Market Outlook, 2021 and Beyond</title>
+        <description>2020 brought unprecedented disruption to the entire world economy, and a stunning 34% drop in the stock market in a matter of weeks. Since then, the markets have rebounded, shot past new highs, and the global economy is projected to grow at a faster rate than at any time since rebounding off the recession of 1979/1980. Michael Farr teases the threads of globalization, technology, monetary largesse, and rebounding demand to give his thoughts on where new opportunities -and emerging threats- lie in the post pandemic world.</description>
+        <learning_outcomes>
+          <outcome>How will globalization, technology, and monetary largesse shape the economy and the stock market, in a post pandemic world?</outcome>
+          <outcome>What are the opportunities that lie ahead for investors going forward?</outcome>
+          <outcome>What are the threats that investors need to watch out for in order to protect their portfolios?</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/e4QWF_lnHZE</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

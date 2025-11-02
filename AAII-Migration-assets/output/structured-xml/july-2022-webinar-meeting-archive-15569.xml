@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>JULY 2022 Webinar Meeting Archive</title>
+    <link>https://aaiila.org/july-2022-webinar-meeting-archive/</link>
+    <post_id>15569</post_id>
+    <post_name>july-2022-webinar-meeting-archive</post_name>
+    <post_date>2022-06-19 11:18:53</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, July 16, 2022</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Victoria Fernandez</name>
+          <title>Chief Market Strategist, Crossmark Global Advisors</title>
+          <photo_id>15565</photo_id>
+          <photo_local_path>assets/images/victoria-fernandez_15565.jpg</photo_local_path>
+          <bio>Victoria Fernandez joined Crossmark in July 2012 and serves as the Chief Market Strategist. She works with the firm's executive and research teams to analyze current market trends and provide comments to the media and public around Crossmark's investment outlook. She is also responsible for managing the Fixed Income Investment team and serves as Portfolio Manager on the firm's taxable fixed income products. Born and raised in Houston, Texas, Victoria remained in her hometown to earn her Bachelor of Arts from Rice University. She also earned her MBA from the May's Business School at Texas A&amp;M University and is a CFA Charter holder. As an active member of her community , Victoria has served on the boards of local non-profit organizations and religious institutions.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Tug-of-War--Who Wins in 2022?</title>
+        <description>The market has been in a tug-of-war for the majority of the year and the question is which side will be able to finally pull the rope all the way over? We have earnings and a strong consumer on one side versus high valuations and inflation on the other. We will walk through our analysis of the economy and discuss where we see all the factors landing over the next 12-18 months including which sectors may have the greatest support in this environment.</description>
+        <learning_outcomes>
+          <outcome>Crossmark's economic outlook for 2022 and beyond</outcome>
+          <outcome>Where we see opportunities in the market</outcome>
+          <outcome>How you can align your investments with your values</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://www.youtube.com/watch?v=KYjtiIs5BiQ</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/07/PDF-FINAL-Victorias-New-Deck-7.13.22-.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Laurence Kotlikoff, Ph.D</name>
+          <title>Professor of Economics at Boston University</title>
+          <photo_id>15568</photo_id>
+          <photo_local_path>assets/images/laurence-kotlikoff-phd_15568.jpg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Why Conventional Investing is All Wrong</title>
+        <description>Conventional financial advice is based on running Monte Carlo simulations entailing households making three fundamental mistakes--saving the wrong amount pre-retirement, spending the wrong amount post-retirement, and never adjusting saving before retirement or spending after retirement regardless of whether the household earns enormous returns or loses its shirt. .</description>
+        <learning_outcomes>
+          <outcome>You can invest in the stock market with absolutely no risk to your basic living standard</outcome>
+          <outcome>On a risk-adjusted basis, the real return on stocks is negative</outcome>
+          <outcome>The rich should hold bonds and the poor should hold stocks</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://www.youtube.com/watch?v=nDRkCFJiVXs</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/07/Maxifi_Laurence_Jul2022.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

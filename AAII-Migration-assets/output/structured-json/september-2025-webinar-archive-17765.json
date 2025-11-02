@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "title": "September 2025 Webinar ARCHIVE",
+    "link": "https://aaiila.org/september-2025-webinar-archive/",
+    "post_id": "17765",
+    "post_name": "september-2025-webinar-archive",
+    "post_date": "2025-09-23 21:54:39",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "17142"
+    }
+  ],
+  "event": {
+    "date": "Saturday, September 20, 2025",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Dennis Lockhart",
+          "title": "Economist, Former President &amp; CEO Federal Reserve Bank of Atlanta",
+          "bio": "",
+          "photo_id": "17669",
+          "photo_local_path": "assets/images/dennis-lockhart_17669.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Fed independence, Fed Interest Rate Policy, and the Outlook for the Economy",
+        "description": "Dennis Lockhart’s career includes time in the private sector, academia, and government. From 2007 to 2017 he was president and CEO of the Federal Reserve Bank of Atlanta. In this role, Lockhart served on the Federal Reserve’s chief monetary policy body, the Federal Open Market Committee (FOMC). He is currently a distinguished professor-of-the-practice in the Nunn School of International Affairs at Georgia Tech. Early in his career, Lockhart held positions with Citicorp working in Lebanon, Saudi Arabia, Greece, Iran, New York and Atlanta. He transitioned to becoming a managing partner of a boutique private equity firm with activity in Africa and Latin America and president of the Heller International Group. Lockhart grew up in California and attended Stanford University and the John Hopkins University School of Advanced International Studies. He also attended the Senior Executive Program at the Sloan School of Management, Massachusetts Institute of Technology, and served as an officer in the US Marine Corps Reserve.",
+        "learning_outcomes": [
+          "how the Federal Open Market Committee (FOMC) makes monetary policy decisions",
+          "what Fed independence is about",
+          "what monetary policy can and cannot do"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=3f5aca72-014e-ef42-c2df-6f28f8b70603&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Talley Léger",
+          "title": "Chief Market Strategist, The Wealth Consulting Group",
+          "bio": "",
+          "photo_id": "17668",
+          "photo_local_path": "assets/images/talley-léger_17668.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "The Daunting Task of Setting an S+P Target",
+        "description": "Talley Léger is the Chief Market Strategist of The Wealth Consulting Group (WCG). In this role, he is responsible for formulating and communicating his views on the economic and investment landscapes, with a focus on stocks. Mr. Léger approaches markets from a thematic, holistic perspective. Talley was recently inducted to Marquis’ Who’s Who as an honored listee and has over 25 years of experience in financial services. Prior to WCG, he was a Managing Director and the Senior Equity Strategist at Raymond James and the Senior Equity Strategist at Invesco. Mr. Léger was also the founder of Macro Vision Research (MVR) and held other prominent strategist roles at Barclays Capital, ISI, Merrill Lynch, RBC Capital Markets, and Brown Brothers Harriman. Mr. Léger is an author of the book, “From Bear to Bull With ETFs,” a four-star Amazon Best Seller.* He has been a guest columnist for The Big Picture and Data Watch on Bloomberg Brief Economics, as well as a contributing author on Seeking Alpha. Talley has been quoted widely in Associated Press, Barron’s, Bloomberg, Business Week, Dow Jones Newswires, Financial Times, MarketWatch, Morningstar Magazine, Reuters, The New York Times, and The Wall Street Journal. Mr. Léger has appeared on BBC News Business Today, Bloomberg TV, Business News Network (BNN) TV, CNBC, Fox Business, Nasdaq Trade Talks, NYSE TV, Reuters TV, Schwab Network (TD Ameritrade), The Street, ticker, Yahoo! Finance, and has spoken on Bloomberg Radio. Talley earned a Master of Science in Financial Economics and a Bachelor of Music from Boston University in 2000 and 1998, respectively. *“From Bear to Bull With ETFs” (2nd ed.), by David R. Kotok and Talley D. Léger, published by Cumberland Advisors Publishing (2014).",
+        "learning_outcomes": [
+          "Sales – What’s the top-line ($) outlook for the S&P 500?",
+          "Margins – What margin (%) should investors apply to those projected sales?",
+          "Earnings – How would those margin assumptions impact the bottom line ($)?",
+          "P/E – What multiple (x) of those earnings should investors be willing to pay?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://community.aaii.com/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=eb2e5901-c7ae-a689-4ab9-0f7d2848a370&forceDialog=0",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>APRIL 2021 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/april-2021-webinar-meeting-archive/</link>
+    <post_id>14812</post_id>
+    <post_name>april-2021-webinar-meeting-archive</post_name>
+    <post_date>2021-03-21 22:09:08</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, April 17, 2021</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Gatis Roze</name>
+          <title>Private Investor, Author, Blogger; StockMarketMastery.com, MBA, CMT</title>
+          <photo_id>14810</photo_id>
+          <photo_local_path>assets/images/gatis-roze_14810.jpg</photo_local_path>
+          <bio>Gatis Roze is a veteran full-time stock market investor who has traded his own account since 1989. He holds an MBA from the Stanford Graduate School of Business, is a chartered market technician (CMT) and is a past president of the Technical Securities Analysts Association (TSAA). Roze is also co-author of “Tensile Trading: The 10 Essential Stages of Stock Market Mastery” (Wiley, 2016). After several successful entrepreneurial ventures, he retired in his early 40s to focus on investing in the financial markets. With consistent success as a stock market trader, he began teaching investments at the post-college level in 2000. Roze regularly speaks to organizations including the Market Technicians Association (MTA), Bellevue College and AAII.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>The Most Important Investing Tools I Gave My Son</title>
+        <description>With more than 35 years of experience as a full-time investor, Gatis Roze has built a powerful, repeatable framework for successful investing. Passing that system on to his son, the lessons learned from bridging the gap between generations has been fascinating. In this presentation, he will share the investing tools, strategies and systems that have made the most impact not only in his own investing, but also in that of his son, Grayson.</description>
+        <learning_outcomes>
+          <outcome>Investment truths and essential lessons to pass on to your kids</outcome>
+          <outcome>Investing "potholes" you and your children need to avoid</outcome>
+          <outcome>How to keep yourself and your family engaged in your financial journey</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/yG1cYp8LNO8</url>
+          <label>Gatis Roze Recording - Part 1</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2021/04/Roze_AAII_LA_2021_Part1.pdf</url>
+          <label>Gatis Roze Slides - Part 1</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Grayson Roze</name>
+          <title>Author, Trading For Dummies, Vice President, StockCharts.com, Inc.</title>
+          <photo_id>14809</photo_id>
+          <photo_local_path>assets/images/grayson-roze_14809.jpeg</photo_local_path>
+          <bio>Grayson Roze is co-author of "Tensile Trading: The 10 Essential Stages of Stock Market Mastery" (Wiley, 2016) and "Trading for Dummies" (Wiley, 2017). He has worked in the financial services industry for StockCharts.com since 2012, and now serves as the business manager at the company. Roze is also the co-founder of StockMarketMastery.com. He holds a bachelor's degree from Swarthmore College, where he studied economics and psychology. At a young age, he began pursuing his interest in the financial markets by attending investment classes and starting to trade under the guidance of his father. At the age of just 18, he began investing his own account and has since become an accomplished trader in his own right at 27 years old.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>It Pays to Be Young: How to Turn Your Age Into Profits</title>
+        <description>An accomplished investor at a young age, Grayson Roze has learned how time-tested strategies and proven methodologies can be adapted to the younger investor. At the age of 27, he brings a unique perspective on the markets and has learned how to put his age to work for him. In this presentation, he will share the lessons that all young investors need to know to start early and put themselves far ahead financially in their twenties and thirties.</description>
+        <learning_outcomes>
+          <outcome>Why the miracle of compounding is more important than your salary</outcome>
+          <outcome>How "observational investing" can help you profit from the world around you</outcome>
+          <outcome>How to empower yourself with a focus on financial health</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/mLWBMrw2VyQ</url>
+          <label>Grayson Roze Recording - Part 2</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2021/04/Roze_AAII_LA_2021_Part2.pdf</url>
+          <label>Grayson Roze Slides - Part 2</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="3">
+      <presentation>
+        <title>Passing the Financial Baton: But Still Investing Together</title>
+        <description>Working together as a father-son investment team, Gatis and Grayson Roze manage assets, both together and independently. In this final presentation of the day, they will take the stage together to share their experiences, revealing the most important takeaways you need to understand and embrace as you pass the financial baton from one generation to the next.</description>
+        <learning_outcomes>
+          <outcome>How to think together and make investing a joint venture</outcome>
+          <outcome>What works and what doesn't when navigating family finance</outcome>
+          <outcome>How a combined cross-generational perspective can yield profitable insights</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/bvTfOVGehl0</url>
+          <label>Roze Duo Recording - Part 3</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2021/04/Roze_AAII_LA_2021_Part3.pdf</url>
+          <label>Roze Duo Slides - Part 3</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

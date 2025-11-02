@@ -1,0 +1,309 @@
+{
+  "total_files": 50,
+  "processed_files": 50,
+  "total_images_downloaded": 100,
+  "total_images_failed": 0,
+  "files": [
+    {
+      "filename": "april-2021-webinar-meeting-archive-14812.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "april-2022-webinar-meeting-archive-15408.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "april-2024-skirballwebinar-archive-16632.json",
+      "status": "success",
+      "images_downloaded": 1,
+      "images_failed": 0
+    },
+    {
+      "filename": "april-2025-hotel-angelenowebinar-archive-17525.json",
+      "status": "success",
+      "images_downloaded": 3,
+      "images_failed": 0
+    },
+    {
+      "filename": "august-2020-webinar-monthly-meeting-archive-14449.json",
+      "status": "success",
+      "images_downloaded": 3,
+      "images_failed": 0
+    },
+    {
+      "filename": "august-2023-webinar-meeting-archive-16018.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "december-2020-webinar-bonus-meeting-archive-14581.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "february-2021-webinar-meeting-archive-14696.json",
+      "status": "success",
+      "images_downloaded": 1,
+      "images_failed": 0
+    },
+    {
+      "filename": "february-2022-webinar-meeting-archive-15306.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "february-2023-webinar-meeting-archive-15863.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "february-2024-webinar-archive-16521.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "february-2025-webinar-archive-17356.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "january-2021-webinar-meeting-archive-14674.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "january-2022-skirballwebinar-meeting-archive-15156.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "january-2023-skirballwebinar-meeting-archive-15796.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "january-2025-webinar-archive-17276.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "july-2021-webinar-meeting-archive-14954.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "july-2022-webinar-meeting-archive-15569.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "july-2023-webinar-meeting-archive-16054.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "july-2025-webinar-archive-17614.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "june-2020-webinar-bonus-meeting-archive-14287.json",
+      "status": "success",
+      "images_downloaded": 1,
+      "images_failed": 0
+    },
+    {
+      "filename": "june-2021-webinar-meeting-archive-14907.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "june-2022-webinar-meeting-archive-15514.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "june-2024-webinar-archive-16740.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "june-2025-webinar-archive-17565.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "march-2021-webinar-meeting-archive-14750.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "march-2022-skirballwebinar-meeting-archive-15322.json",
+      "status": "success",
+      "images_downloaded": 1,
+      "images_failed": 0
+    },
+    {
+      "filename": "march-2023-webinar-meeting-archive-15903.json",
+      "status": "success",
+      "images_downloaded": 1,
+      "images_failed": 0
+    },
+    {
+      "filename": "march-2024-webinar-archive-16578.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "march-2025-webinar-archive-17357.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "may-2020-webinar-monthly-meeting-archive-14234.json",
+      "status": "success",
+      "images_downloaded": 0,
+      "images_failed": 0
+    },
+    {
+      "filename": "may-2021-webinar-meeting-archive-14844.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "may-2022-skirballwebinar-meeting-archive-15356.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "may-2023-webinar-meeting-archive-15978.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "may-2024-webinar-archive-16721.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "may-2025-webinar-archive-17459.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "november-2020-webinar-monthly-meeting-archive-14550.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "november-2021-webinar-meeting-archive-15085.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "november-2022-skirballwebinar-meeting-archive-15723.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "november-2023-skirballwebinar-archive-16287.json",
+      "status": "success",
+      "images_downloaded": 5,
+      "images_failed": 0
+    },
+    {
+      "filename": "november-2024-webinar-archive-17034.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "october-2021-webinar-meeting-archive-15044.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "october-2023-webinar-meeting-archive-16225.json",
+      "status": "success",
+      "images_downloaded": 1,
+      "images_failed": 0
+    },
+    {
+      "filename": "october-2024-webinar-archive-17009.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "october-2025-hotel-angeleno-webinar-archive-17801.json",
+      "status": "success",
+      "images_downloaded": 5,
+      "images_failed": 0
+    },
+    {
+      "filename": "september-2020-webinar-monthly-meeting-archive-14436.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "september-2021-webinar-meeting-archive-14996.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "september-2022-skirballwebinar-meeting-archive-15674.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "september-2023-skirballwebinar-archive-16194.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    },
+    {
+      "filename": "september-2025-webinar-archive-17765.json",
+      "status": "success",
+      "images_downloaded": 2,
+      "images_failed": 0
+    }
+  ],
+  "timestamp": "2025-11-02 00:18:15"
+}

@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "March 2024 Webinar ARCHIVE",
+    "link": "https://aaiila.org/march-2024-webinar-archive/",
+    "post_id": "16578",
+    "post_name": "march-2024-webinar-archive",
+    "post_date": "2024-11-17 11:10:40",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, March 16, 2024",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Adam Parker",
+          "title": "CEO &amp; Founder of Trivariate Research LP",
+          "bio": "Adam Parker brings 20 years of experience in equities, including four years on the buy side and 18 years on sell side to Trivariate Research LP. Prior to Trivariate Research, Adam was the founder and lead portfolio manager of Trivariate Capital, an equity long/short hedge fund. From 2017-2019 Adam worked as the Director of Quantitative Strategy at Eminence Capital, reporting to the CEO and Founder. In this role, he was responsible for building a quantitative infrastructure to conduct analysis around single stock research; risk management; diagnostics of prior trades to improving sizing and timing; and macro research. Between 2010 and early 2017, Adam was the Chief US Equity Strategist and Director of Global Quantitative Research at Morgan Stanley, where he was acknowledged as a top strategist and quantitative researcher multiple times by Institutional Investor magazine and named the #1 Strategist by portfolio managers in Greenwich Associates’ Greenwich Survey. Adam was a member of Morgan Stanley’s Global Investment Committee, a seven-person group responsible for asset allocation recommendations for the firm’s $2 trillion private wealth network. Prolific in publishing research, Adam co-authored a ground-breaking paper on gender diversity as a risk factor. In addition to developing equity models and risk management tools, he managed a long-only paper portfolio of approximately 50 US stocks that was published on a weekly basis and strongly outperformed the market over six years. In the weekly Global Macro Forum he ran, Adam shared his research and insights on key macro issues with colleagues and clients. From June 1999 to August 2010, Adam worked at Sanford C. Bernstein & Co., which he joined as a Junior Quantitative Researcher. Quickly promoted to the role of fundamental US semiconductor analyst in 2001, Adam was the #1 Institutional Investor-ranked semiconductor analyst from 2004-2006. In 2007, he was promoted to the role of Global Director of Research, responsible for attracting, hiring and retaining key talent in New York and London. In 2008, Adam took over as the US Equity Strategist and Global Director of Quantitative Research, where he was again recognized by both Institutional Investor and the Greenwich Survey as a top strategist and quantitative researcher. Adam holds a Ph.D. in Statistics from Boston University, an MS in Biostatistics from the University of North Carolina in Chapel Hill and a BS in Statistics from the University of Michigan in Ann Arbor.",
+          "photo_id": "16582",
+          "photo_local_path": "assets/images/adam-parker_16582.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "US Equity Market-Ways to Outperform",
+        "description": "Adam will discuss how to think about investing in US equities from the lens of an institutional investor. He will discuss the main variables that impact the overall market outlook, decisions that companies make that impact their value, risks, and opportunities.",
+        "learning_outcomes": [
+          "What are the key factors in determining the overall market, and which variables are just noise?",
+          "What are the key variables that impact a company's value?",
+          "What are the risks and opportunities for 2024 and how can an investor profit from them?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/Ba4qcBowF8E",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Chris Verrone",
+          "title": "Partner, Head of Technical &amp; Macro Research",
+          "bio": "Christopher Verrone is a partner of Strategas and is the head of the Firm’s Technical & Macro Research team. He is also a member of the Firm’s Asset Allocation committee. His regularly published research highlights actionable investment opportunities across the equity, commodity, foreign exchange, and fixed income markets. Chris is a frequent guest on CNBC, Bloomberg Television, and Fox Business, and is often quoted in the domestic and foreign financial press. He is consistently ranked among the top macro analysts on Wall Street in the annual All-America Research Survey by Institutional Investor magazine, and is particularly known for combining a rigorous examination of financial history with empirically driven analysis. Prior to joining Strategas, Mr. Verrone worked with the Economics team at International Strategy & Investment (ISI) Group and at the Foreign Policy Research Institute. Chris holds a MA in Political Science from Villanova University and a BA in International Political Economy, also from Villanova. He is also active with the Delbarton School Alumni Association. Chris, his wife, Caroline, and their three children, Maggie, Reagan, and Connor reside in Connecticut.",
+          "photo_id": "16580",
+          "photo_local_path": "assets/images/chris-verrone_16580.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "The Good, the Bad, & the Ugly... Making Money in the New Macro Regime",
+        "description": "Known for combining a rigorous examination of financial history with empirically driven analysis, Chris Verrone will lead a thoughtful macro discussion touching on various asset classes, sectors, and geographies. Nearly 18 months off the market's October 2022 low, we'll evaluate the health of the current bull market and look for potential risks to the status quo. Emphasis will be on examining the market's leadership profile and iterating towards actionable investment conclusions.",
+        "learning_outcomes": [
+          "The analytical and historical framework utilized by one of Wall Street's top macro analysts",
+          "The importance of cycle and regime analysis to identify \"the rules of the game\"",
+          "And the difference between a pragmatic vs. dogmatic investment approach"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/mRt7KxbnjM0",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "OCTOBER 2021 Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/october-2021-webinar-meeting-archive/",
+    "post_id": "15044",
+    "post_name": "october-2021-webinar-meeting-archive",
+    "post_date": "2021-09-21 18:26:51",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, October 16, 2021",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Larry Hatheway, PhD",
+          "title": "Co-Founder, Jackson Hole Economics, LLC",
+          "bio": "Larry Hatheway has over 25 years experience as an economist and multi-asset investment professional. He is the co-founder, with Alexander Friedman, of Jackson Hole Economics, LLC, which offers commentary and analysis on the global economy, policy & politics, and their broad implications for capital markets. Previously, Larry worked at GAM Investments from 2015-2019 as Group Chief Economist and Global Head of Investment Solutions, where he was responsible for a team of 50 investment professionals managing over $10bn in assets. From 1992 until 2015 Larry worked at UBS Investment Bank as UBS Chief Economist (2005-15), Head of Global Asset Allocation (2001-12), Global Head of Fixed Income and Currency Strategy (1998-2001), Chief Economist, Asia (1995-98) and Senior International Economist (1992-95). Larry Hatheway holds a PhD in Economics from the University of Texas, an MA in International Studies from the Johns Hopkins University, and a BA in History and German from Whitman College.",
+          "photo_id": "15046",
+          "photo_local_path": "assets/images/larry-hatheway-phd_15046.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Turning Smiles into Frowns: Inflation and the Equity Risk Premium",
+        "description": "Like central bankers, investors prefer inflation to be low, positive and predictable. When that's the case, equity risk premiums are low and stock market valuations are high. But when inflation threatens either to turn negative or to accelerate above levels associated with \"price stability\", stock markets shudder.",
+        "learning_outcomes": [
+          "What is the equity risk premium, and how does deflation and inflation impact the equity risk premium?",
+          "What is the connection between the equity risk premium and stock market valuations?",
+          "How will changes in expected inflation effect the correlation between stocks and bonds in the post-pandemic world?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/Dxd6WMSentw",
+          "label": "WEBINAR RECORDING"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Patrick Geddes",
+          "title": "Former CEO and cofounder of Aperio Group, LLC",
+          "bio": "",
+          "photo_id": "15047",
+          "photo_local_path": "assets/images/patrick-geddes_15047.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Your Brain Is Hazardous to Your Wealth: How to avoid behavioral biases",
+        "description": "In addition to all the standard hurdles, like enduring the roller coaster ride of risky assets, as investors we also face two additional challenges, the first of which reflects the limitations of how our own brains function. The field of behavioral finance has identified a number of critical biases in investor behavior where our emotions can lead us astray. These include the illusion of control and overconfidence, which can both cause real trouble for our portfolios. The second challenge is how to interact with an investment industry that offers the paradox of both great value but also the tendency to prey upon our worst instincts for its own benefit by promising things it fan't deliver.",
+        "learning_outcomes": [
+          "The behavioral biases most harmful to long-term returns and how to avoid them",
+          "How to focus on the part of investing we actually can control more, the boring stuff like fees and taxes",
+          "How to get the most benefit from wealth or asset managers while avoiding falling for sales pitches designed to feed our cravings"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/Dxd6WMSentw",
+          "label": "WEBINAR RECORDING"
+        }
+      ]
+    }
+  ]
+}

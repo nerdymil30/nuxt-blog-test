@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "title": "February 2024 Webinar ARCHIVE",
+    "link": "https://aaiila.org/february-2024-webinar-meeting-archive/",
+    "post_id": "16521",
+    "post_name": "february-2024-webinar-meeting-archive",
+    "post_date": "2024-11-17 10:59:28",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, February 17, 2024",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Ivory Johnson",
+          "title": "Ivory Johnson, CFP®, ChFC Delancey Wealth Management, LLC",
+          "bio": "Ivory Johnson's ability to communicate intricate financial issues into easy-to-understand terms has served his clients well. With over two decades of helping families and small businesses create and protect wealth, he has seen the benefits of developing a financial game-plan. Mr. Johnson combines his extensive professional and academic experiences to diagnose an increasingly complicated world. He believes that if you can't explain it, you don't understand it, choosing the colloquial in favor of formal. Mr. Johnson has a B.S. in Finance from Penn State University, is a Certified Financial Planner (CFP®), a Chartered Financial Consultant (ChFC) and has been recognized by the Global Blockchain Association and RIA DAC for his proficiency in blockchain technology and digital assets. He is also a member of the CNBC Financial Advisor Council made up of 20 high-level financial professionals, and regularly contributes articles to CNBC.com, and has been quoted in Investment News, the Wall Street Journal, Black Enterprise, Money Magazine, Kiplinger’s and other publications. He is a member of Alpha Phi Alpha fraternity, Inc. where he was awarded the Leon N. Gordon Order of the Sphinx for his leadership and the President’s Award for his mentoring activities. He is the Immediate Past President of the 100 Black Men of Greater Washington, D.C. and received the Washington, D.C. Chamber of Commerce Non-Profit of the Year Award for the organization’s mentoring and STEM programs throughout the city during his tenure as president. In his spare time, Ivory enjoys playing golf, riding bikes, reading good books, and listening to open mic poetry. As an avid Penn State football fan, he has been known to frequent Beaver Stadium during the fall. He is also the father of a 23-year-old son who graduated from Morehouse College with a degree in economics and is reportedly off payroll.",
+          "photo_id": "16526",
+          "photo_local_path": "assets/images/ivory-johnson_16526.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "How to Play the Odds of Today",
+        "description": "The merits of a decision should be judged by the process and not solely on the outcome. In this sense, projecting an absolute result is less preferable than identifying the odds of success. This talk will review the current macroeconomic environment and what courses of action are likely to yield the best results.",
+        "learning_outcomes": [
+          "Current macroeconomic environment",
+          "Potential event risks",
+          "Asset allocation suggestions"
+        ]
+      },
+      "materials": [
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2024/11/Ivory-Johnson-AAII-Presentation.pdf",
+          "label": "Presenter's Slides"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Kevin Carter",
+          "title": "Chief Investment Officer, EMQQ Global",
+          "bio": "Kevin T. Carter is the Founder & Chief Investment Officer of EMQQ Global. While he principally considers himself an active “value” investor, he has collaborated with Princeton economist and indexing legend, Dr. Burton G. Malkiel, for more than 20 years. Together Malkiel and Carter founded eInvesting in 1999, a pioneer firm in fractional share brokerage acquired by ETRADE in 2000, and Active Index Advisors, a pioneer in “direct indexing” acquired by Natixis Asset Management in 2005. In 2006, their efforts turned to China and Emerging Markets and they launched several China focused ETFs on the NYSE with Guggenheim Partners.",
+          "photo_id": "16527",
+          "photo_local_path": "assets/images/kevin-carter_16527.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "The Future of Emerging Markets & the Rise of a Digital India",
+        "description": "India’s thriving economy and favorable demographics are creating a digital golden age, presenting an alternative emerging market exposure to China. The country is on track to be the third-largest economy in the world by the decade’s end according to Morgan Stanley. We believe that the time to invest in India is now and that the India Internet & Ecommerce Index (ticker: INQQ) could be one way for investors to gain exposure to the growth occurring today.",
+        "learning_outcomes": [
+          "What makes India the ideal emerging market",
+          "Is India like China 15 years ago?",
+          "Drastically declining tech costs ($12 smartphones)",
+          "Understanding the power of the India Stack",
+          "How to invest in India's digital transformation"
+        ]
+      },
+      "materials": []
+    }
+  ]
+}

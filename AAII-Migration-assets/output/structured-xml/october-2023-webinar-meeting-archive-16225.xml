@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>October 2023 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/october-2023-webinar-meeting-archive/</link>
+    <post_id>16225</post_id>
+    <post_name>october-2023-webinar-meeting-archive</post_name>
+    <post_date>2023-10-28 20:47:42</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, October 21, 2023</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Bruce Johnstone</name>
+          <title>Senior Managing Director and Marketing Investment Strategist, Fidelity Investments</title>
+          <photo_id>16228</photo_id>
+          <photo_local_path>assets/images/bruce-johnstone_16228.gif</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Saturday, October 21, 2023</title>
+        <description>As the war in Ukraine lingers, China is emerging from its draconian zero-Covid policy, and the U.S. economy is struggling to avoid recession, Fidelity Investments’ Bruce Johnstone will share his outlook for global economies and markets, with emphasis on corporate profit growth, inflation, interest rates, liquidity, and market valuations, given the enormity of the current geopolitical developments.</description>
+        <learning_outcomes>
+          <outcome>China’s emergence from Covid is not going well as the earlier emphasis on residential real estate as a source of growth appears to be catastrophic</outcome>
+          <outcome>The geopolitical moves around the world to a greater number of autocracies led by aged leaders is a huge risk</outcome>
+          <outcome>Market valuations depending on highly uncertain earnings growth and diminishing inflation could be nerve wracking</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2023/12/10.21.2023_AAII_Los-Angeles_SCRUBBED.pdf</url>
+          <label>Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

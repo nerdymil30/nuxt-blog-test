@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "September 2023 Skirball/Webinar ARCHIVE",
+    "link": "https://aaiila.org/september-2023-skirball-webinar-archive/",
+    "post_id": "16194",
+    "post_name": "september-2023-skirball-webinar-archive",
+    "post_date": "2023-09-17 20:58:01",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, September 23, 2023",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Gina Sanchez",
+          "title": "Chief Executive Officer of Chantico Global",
+          "bio": "",
+          "photo_id": "16145",
+          "photo_local_path": "assets/images/gina-sanchez_16145.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "On the Verge of Change",
+        "description": "The global economy is on the verge of changes that will shape how we do business, how we build wealth and how the banking system operates. Much of our experience as business people, investors and bankers has been rooted in a world where interest rates have been in secular decline, credit creation has been abundant, resources have been abundant, population has grown at the fastest pace in history and markets have expanded. We now face a future where interest rates will normalize higher, globalization will unwind and the largest segment of the population will be older. While the challenges are abundant, so too are the opportunities.",
+        "learning_outcomes": [
+          "What changes to the economy and society can investors expect for this decade and beyond",
+          "What are the challenges that investors can expect going forward, and how to protect your portfolio",
+          "What are the opportunities that investors can take advantage of in the following decades"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/pFI89XGKv4k",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Nick Atkeson",
+          "title": "Founder and Managing Partner, Delta Investment Management, LLC",
+          "bio": "Nicholas Atkeson is a founding partner of Delta Investment Management LLC, a registered investment advisory firm based in San Francisco. Prior to founding Delta Investment Management, Atkeson was a partner and portfolio manager of Delta Force Capital LLC, a San Francisco-based hedge fund from 2006 to April 2009. Prior to Delta Force Capital, Atkeson was a managing director for Banc of America Securities and Susquehanna International Group LLC. He is co-author of “Win by Not Losing: A Disciplined Approach to Building and Protecting Your Wealth in the Stock Market by Managing Your Risk” (McGraw-Hill, 2013). Atkeson graduated from Haverford College, Phi Beta Kappa with a B.A. in economics, and from Stanford University Graduate School of Business.",
+          "photo_id": "16148",
+          "photo_local_path": "assets/images/nick-atkeson_16148.gif"
+        }
+      ],
+      "presentation": {
+        "title": "How do you make money in a world where the financial experts are almost always wrong?",
+        "description": "In the past four years, the experts (investment banks, Federal Reserve, the Conference Board, CNBC, etc.) have been mostly wrong about their market projections. The magnitude of the variance between projection and reality has been enormous. In 2020, we had a pandemic and economic shut-down. The S&P 500 appreciated 18%. In 2021, the negative effects of the pandemic were supposed to hold the stock market back. The S&P 500 was up 28%. In 2022, there supposedly was no recession but the S&P 500 had an intra-year decline of 25% and there were two sequential quarters of negative GDP growth. In 2023, we entered the year with the most predicted recession in history and an expected S&P 500 earnings collapse. Year-to-date, the S&P 500 is up 19% on better than expected earnings and GDP growth. The talk will review some of the reasons for the forecasting errors and focus on actionable investment ideas that have worked and should keep working in this highly uncertain investment environment.",
+        "learning_outcomes": [
+          "What is causing the forecasts to be so wrong and when will historical financial relationships re-establish themselves",
+          "Financial innovations, especially in Exchange Traded Funds (ETFs), that allow investors to participate on the upside and protect against downside",
+          "Using volatility to your advantage in a disciplined, multi-asset investment approach."
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/QwAaal7wNn8",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

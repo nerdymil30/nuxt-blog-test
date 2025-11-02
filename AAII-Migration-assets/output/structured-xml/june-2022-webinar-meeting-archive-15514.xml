@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>JUNE 2022 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/june-2022-webinar-meeting-archive/</link>
+    <post_id>15514</post_id>
+    <post_name>june-2022-webinar-meeting-archive</post_name>
+    <post_date>2022-05-23 11:49:26</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, June 18, 2022</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Dan Niles</name>
+          <title>Founder and Portfolio Manager of the Satori Fund</title>
+          <photo_id>15542</photo_id>
+          <photo_local_path>assets/images/dan-niles_15542.jpeg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Don't fight the Fed works on the way up and down!</title>
+        <description>Since World War II, inflation (CPI) over 5% has preceded a recession every time. Oil prices doubling relative to the prior 2 year average ($54 in this case) has preceded a recession every time. 10 of the 13 prior recessions have been preceded by a tightening cycle by the Fed. 10 of the last 13 recessions have been preceded by the 10-year yield going below the 2-year yield. Any one of the above has a great track record in predicting a recession, but all of them have now occurred. This is not good for stock prices with valuations still extremely high.</description>
+        <learning_outcomes>
+          <outcome>Fed actions matter.</outcome>
+          <outcome>The highest inflation in decades changes things.</outcome>
+          <outcome>Cash might not be a bad investment option today.</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://www.youtube.com/watch?v=7sXlf3IJU3I&amp;feature=youtu.be</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://www.danniles.com/articles/2022-06-18</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Paul Merriman</name>
+          <title>Founder, Merriman Financial Education Foundation</title>
+          <photo_id>15538</photo_id>
+          <photo_local_path>assets/images/paul-merriman_15538.jpeg</photo_local_path>
+          <bio>Paul Merriman is a nationally recognized expert on mutual funds, index investing and buy-and-hold investment strategies. He is the founder of Merriman Wealth Management, an investment advisory firm managing over $3 billion. Now retired, Merriman is dedicated to educating investors. He is the author of eight books, including “We’re Talking Millions! 12 Simple Ways to Supercharge Your Retirement,” and “Financial Fitness Forever” (McGraw-Hill, 2011). He is a regular columnist on the retirement page of MarketWatch.com and produces a weekly podcast at paulmerriman.com. Merriman is also a contributing editor to the AAII Journal. In 2012, Merriman launched the Merriman Financial Education Foundation. He received the 2021 James B. Cloonan Excellence in Investment Education Award.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>The Inside Story on the "150 Portfolios Better Than Yours"</title>
+        <description>In 2014 White Coat Investor wrote a column entitled, "150 Portfolios Better Than Yours." The article included a link to a list of almost every popular model portfolio including recommendations from Vanguard, Warren Buffett, Ray Dalio, Betterment, and a host of others. The list is now over 200. In this presentation Paul compares the range of returns from many of the portfolios, plus his own recommended portfolios. The 52-year returns of the all-equity combinations ranged from less than 10 to over 14 percent. The study reviews the risks and the returns of the portfolios. Paul explores 6 different risk measurements that would help investors select the best portfolio for their needs.</description>
+        <learning_outcomes>
+          <outcome>How to select the best equity asset classes and ETFs to construct the best portfolio.</outcome>
+          <outcome>How to build a diversified portfolio of equity asset classes.</outcome>
+          <outcome>The best way to compare the long term returns of your portfolio.</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://www.youtube.com/watch?v=23dsA6vvMN4</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/07/Paul-Merriman-AAII-Los-Angeles-Chapter-Final-PDFVersion.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

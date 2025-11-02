@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>JUNE 2021 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/june-2021-webinar-meeting-archive/</link>
+    <post_id>14907</post_id>
+    <post_name>june-2021-webinar-meeting-archive</post_name>
+    <post_date>2021-05-17 09:39:12</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, June 19, 2021</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>David M. Lebovitz</name>
+          <title>Executive Director, Global Market Strategist- J.P. Morgan Asset Management</title>
+          <photo_id>14909</photo_id>
+          <photo_local_path>assets/images/david-m-lebovitz_14909.jpg</photo_local_path>
+          <bio>David Lebovitz is the Global Market Strategist for the Global Market Insights Strategy Team. In this role, David is responsible for delivering timely market and economic insights to clients across the country. Since joining the team, David has helped build the Market Insights program in the United Kingdom and Europe, has appeared on both Bloomberg TV and CNBC, and is often quoted in the financial press. David joined J.P. Morgan in 2010. Prior to joining the firm, David was a Research Analyst at Kobren Insight Management. At Kobren, David was responsible for small and mid cap equity research, and worked alongside the CIO and other analysts to construct model portfolios for investors of various risk tolerances. David obtained a B.A. in Political Science and Philosophy, with a concentration in Leadership Studies, from Williams College in 2009. He earned a dual-MBA degree from Columbia University and London Business School in 2015.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Investing in a post-COVID world</title>
+        <description>David will begin by reviewing where we stand with respect to conquering the virus, and what that means for global growth, inflation, and both monetary &amp; fiscal policy going forward. He will then address the long-term return challenge facing investors, and highlight some investment themes. David will touch on both private and public market opportunities, before closing out with some thoughts on volatility and portfolio construction.</description>
+        <learning_outcomes>
+          <outcome>The outlook for global growth/inflation and monetary/fiscal policy</outcome>
+          <outcome>Opportunities in equities, fixed income, and alternative assets</outcome>
+          <outcome>The outlook for volatility and what it means for portfolios</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://www.youtube.com/watch?v=S14sSxROvV8</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2021/06/DL-Slides_AA-II_19June2021.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Allan Roth (CFP, CPA, MBA)</name>
+          <title>Founder, Wealth Logic, LLC.</title>
+          <photo_id>14910</photo_id>
+          <photo_local_path>assets/images/allan-roth-cfp-cpa-mba_14910.jpg</photo_local_path>
+          <bio>Allan Roth is the founder of Wealth Logic, LLC, an hourly based financial planning and investment advisory firm. He is the author of "How a Second Grader Beats Wall Street" (Wiley &amp; Sons 2011) and writes for AARP, ETF.com, Financial Planning Magazine, and others. Before launching Wealth Logic, Allan's career encompassed management consulting with McKinsey &amp; Co., and corporate finance which included serving as financial officer at two multi-billion-dollar healthcare companies. Allan has taught finance and behavioral finance at the University of Denver, Colorado College, and the University of Colorado. Despite his many credentials (CFP, CPA, MBA), he remains confident that he can still keep investing simple. Being mocked on a semi-regular basis by some financial professionals for his hourly fee model and its obvious inability to make him rich, is a source of pride for Allan. His professional goal is to never be confused with Jim Cramer.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Viewing Financial Decisions Differently</title>
+        <description>The financial services industry likes to frame financial decisions in ways that are better for the industry than the consumer. These are more than investment decisions. We will look at the logic used by the industry and frame these decisions in ways that are better for you.</description>
+        <learning_outcomes>
+          <outcome>Common ways of framing financial decisions may be hazardous to your wealth</outcome>
+          <outcome>You are likely a victim of inertia- the most powerful force in the universe</outcome>
+          <outcome>Think differently about money and wealth</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/eiSvB-veRqE</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2021/06/AAII-Presentation-ALLAN-ROTH-6-19-21.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

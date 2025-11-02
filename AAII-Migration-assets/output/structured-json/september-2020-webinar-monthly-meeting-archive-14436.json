@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "title": "SEPTEMBER 2020 Webinar Monthly Meeting ARCHIVE",
+    "link": "https://aaiila.org/september-2020-webinar-monthly-meeting-archive/",
+    "post_id": "14436",
+    "post_name": "september-2020-webinar-monthly-meeting-archive",
+    "post_date": "2020-09-03 17:47:21",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "don"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, September 12, 2020",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Howard Marks",
+          "title": "Co-Founder and Co-Chairman of Oaktree Capital",
+          "bio": "Since the formation of Oaktree in 1995, Mr. Marks has been responsible for ensuring the firm's adherence to its core investment philosophy; communicating closely with clients concerning products and strategies; and contributing his experience to big-picture decisions relating to investments and corporate direction. From 1985 until 1995, Mr. Marks led the groups at The TCW Group, Inc. that were responsible for investments in distressed debt, high yield bonds, and convertible securities. Mr. Marks holds a B.S.Ec. degree cum laude from the Wharton School of the University of Pennsylvania with a major in finance and an M.B.A. in accounting and marketing from the Booth School of Business of the University of Chicago, where he received the George Hay Brown Prize. He is a CFA charterholder. Mr. Marks is a Trustee and Chairman of the Investment Committee at the Metropolitan Museum of Art.",
+          "photo_id": "14439",
+          "photo_local_path": "assets/images/howard-marks_14439.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "A Conversation With Howard Marks",
+        "description": "Please join us for this very special webinar featuring Howard Marks, Co-Founder and Co-Chairman of Oaktree Capital in his first ever address to an AAII audience. Mr. Marks is one of today's most prolific thinkers and insightful commentators on the economy and the stock market. In this webinar, Mr. Marks will entertain questions from AAII Los Angeles Chapter Board Member, Daniel Joye (Leader of our Chapter's Investment Strategies Group), as well as respond to questions from the webinar audience.",
+        "learning_outcomes": [
+          "The status of the coronavirus",
+          "How an experienced investor thinks about the economy in today's unprecedented times",
+          "The current level of the stock market"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/h4S8aks7YAY",
+          "label": "Presentation Recording"
+        },
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2020/09/Questions-for-Howard-Marks.pdf",
+          "label": "Questions For Howard Marks"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Kristina Hooper",
+          "title": "Chief Global Market Strategist, Invesco",
+          "bio": "Kristina Hooper is Chief Global Market Strategist at Invesco. In this role, she leads Invesco's Global Market Strategy (GMS) Office, which has strategists on-the-ground in North America, Europe and Asia. Ms. Hooper and her team formulate macro views of the markets and economy, examine the investment implications of those views, and share their insights with clients and the media around the world. She has regularly been quoted in The Wall Street Journal, Financial Times, The New York Times, Reuters and appears regularly on CNBC and Bloomberg TV. Ms. Hooper earned a BA degree, cum laude, from Wellesley College; a J.D. from Pace University School of Law, where she was a Trustees' Merit Scholar; an MBA in finance from New York University. Ms. Hooper is a Certified Financial Planner (CFP), Chartered Alternative Investment Analyst (CAIA), and a Certified Investment Management Analyst (CIMA) .",
+          "photo_id": "14438",
+          "photo_local_path": "assets/images/kristina-hooper_14438.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "How Investors can Survive and Thrive in a World Gone Mad!",
+        "description": "We are in an environment of extreme uncertainty. It's a challenge to craft an outlook during a pandemic, and so we will explore five possible scenarios. The shape of the recovery is of course dependent on a variety of factors: infection rates, fiscal policy, monetary policy, public health policy (including the stringency of lockdowns), and progress toward the development of therapies and a vaccine. It is also impacted by consumer and business behavior. We will explore all these factors, and discuss how we arrived at our base case scenario. We will also discuss investment implications.",
+        "learning_outcomes": [
+          "This presentation will consider five different possible scenarios/shapes for the economic recovery, including our base case",
+          "This presentation will explore the various factors that will impact the shape of the economic recovery in the US and around the world",
+          "This presentation will also explore the investment implications of the various scenarios"
+        ]
+      },
+      "materials": [
+        {
+          "type": "slides",
+          "url": "https://aaiila.org/wp-content/uploads/2020/09/Kristina-Hooper-September-2020.pdf",
+          "label": "Presenter's Slides"
+        }
+      ]
+    }
+  ]
+}

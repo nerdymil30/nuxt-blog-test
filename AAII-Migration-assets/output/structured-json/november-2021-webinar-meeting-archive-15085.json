@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "NOVEMBER 2021 Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/november-2021-webinar-meeting-archive/",
+    "post_id": "15085",
+    "post_name": "november-2021-webinar-meeting-archive",
+    "post_date": "2021-10-19 13:37:09",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, November 13, 2021",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Wade Pfau, Ph.D., CFA, RICP",
+          "title": "Principal and Director for McLean Asset Management",
+          "bio": "Wade D. Pfau, is the program director of the Retirement Income Certified Professional designation and a Professor of Retirement Income at The American College of Financial Services in King of Prussia, PA, as well as a co-director of the college's Center for Retirement Income. As well, he is a Principal and Director for McLean Asset Management. He holds a doctorate in economics from Princeton University and has published more than sixty peer-reviewed research articles in a wide variety of academic and practitioner journals. He hosts the Retirement Researcher website, and is a contributor to Forbes, Advisor Perspectives, Journal Financial Planning, and an Expert Panelist for the Wall Street Journal. Wade's newest book is Retirement Planning Guidebook: Navigating the Important Decisions for Retirement Success. Pfau holds a Doctorate in Economics and a Master's Degree from Princeton University, and Bachelor of Arts and Bachelor of Science degrees from the University of Iowa.",
+          "photo_id": "15088",
+          "photo_local_path": "assets/images/wade-pfau-phd-cfa-ricp_15088.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "Navigating the Important Decisions for Retirement Success",
+        "description": "This presentation is designed to help you navigate the key financial and non-financial decisions necessary for a successful retirement. Attendees will understand the different retirement income styles and the different risks that retirees must manage, and the retirement income tools used with different retirement sales and risks. You will also be provided with a framework to assess their retirement preparedness by comparing the value of retirement assets and liabilities. Additional comments will be provided on other important aspects for a retirement income plan, including Social Security claiming, Medicare and other health insurance decisions, such as long-term care and estate planning.",
+        "learning_outcomes": [
+          "What are the retirement income styles?",
+          "How do I determine if I am financially prepared for retirement?",
+          "What is a framework for assessing all the important retirement decisions?"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/ITEMt7iH-Bk",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Dr. Ronald D. Lee",
+          "title": "Professor Emeritus of Economics and Demography, University of California, Berkeley",
+          "bio": "Dr. Ronald D. Lee is an economic demographer (Berkeley MA, Harvard PhD) who taught in the departments of Demography and Economics at Berkeley from 1979-2014, and now does research on macroeconomic consequences of population aging. From 2010-2015 he co-chaired a National Academy of Sciences Committee on the Long-run Macroeconomic Effects of the Aging U.S. Population. He also continues to work on modeling and forecasting demographic variables including mortality, and on evolutionary biodemography and life history theory. He is the Founding Director of the Center for Economics and Demography of Aging (CEDA) and founding co-Director of National Transfer Accounts (NTA). He is an elected member of National Academy of Sciences and four other honorary societies. He is an avid hiker and tennis player.",
+          "photo_id": "15089",
+          "photo_local_path": "assets/images/dr-ronald-d-lee_15089.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "How demographic trends will bring economic change in coming decades",
+        "description": "In coming decades, demographic change will bring fundamental economic changes in the US and the global economy. Population and labor force growth will slow, populations in upper income countries will age, and lower income countries will experience demographic dividends as their labor forces grow faster than their populations. There will be many results, including: global GDP growth rates and interest rates falling, rising wages in high income countries along with rising living standards in developing countries. High income countries will experience rising government debt levels but the effect on per capital consumption are uncertain.",
+        "learning_outcomes": [
+          "Global GDP growth rates will decline by 1% as labor force growth slows and the new workers are in regions of the world where labor productivity is low, particularly sub-Saharan Africa",
+          "Population aging in upper middle income and high income countries will bring rising capital per worker, continuing to depress interest rates while raising wages",
+          "Demographic change will raise living standards in many developing countries but in high income countries it will push up government debt; net effects on per capita consumption are uncertain"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/pnO_X_a_zB8",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

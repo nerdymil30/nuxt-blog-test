@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "November 2023 Skirball/Webinar ARCHIVE",
+    "link": "https://aaiila.org/november-2023-skirball-webinar-notice/",
+    "post_id": "16287",
+    "post_name": "november-2023-skirball-webinar-notice",
+    "post_date": "2024-02-24 18:10:44",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, November 18, 2023",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "JOSH EMANUEL, CFA",
+          "title": "Chief Investment Officer, Wilshire Advisors",
+          "bio": "Josh Emanuel leads Wilshire’s investment activities, including investment strategy, manager research, portfolio management, and quantitative alpha research. He also chairs the firmware Wilshire investment Committee. Josh re-joined Wilshire in 2015 and has 20 years of industry experience. From 2004to 2010 Josh served in several roles at Wilshire, including head of manager research, head of strategy for Wilshire Funds Management, and co-chairman of Wilshire Funds Management Investment Committee. Josh has a BA in Finance from the University of Pittsburgh and holds the Chartered Financial Analyst designation.",
+          "photo_id": "16291",
+          "photo_local_path": "assets/images/josh-emanuel-cfa_16291.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "ARCHIVE MATERIALS",
+        "description": "Investors have been surprised by the performance of the economy and equity markets in 2023 and many continue to maintain a negative outlook on the belief that the long and lagging effects of interest rates will lead to an economic recession in 2024 and a correction in asset valuations. This presentation will discuss the outlook for the economy and interest rates, and the implications on asset class returns with specific focus on:",
+        "learning_outcomes": [
+          "The resilience of the American consumer and why it matters so much to the\neconomic outlook",
+          "The asset classes that have benefited the most from low interest rates and the\nimplications on future expected returns",
+          "Why sentiment and technicals might matter more than the fundamentals in the\nshort-intermediate term"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/JHfJ8pdYW94",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Todd Leavitt",
+          "title": "",
+          "bio": "",
+          "photo_id": "16318",
+          "photo_local_path": "assets/images/todd-leavitt_16318.jpg"
+        },
+        {
+          "name": "Chuck Spence",
+          "title": "",
+          "bio": "",
+          "photo_id": "16313",
+          "photo_local_path": "assets/images/chuck-spence_16313.jpg"
+        },
+        {
+          "name": "Miles Mitchell",
+          "title": "",
+          "bio": "",
+          "photo_id": "16321",
+          "photo_local_path": "assets/images/miles-mitchell_16321.jpg"
+        },
+        {
+          "name": "JC O'Gabhann",
+          "title": "",
+          "bio": "",
+          "photo_id": "16316",
+          "photo_local_path": "assets/images/jc-ogabhann_16316.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "AAII Los Angeles Chapter “Investor Journey” Panel Session",
+        "description": "Come hear how four of our Chapter members are managing their portfolios on their respective Investor Journey, each succeeding while being on a different path. Two of our panelists are “Do It Yourselfers,” one is a “Semi Do It Yourselfer” and one relies that a CFP and robo-advisor to manage most of their portfolio. Learn about the experiences and frustrations two of our panelists had while working with Financial Advisors and what action they took. Also learn how one of our panelists developed a unique hourly compensation model instead of the typical AUM fee. And finally, learn how our panelists seek to get their spouses involved and how differing investment styles/approaches can all be successful.",
+        "learning_outcomes": [
+          "How four Chapter members have managed their “Investor Journey” and how each have achieved success",
+          "Learn how four very different investment approaches have all led to successful outcomes",
+          "Hear four panelists share their journeys (the good and the bad) and in doing so stimulate your own thinking in how to approach managing your own portfolio"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/XYZARJSID7o",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>APRIL 2022 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/april-2022-webinar-meeting-archive/</link>
+    <post_id>15408</post_id>
+    <post_name>april-2022-webinar-meeting-archive</post_name>
+    <post_date>2022-03-19 20:07:00</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, April 23, 2022</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Chris Watling</name>
+          <title>CEO &amp;amp; Chief Market Strategist, Longview Economics</title>
+          <photo_id>15437</photo_id>
+          <photo_local_path>assets/images/chris-watling_15437.jpg</photo_local_path>
+          <bio>Prior to founding Longview Economics, Chris Watling worked in the City of London for 12 years with Cazenove and CAI Cheuvreux as a global economist and strategist. He also held roles as an Equity Analyst and Corporate Financier at Cazenove in the mid 1990's Chris qualified as a Chartered Accountant with KPMG and holds Master's and Bachelor's degrees in Economics. He regularly chairs and speaks at global investment conferences, is often quoted in the financial press and appears frequently on CNBC, Bloomberg and other media outlets. He is also an Ambassador for WeSeeHope - a charity which is about the generation of hope and which supports children and young people in sub-Saharan Africa affected by HIV/AIDS.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>2022: Policy Normalization and the End of TINA.</title>
+        <description>Financial markets have been heavily distorted by TINA ("there is no alternative"). Central banks, via their approach to monetary policy post the financial crisis, have forced investors up the risk curve, aided and abetted speculation and underwritten high valuations in many parts of the global financial market. With normalization of policy set to begin in earnest, the key question for investors is the following: What effect will the start of that normalization have on TINA? Has TINA created a bubble? If so, where? And how, therefore, will that impact the behavior of asset prices across the globe in 2022 and beyond? In short, how should investors position their portfolios in 2022?</description>
+        <learning_outcomes>
+          <outcome>Give attendees an overview of the outlook for the global economy, focusing on the three major economic regions (the US, Europe and China)</outcome>
+          <outcome>It will also outline the outlook for the various key asset classes for 2022 and key associated risks to watch out for</outcome>
+          <outcome>Added to which attendees should also gain a better understanding of the drivers of TINA and its underlying causes</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/km47xfwWgwc</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2022/04/Chris-Watling-AAII-LA-Chapter-23-April-2022.pdf</url>
+          <label>Presenter's Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Richard Bernstein</name>
+          <title>CEO/CIO- Richard Bernstein Advisors LLC</title>
+          <photo_id>15419</photo_id>
+          <photo_local_path>assets/images/richard-bernstein_15419.jpg</photo_local_path>
+          <bio>Richard Bernstein founded Richard Bernstein Advisors LLC (RBA) in 2009. The firm utilizes a unique top-down approach to investing, focusing on macro trends rather than individual stock selection. RBA is one of the fastest growing money management firms, is among Morningstar's Top 10 ETF Model Managers in assets and partners with some of the world's leading financial institutions. Mr. Bernstein has over 40 years' experience on Wall Street, and was formerly the Chief Investment Strategist at Merrill Lynch &amp; Co. Mr. Bernstein was voted to institutional investor magazine's annual "All-America Research Team" eighteen times, and is one of only fifty-seven analysts inducted into the institutional investor "Hall of Fame". Rich holds an MBA in finance, with Beta Gamma Sigma distinction, from New York University, and a BA in economics from Hamilton College. He has lectured on finance and economics at numerous colleges, universities and professional forums.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Investing in Volatile Markets</title>
+        <description>Markets remain as unpredictable as ever. How should investors approach uncertainty? In this webinar, Richard Bernstein will examine the critical shift in the markets- focusing on the anti-tech trade, cyclicals, consumer staples and other areas where RBA is finding opportunities and isolating risks.</description>
+        <learning_outcomes>
+          <outcome>Inflation, The Fed, economics growth expectations and market implications in 2022</outcome>
+          <outcome>How to protect and reposition our portfolio from market bubbles and risks</outcome>
+          <outcome>How RBA is uniquely positioned for the current changing market environment.</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/YUcnWVdLhcM</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

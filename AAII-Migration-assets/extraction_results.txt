@@ -1,0 +1,999 @@
+================================================================================
+BATCH V2 EXTRACTION - ALL 50 FILES
+================================================================================
+
+Found 50 XML files to process
+
+
+[1/50] Processing april-2021-webinar-meeting-archive-14812.xml
+--------------------------------------------------------------------------------
+
+Processing: april-2021-webinar-meeting-archive-14812.xml
+================================================================================
+
+✓ Extracted 3 topics
+  Topic 1: Gatis Roze
+    Title: The Most Important Investing Tools I Gave My Son...
+    Materials: 2
+      - recording: Gatis Roze Recording - Part 1
+      - slides: Gatis Roze Slides - Part 1
+  Topic 2: Grayson Roze
+    Title: It Pays to Be Young: How to Turn Your Age Into Profits...
+    Materials: 2
+      - recording: Grayson Roze Recording - Part 2
+      - slides: Grayson Roze Slides - Part 2
+  Topic 3: Joint/Unknown
+    Title: Passing the Financial Baton: But Still Investing Together...
+    Materials: 2
+      - recording: Roze Duo Recording - Part 3
+      - slides: Roze Duo Slides - Part 3
+
+✓ Generated: april-2021-webinar-meeting-archive-14812.xml
+✓ Generated: april-2021-webinar-meeting-archive-14812.json
+
+[2/50] Processing april-2022-webinar-meeting-archive-15408.xml
+--------------------------------------------------------------------------------
+
+Processing: april-2022-webinar-meeting-archive-15408.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Chris Watling
+    Title: 2022: Policy Normalization and the End of TINA....
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter's Slides
+  Topic 2: Richard Bernstein
+    Title: Investing in Volatile Markets...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: april-2022-webinar-meeting-archive-15408.xml
+✓ Generated: april-2022-webinar-meeting-archive-15408.json
+
+[3/50] Processing april-2024-skirballwebinar-archive-16632.xml
+--------------------------------------------------------------------------------
+
+Processing: april-2024-skirballwebinar-archive-16632.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Joint/Unknown
+    Title: 5 Must Knows About Retirement Spending...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Joint/Unknown
+    Title: Morningstar’s Best Ideas for 2024 and Beyond...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: april-2024-skirballwebinar-archive-16632.xml
+✓ Generated: april-2024-skirballwebinar-archive-16632.json
+
+[4/50] Processing april-2025-hotel-angelenowebinar-archive-17525.xml
+--------------------------------------------------------------------------------
+
+Processing: april-2025-hotel-angelenowebinar-archive-17525.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Feroz Ansari
+    Title: ARCHIVE MATERIALS...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Panel: Nick Atkeson, John Souter
+    Title: Investing in Innovation and Managing Downside Risk...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: april-2025-hotel-angelenowebinar-archive-17525.xml
+✓ Generated: april-2025-hotel-angelenowebinar-archive-17525.json
+
+[5/50] Processing august-2020-webinar-monthly-meeting-archive-14449.xml
+--------------------------------------------------------------------------------
+
+Processing: august-2020-webinar-monthly-meeting-archive-14449.xml
+================================================================================
+
+✓ Extracted 3 topics
+  Topic 1: Ken Fisher
+    Title: ...
+    Materials: 1
+      - recording: PRESENTER'S WEBINAR RECORDING
+  Topic 2: Noel Marroquin
+    Title: Harnessing the Power of ThinkorSwim...
+    Materials: 0
+  Topic 3: Sean McLaughlin
+    Title: Leverage the Power of AI for Smarter Strategy and Algorithmi...
+    Materials: 1
+      - recording: PRESENTER'S WEBINAR RECORDING
+
+✓ Generated: august-2020-webinar-monthly-meeting-archive-14449.xml
+✓ Generated: august-2020-webinar-monthly-meeting-archive-14449.json
+
+[6/50] Processing august-2023-webinar-meeting-archive-16018.xml
+--------------------------------------------------------------------------------
+
+Processing: august-2023-webinar-meeting-archive-16018.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Justin McNichols
+    Title: Why Most Investors Underperform...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Kevin Simpson
+    Title: Dividend Growers and Covered Calls: A Walk Toward Wealth...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: august-2023-webinar-meeting-archive-16018.xml
+✓ Generated: august-2023-webinar-meeting-archive-16018.json
+
+[7/50] Processing december-2020-webinar-bonus-meeting-archive-14581.xml
+--------------------------------------------------------------------------------
+
+Processing: december-2020-webinar-bonus-meeting-archive-14581.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Ben Carlson, CFA
+    Title: The Hardest Investing Environment Ever...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: David M. Blanchett, Ph.D., CFA, CFP
+    Title: Guaranteed Income: The Forgotten Household Asset...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter's Slides
+
+✓ Generated: december-2020-webinar-bonus-meeting-archive-14581.xml
+✓ Generated: december-2020-webinar-bonus-meeting-archive-14581.json
+
+[8/50] Processing february-2021-webinar-meeting-archive-14696.xml
+--------------------------------------------------------------------------------
+
+Processing: february-2021-webinar-meeting-archive-14696.xml
+================================================================================
+  ⚠ No TOPIC markers found - using single-speaker fallback mode
+
+✓ Extracted 1 topics
+  Topic 1: Mark Hulbert
+    Title: Saturday, February 20, 2021...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Mark Hulbert Slide Presentation
+
+✓ Generated: february-2021-webinar-meeting-archive-14696.xml
+✓ Generated: february-2021-webinar-meeting-archive-14696.json
+
+[9/50] Processing february-2022-webinar-meeting-archive-15306.xml
+--------------------------------------------------------------------------------
+
+Processing: february-2022-webinar-meeting-archive-15306.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Peter Boockvar
+    Title: Inflation Is Not So Transitory...
+    Materials: 2
+      - recording: Presenter's Recording
+      - slides: Presenter's Slides
+  Topic 2: Barry C. Knapp
+    Title: It's Never Different This Time...
+    Materials: 2
+      - recording: Presenter's Recording
+      - slides: Presenter's Slides
+
+✓ Generated: february-2022-webinar-meeting-archive-15306.xml
+✓ Generated: february-2022-webinar-meeting-archive-15306.json
+
+[10/50] Processing february-2023-webinar-meeting-archive-15863.xml
+--------------------------------------------------------------------------------
+
+Processing: february-2023-webinar-meeting-archive-15863.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Doug Ramsey
+    Title: Sowing The Seeds For A New Bull Market...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+  Topic 2: Cameron Dawson, CFA
+    Title: Brave New World or Dust Off the Old Playbook? What “Works In...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+
+✓ Generated: february-2023-webinar-meeting-archive-15863.xml
+✓ Generated: february-2023-webinar-meeting-archive-15863.json
+
+[11/50] Processing february-2024-webinar-archive-16521.xml
+--------------------------------------------------------------------------------
+
+Processing: february-2024-webinar-archive-16521.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Ivory Johnson
+    Title: How to Play the Odds of Today...
+    Materials: 1
+      - slides: Presenter's Slides
+  Topic 2: Kevin Carter
+    Title: The Future of Emerging Markets & the Rise of a Digital India...
+    Materials: 0
+
+✓ Generated: february-2024-webinar-archive-16521.xml
+✓ Generated: february-2024-webinar-archive-16521.json
+
+[12/50] Processing february-2025-webinar-archive-17356.xml
+--------------------------------------------------------------------------------
+
+Processing: february-2025-webinar-archive-17356.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Robert C. Doll, CFA
+    Title: 10 Predictions for 2025...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Amy P. Raskin
+    Title: Thematic Investing: Capitalizing on Change...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: february-2025-webinar-archive-17356.xml
+✓ Generated: february-2025-webinar-archive-17356.json
+
+[13/50] Processing january-2021-webinar-meeting-archive-14674.xml
+--------------------------------------------------------------------------------
+
+Processing: january-2021-webinar-meeting-archive-14674.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Tom Petruno
+    Title: 2021: For Investors, a Year of Promise--or Peril?...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Jeffrey Kleintop
+    Title: 2021 Global Market Outlook...
+    Materials: 0
+
+✓ Generated: january-2021-webinar-meeting-archive-14674.xml
+✓ Generated: january-2021-webinar-meeting-archive-14674.json
+
+[14/50] Processing january-2022-skirballwebinar-meeting-archive-15156.xml
+--------------------------------------------------------------------------------
+
+Processing: january-2022-skirballwebinar-meeting-archive-15156.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Cullen Roche
+    Title: Disciplined Investing in an Undisciplined World...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Tony Danaher
+    Title: Is 2022 The Year for Major Disruptors to Have a Place in You...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: january-2022-skirballwebinar-meeting-archive-15156.xml
+✓ Generated: january-2022-skirballwebinar-meeting-archive-15156.json
+
+[15/50] Processing january-2023-skirballwebinar-meeting-archive-15796.xml
+--------------------------------------------------------------------------------
+
+Processing: january-2023-skirballwebinar-meeting-archive-15796.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Sebastien Page, CFA
+    Title: Debunking the Myths of Asset Allocation...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+  Topic 2: Bob Doll, CFA, CPA
+    Title: 10 Predictions for 2023...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+
+✓ Generated: january-2023-skirballwebinar-meeting-archive-15796.xml
+✓ Generated: january-2023-skirballwebinar-meeting-archive-15796.json
+
+[16/50] Processing january-2025-webinar-archive-17276.xml
+--------------------------------------------------------------------------------
+
+Processing: january-2025-webinar-archive-17276.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Anthony Danaher
+    Title: Your Century-Long Legacy: Building Wealth That Spans Lives a...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Mark Skousen, Ph. D.
+    Title: The Great Rotation: Which Investments Will Do Best Under the...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: january-2025-webinar-archive-17276.xml
+✓ Generated: january-2025-webinar-archive-17276.json
+
+[17/50] Processing july-2021-webinar-meeting-archive-14954.xml
+--------------------------------------------------------------------------------
+
+Processing: july-2021-webinar-meeting-archive-14954.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Micky Jagirdar
+    Title: ...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Ben Johnson, CFA
+    Title: The Ins and Outs of Investing With ETFs...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: july-2021-webinar-meeting-archive-14954.xml
+✓ Generated: july-2021-webinar-meeting-archive-14954.json
+
+[18/50] Processing july-2022-webinar-meeting-archive-15569.xml
+--------------------------------------------------------------------------------
+
+Processing: july-2022-webinar-meeting-archive-15569.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Victoria Fernandez
+    Title: Tug-of-War--Who Wins in 2022?...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+  Topic 2: Laurence Kotlikoff, Ph.D
+    Title: Why Conventional Investing is All Wrong...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+
+✓ Generated: july-2022-webinar-meeting-archive-15569.xml
+✓ Generated: july-2022-webinar-meeting-archive-15569.json
+
+[19/50] Processing july-2023-webinar-meeting-archive-16054.xml
+--------------------------------------------------------------------------------
+
+Processing: july-2023-webinar-meeting-archive-16054.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Scott Nations
+    Title: We are crazy when it comes to money--How to use that as a sh...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Fritz Gilbert
+    Title: Learning to Thrive in Retirement...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: july-2023-webinar-meeting-archive-16054.xml
+✓ Generated: july-2023-webinar-meeting-archive-16054.json
+
+[20/50] Processing july-2025-webinar-archive-17614.xml
+--------------------------------------------------------------------------------
+
+Processing: july-2025-webinar-archive-17614.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Dan Niles
+    Title: Dreaming of Sleigh Bells, but Thinking I will Receive Coal...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+  Topic 2: Kim Forrest
+    Title: What the Heck is Happening in the Markets!?!?! -First Princi...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+
+✓ Generated: july-2025-webinar-archive-17614.xml
+✓ Generated: july-2025-webinar-archive-17614.json
+
+[21/50] Processing june-2020-webinar-bonus-meeting-archive-14287.xml
+--------------------------------------------------------------------------------
+
+Processing: june-2020-webinar-bonus-meeting-archive-14287.xml
+================================================================================
+  ⚠ No TOPIC markers found - using single-speaker fallback mode
+
+✓ Extracted 1 topics
+  Topic 1: Gary Karz, CFA
+    Title: Thursday, June 4, 2020...
+    Materials: 2
+      - recording: View Presentation Recording
+      - slides: View Slides Only
+
+✓ Generated: june-2020-webinar-bonus-meeting-archive-14287.xml
+✓ Generated: june-2020-webinar-bonus-meeting-archive-14287.json
+
+[22/50] Processing june-2021-webinar-meeting-archive-14907.xml
+--------------------------------------------------------------------------------
+
+Processing: june-2021-webinar-meeting-archive-14907.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: David M. Lebovitz
+    Title: Investing in a post-COVID world...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter's Slides
+  Topic 2: Allan Roth (CFP, CPA, MBA)
+    Title: Viewing Financial Decisions Differently...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter's Slides
+
+✓ Generated: june-2021-webinar-meeting-archive-14907.xml
+✓ Generated: june-2021-webinar-meeting-archive-14907.json
+
+[23/50] Processing june-2022-webinar-meeting-archive-15514.xml
+--------------------------------------------------------------------------------
+
+Processing: june-2022-webinar-meeting-archive-15514.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Dan Niles
+    Title: Don't fight the Fed works on the way up and down!...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+  Topic 2: Paul Merriman
+    Title: The Inside Story on the "150 Portfolios Better Than Yours"...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+
+✓ Generated: june-2022-webinar-meeting-archive-15514.xml
+✓ Generated: june-2022-webinar-meeting-archive-15514.json
+
+[24/50] Processing june-2024-webinar-archive-16740.xml
+--------------------------------------------------------------------------------
+
+Processing: june-2024-webinar-archive-16740.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Chris Watling
+    Title: Rotate, Rotate, Rotate! Why the Magnificent 7 Won't Dominate...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+  Topic 2: Marilyn Cohen
+    Title: Suffering from Bond Strategy Fatigue? The Doctor is in...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+
+✓ Generated: june-2024-webinar-archive-16740.xml
+✓ Generated: june-2024-webinar-archive-16740.json
+
+[25/50] Processing june-2025-webinar-archive-17565.xml
+--------------------------------------------------------------------------------
+
+Processing: june-2025-webinar-archive-17565.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Dr. Charles Lieberman,
+    Title: Trump, Tariffs and the Economic and Investment Outlook...
+    Materials: 3
+      - recording: Webinar Recording
+      - slides: Presenter's Slides - Tariffs
+      - slides: Presenter's Slides - Markets
+  Topic 2: Adam Parker
+    Title: Empowering Wealth Creation: Unlocking Actionable U.S. Stock ...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: june-2025-webinar-archive-17565.xml
+✓ Generated: june-2025-webinar-archive-17565.json
+
+[26/50] Processing march-2021-webinar-meeting-archive-14750.xml
+--------------------------------------------------------------------------------
+
+Processing: march-2021-webinar-meeting-archive-14750.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Robert C. Doll, CFA
+    Title: 2021 Ten Predictions...
+    Materials: 0
+  Topic 2: Nancy Tengler
+    Title: How to Invest in a World Awash with Liquidity...
+    Materials: 1
+      - slides: Nancy Tengler Slides
+
+✓ Generated: march-2021-webinar-meeting-archive-14750.xml
+✓ Generated: march-2021-webinar-meeting-archive-14750.json
+
+[27/50] Processing march-2022-skirballwebinar-meeting-archive-15322.xml
+--------------------------------------------------------------------------------
+
+Processing: march-2022-skirballwebinar-meeting-archive-15322.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Christine Benz
+    Title: Morningstar's Best Ideas for 2022 and Beyond...
+    Materials: 4
+      - recording: Webinar Recording - 9:00 am
+      - slides: Presenter's Slides - 9:00 am
+      - recording: Webinar Recording - 10:45 am
+      - slides: Presenter's Slides - 10:45 am
+  Topic 2: Joint/Unknown
+    Title: What If This Turns Out to Be a Terrible Time to Retire?...
+    Materials: 0
+
+✓ Generated: march-2022-skirballwebinar-meeting-archive-15322.xml
+✓ Generated: march-2022-skirballwebinar-meeting-archive-15322.json
+
+[28/50] Processing march-2023-webinar-meeting-archive-15903.xml
+--------------------------------------------------------------------------------
+
+Processing: march-2023-webinar-meeting-archive-15903.xml
+================================================================================
+
+✓ Extracted 1 topics
+  Topic 2: James Stack
+    Title: Monetary Showdown -- Fasten Your Seat Belts!...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+
+✓ Generated: march-2023-webinar-meeting-archive-15903.xml
+✓ Generated: march-2023-webinar-meeting-archive-15903.json
+
+[29/50] Processing march-2024-webinar-archive-16578.xml
+--------------------------------------------------------------------------------
+
+Processing: march-2024-webinar-archive-16578.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Adam Parker
+    Title: US Equity Market-Ways to Outperform...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Chris Verrone
+    Title: The Good, the Bad, & the Ugly... Making Money in the New Mac...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: march-2024-webinar-archive-16578.xml
+✓ Generated: march-2024-webinar-archive-16578.json
+
+[30/50] Processing march-2025-webinar-archive-17357.xml
+--------------------------------------------------------------------------------
+
+Processing: march-2025-webinar-archive-17357.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Callie Cox
+    Title: Mood swings: why market sentiment matters in investing...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Jack Bowers
+    Title: Ten Contrarian Thoughts...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: march-2025-webinar-archive-17357.xml
+✓ Generated: march-2025-webinar-archive-17357.json
+
+[31/50] Processing may-2020-webinar-monthly-meeting-archive-14234.xml
+--------------------------------------------------------------------------------
+
+Processing: may-2020-webinar-monthly-meeting-archive-14234.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Spuds Powell
+    Title: ...
+    Materials: 2
+      - recording: View Interactive Recording
+      - slides: Slides Only
+  Topic 2: Mitchell Tuchman
+    Title: ...
+    Materials: 3
+      - recording: View Interactive Recording
+      - slides: Slides Only
+      - slides: Best and Worst Days Results
+
+✓ Generated: may-2020-webinar-monthly-meeting-archive-14234.xml
+✓ Generated: may-2020-webinar-monthly-meeting-archive-14234.json
+
+[32/50] Processing may-2021-webinar-meeting-archive-14844.xml
+--------------------------------------------------------------------------------
+
+Processing: may-2021-webinar-meeting-archive-14844.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Sebastien Page, CFA
+    Title: Asset Allocation: When Conventional Wisdom Fails...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter's Slides
+  Topic 2: Michael K. Farr
+    Title: Good Riddance to 2020: Economic & Market Outlook, 2021 and B...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: may-2021-webinar-meeting-archive-14844.xml
+✓ Generated: may-2021-webinar-meeting-archive-14844.json
+
+[33/50] Processing may-2022-skirballwebinar-meeting-archive-15356.xml
+--------------------------------------------------------------------------------
+
+Processing: may-2022-skirballwebinar-meeting-archive-15356.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Kevin Carter
+    Title: The Future of Emerging Markets: Capturing A Rising Digital G...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter's Slides
+  Topic 2: Mark Skousen
+    Title: Madness or Wisdom of Crowds? Puzzles & Paradoxes of Wall St....
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter's Slides
+
+✓ Generated: may-2022-skirballwebinar-meeting-archive-15356.xml
+✓ Generated: may-2022-skirballwebinar-meeting-archive-15356.json
+
+[34/50] Processing may-2023-webinar-meeting-archive-15978.xml
+--------------------------------------------------------------------------------
+
+Processing: may-2023-webinar-meeting-archive-15978.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Liz Young, CFA
+    Title: This Ends One Way or Another...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: James Park
+    Title: A History of Securities Fraud Scandals: From Penn Central to...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: may-2023-webinar-meeting-archive-15978.xml
+✓ Generated: may-2023-webinar-meeting-archive-15978.json
+
+[35/50] Processing may-2024-webinar-archive-16721.xml
+--------------------------------------------------------------------------------
+
+Processing: may-2024-webinar-archive-16721.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: David L. Bahnsen
+    Title: Investing in a Post-COVID World...
+    Materials: 0
+  Topic 2: Doug Ramsey, CFA, CMT
+    Title: A New Policy Paradigm?...
+    Materials: 1
+      - slides: Presenter’s Slides
+
+✓ Generated: may-2024-webinar-archive-16721.xml
+✓ Generated: may-2024-webinar-archive-16721.json
+
+[36/50] Processing may-2025-webinar-archive-17459.xml
+--------------------------------------------------------------------------------
+
+Processing: may-2025-webinar-archive-17459.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Steve Chen
+    Title: Possibilities and Probabilities: Stress Testing Your Retirem...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Alex Ebkarian
+    Title: Why Gold is in a Secular Bull Market—5 Trends Fueling Its Ri...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: may-2025-webinar-archive-17459.xml
+✓ Generated: may-2025-webinar-archive-17459.json
+
+[37/50] Processing november-2020-webinar-monthly-meeting-archive-14550.xml
+--------------------------------------------------------------------------------
+
+Processing: november-2020-webinar-monthly-meeting-archive-14550.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Steven Romick, CFA
+    Title: Value In The Age of Growth...
+    Materials: 2
+      - recording: Presenter's Webinar Recording
+      - slides: Presenter's Slides
+  Topic 2: Jamie Hopkins, CFP
+    Title: What Does the 2020 Election Mean for Your Retirement?...
+    Materials: 2
+      - recording: Presenter's Webinar Recording
+      - slides: Presenter's Slides
+
+✓ Generated: november-2020-webinar-monthly-meeting-archive-14550.xml
+✓ Generated: november-2020-webinar-monthly-meeting-archive-14550.json
+
+[38/50] Processing november-2021-webinar-meeting-archive-15085.xml
+--------------------------------------------------------------------------------
+
+Processing: november-2021-webinar-meeting-archive-15085.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Wade Pfau, Ph.D., CFA, RICP
+    Title: Navigating the Important Decisions for Retirement Success...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Dr. Ronald D. Lee
+    Title: How demographic trends will bring economic change in coming ...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: november-2021-webinar-meeting-archive-15085.xml
+✓ Generated: november-2021-webinar-meeting-archive-15085.json
+
+[39/50] Processing november-2022-skirballwebinar-meeting-archive-15723.xml
+--------------------------------------------------------------------------------
+
+Processing: november-2022-skirballwebinar-meeting-archive-15723.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Terri Spath, CFA, CFP
+    Title: The 4 Horsemen of the Apocalypse: Are We in a Recession? How...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+  Topic 2: Taylor R. Schulte, CFP
+    Title: Inflation Surge: Where to Invest Your Money + Pitfalls to Av...
+    Materials: 2
+      - recording: Webinar Recording
+      - slides: Presenter’s Slides
+
+✓ Generated: november-2022-skirballwebinar-meeting-archive-15723.xml
+✓ Generated: november-2022-skirballwebinar-meeting-archive-15723.json
+
+[40/50] Processing november-2023-skirballwebinar-archive-16287.xml
+--------------------------------------------------------------------------------
+
+Processing: november-2023-skirballwebinar-archive-16287.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: JOSH EMANUEL, CFA
+    Title: ARCHIVE MATERIALS...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Panel: Todd Leavitt, Chuck Spence, Miles Mitchell (+1 more)
+    Title: AAII Los Angeles Chapter “Investor Journey” Panel Session...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: november-2023-skirballwebinar-archive-16287.xml
+✓ Generated: november-2023-skirballwebinar-archive-16287.json
+
+[41/50] Processing november-2024-webinar-archive-17034.xml
+--------------------------------------------------------------------------------
+
+Processing: november-2024-webinar-archive-17034.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Christine Short
+    Title: The Art of Corporate Body Language...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Paul Merriman
+    Title: 2 Funds to Own Forever, and How to Invest in Small Caps...
+    Materials: 2
+      - slides: Webinar Slides
+      - recording: Webinar Recording
+
+✓ Generated: november-2024-webinar-archive-17034.xml
+✓ Generated: november-2024-webinar-archive-17034.json
+
+[42/50] Processing october-2021-webinar-meeting-archive-15044.xml
+--------------------------------------------------------------------------------
+
+Processing: october-2021-webinar-meeting-archive-15044.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Larry Hatheway, PhD
+    Title: Turning Smiles into Frowns: Inflation and the Equity Risk Pr...
+    Materials: 1
+      - recording: WEBINAR RECORDING
+  Topic 2: Patrick Geddes
+    Title: Your Brain Is Hazardous to Your Wealth: How to avoid behavio...
+    Materials: 1
+      - recording: WEBINAR RECORDING
+
+✓ Generated: october-2021-webinar-meeting-archive-15044.xml
+✓ Generated: october-2021-webinar-meeting-archive-15044.json
+
+[43/50] Processing october-2023-webinar-meeting-archive-16225.xml
+--------------------------------------------------------------------------------
+
+Processing: october-2023-webinar-meeting-archive-16225.xml
+================================================================================
+  ⚠ No TOPIC markers found - using single-speaker fallback mode
+
+✓ Extracted 1 topics
+  Topic 1: Bruce Johnstone
+    Title: Saturday, October 21, 2023...
+    Materials: 1
+      - slides: Slides
+
+✓ Generated: october-2023-webinar-meeting-archive-16225.xml
+✓ Generated: october-2023-webinar-meeting-archive-16225.json
+
+[44/50] Processing october-2024-webinar-archive-17009.xml
+--------------------------------------------------------------------------------
+
+Processing: october-2024-webinar-archive-17009.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: James Paulsen
+    Title: A Backward Fed Has Led to a Backward Bull...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Mebane Faber
+    Title: Ten Years Later: Shareholder Yield: A Better Approach to Div...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: october-2024-webinar-archive-17009.xml
+✓ Generated: october-2024-webinar-archive-17009.json
+
+[45/50] Processing october-2025-hotel-angeleno-webinar-archive-17801.xml
+--------------------------------------------------------------------------------
+
+Processing: october-2025-hotel-angeleno-webinar-archive-17801.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: David Ryan
+    Title: ARCHIVE MATERIALS...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Panel: Barry Goldsmith, Phillip Richards, Fred Wallace (+1 more)
+    Title: ARCHIVE MATERIALS...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: october-2025-hotel-angeleno-webinar-archive-17801.xml
+✓ Generated: october-2025-hotel-angeleno-webinar-archive-17801.json
+
+[46/50] Processing september-2020-webinar-monthly-meeting-archive-14436.xml
+--------------------------------------------------------------------------------
+
+Processing: september-2020-webinar-monthly-meeting-archive-14436.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Howard Marks
+    Title: A Conversation With Howard Marks...
+    Materials: 2
+      - recording: Presentation Recording
+      - slides: Questions For Howard Marks
+  Topic 2: Kristina Hooper
+    Title: How Investors can Survive and Thrive in a World Gone Mad!...
+    Materials: 1
+      - slides: Presenter's Slides
+
+✓ Generated: september-2020-webinar-monthly-meeting-archive-14436.xml
+✓ Generated: september-2020-webinar-monthly-meeting-archive-14436.json
+
+[47/50] Processing september-2021-webinar-meeting-archive-14996.xml
+--------------------------------------------------------------------------------
+
+Processing: september-2021-webinar-meeting-archive-14996.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Bruce Johnstone, CFA
+    Title: Plenty of Fiscal and Monetary Stimulus! Has it been overdone...
+    Materials: 1
+      - slides: Presenter's Slides
+  Topic 2: Jason De Sena Trennert
+    Title: Economic & Investment Outlook for a Post-Pandemic World...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: september-2021-webinar-meeting-archive-14996.xml
+✓ Generated: september-2021-webinar-meeting-archive-14996.json
+
+[48/50] Processing september-2022-skirballwebinar-meeting-archive-15674.xml
+--------------------------------------------------------------------------------
+
+Processing: september-2022-skirballwebinar-meeting-archive-15674.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Hal Reynolds, CFA
+    Title: Reflections on the 40 year Bull Market and expectations for ...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Frank Barbera
+    Title: Navigating the Hyper-Stagflationary Crisis, and protect your...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: september-2022-skirballwebinar-meeting-archive-15674.xml
+✓ Generated: september-2022-skirballwebinar-meeting-archive-15674.json
+
+[49/50] Processing september-2023-skirballwebinar-archive-16194.xml
+--------------------------------------------------------------------------------
+
+Processing: september-2023-skirballwebinar-archive-16194.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Gina Sanchez
+    Title: On the Verge of Change...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Nick Atkeson
+    Title: How do you make money in a world where the financial experts...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: september-2023-skirballwebinar-archive-16194.xml
+✓ Generated: september-2023-skirballwebinar-archive-16194.json
+
+[50/50] Processing september-2025-webinar-archive-17765.xml
+--------------------------------------------------------------------------------
+
+Processing: september-2025-webinar-archive-17765.xml
+================================================================================
+
+✓ Extracted 2 topics
+  Topic 1: Dennis Lockhart
+    Title: Fed independence, Fed Interest Rate Policy, and the Outlook ...
+    Materials: 1
+      - recording: Webinar Recording
+  Topic 2: Talley Léger
+    Title: The Daunting Task of Setting an S+P Target...
+    Materials: 1
+      - recording: Webinar Recording
+
+✓ Generated: september-2025-webinar-archive-17765.xml
+✓ Generated: september-2025-webinar-archive-17765.json
+
+================================================================================
+BATCH EXTRACTION COMPLETE
+================================================================================
+
+Total files: 50
+✓ Success: 50
+✗ Failed: 0
+Time elapsed: 24.9 seconds
+
+✓ Extraction complete!
+✓ Structured XML files: AAII-Migration-assets/output/structured-xml/
+✓ JSON files: AAII-Migration-assets/output/structured-json/

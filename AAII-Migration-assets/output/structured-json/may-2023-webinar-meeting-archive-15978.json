@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "May 2023 Webinar Meeting ARCHIVE",
+    "link": "https://aaiila.org/may-2023-webinar-meeting-archive/",
+    "post_id": "15978",
+    "post_name": "may-2023-webinar-meeting-archive",
+    "post_date": "2023-04-16 20:12:40",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "webeditor"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, May 20, 2023",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Liz Young, CFA",
+          "title": "Head of Investment Strategy, SOFI",
+          "bio": "Liz Young, CFA, is SoFi’s Head of Investment Strategy, responsible for providing economic and market insights to a variety of audiences. Liz is passionate about educating others on markets and investing in order to help people feel empowered to take a more active role in their financial futures. Prior to joining SoFi, Liz was the Director of Market Strategy at BNY Mellon Investment Management. Earlier in her career, she was a portfolio analyst at Baird and a research analyst at BMO Global Asset Management. She is a frequent guest on CNBC, Bloomberg, and Yahoo Finance, and is often quoted in the NY Times, WSJ, Barron's, and other industry publications. Liz holds a BBA in Finance and Marketing from the University of Wisconsin-Milwaukee and a MBA from Marquette University. She is a CFA Charterholder, a member of the CFA Institute and CFA Society of New York.",
+          "photo_id": "15980",
+          "photo_local_path": "assets/images/liz-young-cfa_15980.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "This Ends One Way or Another",
+        "description": "On the heels of the highest inflation and fastest rate-hike cycle in 40 years, the economy and capital markets are wondering what's next. History suggests that it's smart to be cautious, but buy-the-dip mentality and a stubbornly tight labor market suggest this time could be different. Join this talk to hear Liz's thoughts on the current environment and where there could be bright spots or landmines.",
+        "learning_outcomes": [
+          "Current Market sentiment and strength",
+          "The signals to watch for",
+          "The power of positioning"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/chHNgQM1QF0",
+          "label": "Webinar Recording"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "James Park",
+          "title": "Professor of Law at UCLA School of Law",
+          "bio": "",
+          "photo_id": "15982",
+          "photo_local_path": "assets/images/james-park_15982.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "A History of Securities Fraud Scandals: From Penn Central to FTX",
+        "description": "Professor James Park will discuss his new book on the history of securities fraud regulation. His book, The Valuation Treadmill: How Securities Fraud Threatens the Integrity of Public Companies, examines case studies of major securities frauds from the 1970s to the present involving companies such as Penn Central, Apple, Enron, Citigroup, and General Electric. Professor Park will also discuss recent cases involving FTX, Theranos, and Nikola.",
+        "learning_outcomes": [
+          "The history of securities fraud as well as recent examples of securities fraud",
+          "Why public companies commit securities fraud and how such fraud affects investors",
+          "The major federal law and regulations that govern securities disclosure and fraud"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/RyBAo2xyAJE",
+          "label": "Webinar Recording"
+        }
+      ]
+    }
+  ]
+}

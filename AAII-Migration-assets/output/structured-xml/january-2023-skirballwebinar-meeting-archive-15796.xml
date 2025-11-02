@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>JANUARY 2023 Skirball/Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/january-2023-skirball-webinar-meeting-archive/</link>
+    <post_id>15796</post_id>
+    <post_name>january-2023-skirball-webinar-meeting-archive</post_name>
+    <post_date>2022-12-13 14:20:53</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, January 21, 2023</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Sebastien Page, CFA</name>
+          <title>Head of Global Multi-Asset Division, T. Rowe Price</title>
+          <photo_id>15821</photo_id>
+          <photo_local_path>assets/images/sebastien-page-cfa_15821.jpg</photo_local_path>
+          <bio />
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>Debunking the Myths of Asset Allocation</title>
+        <description>Sebastien will be presenting an update on the macro environment and markets and what investors can expect concerning inflation and interest rates in 2023. Then he will cover how investors can best allocate their capital between stocks, bonds and cash. Finally, he will discuss common misconceptions investors hold concerning asset allocation and whether the 60/40 portfolio is still relevant for investors today.</description>
+        <learning_outcomes>
+          <outcome>What are some of the most prevalent myths in asset allocation?</outcome>
+          <outcome>Is the 60/40 asset allocation still relevant?</outcome>
+          <outcome>Where are inflation and interest rates headed in 2023?</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/zmnQqMAzzwY</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2023/02/Sebastien-Page-AA-Outlook_SPage_MASTER_Images_Retail_01132023.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Bob Doll, CFA, CPA</name>
+          <title>Chief Investment Officer, Crossmark Global Investments</title>
+          <photo_id>15823</photo_id>
+          <photo_local_path>assets/images/bob-doll-cfa-cpa_15823.jpg</photo_local_path>
+          <bio>Robert C. Doll, CFA, CPA joined Crossmark in May 2021 as Chief Investment Officer (CIO), bringing over 40 years of industry experience to guide the investment process and serve as portfolio manager for multiple Crossmark large-cap strategies. He also utilizes his investment expertise to provide weekly and quarterly investment commentaries, as well as annual market predictions. Bob is a regular guest and contributor to multiple media outlets such as CNBC, Bloomberg TV, Moneywise, and Fox Business News. Prior to arriving at Crossmark, he held the roles of Senior Portfolio Manager and Chief Equity Strategist at Nuveen and Blackrock, President and Chief Investment Officer at Merrill Lynch Investment Managers, and Chief Investment Officer at Oppenheimer Funds, Inc. Bob graduated from Lehigh University with a B.S. in Accounting and a B.A. in Economics. He later went on to earn an M.B.A. from the Wharton School of the University of Pennsylvania. He is a Certified Public Accountant (CPA) and holds the Chartered Financial Analyst (CFA) designation, as well as the FINRA Series 7 and 63 securities licenses.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>10 Predictions for 2023</title>
+        <description>Robert Doll will be presenting his annual 10 economic and investment predictions for the calendar year of 2023. He has been making these predictions for over 30 years and has an accuracy percentage rate of over 70%. Mr. Doll will provide an up to date look at the economic, financial and investment landscape. He will review the economy, earnings, fiscal policy, monetary policy, valuation and assorted other variables.</description>
+        <learning_outcomes>
+          <outcome>Economic and investment outlook for 2023</outcome>
+          <outcome>Which could be the best and worst performing sectors for 2023</outcome>
+          <outcome>What the risks and opportunities are for stocks and bonds in 2023</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/55Pdq9VGGO0</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+        <slides>
+          <url>https://aaiila.org/wp-content/uploads/2023/02/Robert-Doll-AAII-Ten-Predictions-Presentation_01222.pdf</url>
+          <label>Presenter’s Slides</label>
+          <status>not_validated</status>
+        </slides>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

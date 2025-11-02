@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meeting>
+  <metadata>
+    <title>JULY 2021 Webinar Meeting ARCHIVE</title>
+    <link>https://aaiila.org/july-2021-webinar-meeting-archive/</link>
+    <post_id>14954</post_id>
+    <post_name>july-2021-webinar-meeting-archive</post_name>
+    <post_date>2021-06-21 09:55:00</post_date>
+    <category>Hotel ANGELENO Monthly Meeting Archived</category>
+    <creator>webeditor</creator>
+  </metadata>
+  <custom_fields>
+    <field>
+      <meta_key>stunnig_headers_bg_img</meta_key>
+      <meta_value>http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg</meta_value>
+    </field>
+    <field>
+      <meta_key>_thumbnail_id</meta_key>
+      <meta_value>12261</meta_value>
+    </field>
+  </custom_fields>
+  <event>
+    <date>Saturday, July 17, 2021</date>
+    <status>ARCHIVED</status>
+  </event>
+  <topics>
+    <topic id="1">
+      <speakers>
+        <speaker>
+          <name>Micky Jagirdar</name>
+          <title>Co-Portfolio Manager: Global Concentrated Strategy, Ariel Investments</title>
+          <photo_id>14957</photo_id>
+          <photo_local_path>assets/images/micky-jagirdar_14957.png</photo_local_path>
+          <bio>Micky Jagirdar serves as co-portfolio manager of our global concentrated strategy, and covers the autos, health care and technology sectors as a research analyst. He is also the Head of Investments of the international and global equities team. In this capacity, he arranges retreats and teach-ins which hone the team's critical and counterintuitive thinking capabilities, helping them serve as better "Devil's Advocates" on our investment theses. Micky is a sought after speaker at investment conferences and a frequent guest on Bloomberg and CNBC. He is also widely quoted in Barron's and Forbes. In 2020, Micky obtained the FSA credential, awarded by the Sustainable Accounting Standards Board (SASB). Fluent in several Indian languages including Hindi, Micky earned a Bachelor of Commerce in accounting and finance from the University of Mumbai and an MBA in finance and investments from the Zicklin School of Business at Baruch College. .</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title />
+        <description>European Pharma is trading at a rare discount to market PE that has been seen only twice in the last 40 years, and it is undeniably out-of-favor. While most companies deserve the de-rating, Ariel Investments Co-Portfolio Manager Micky Jagirdar will discuss Ariel's contrarian call on those that do not. Attend this presentation to learn why European Pharma represents a rare alpha-generating opportunity in the market today.</description>
+        <learning_outcomes>
+          <outcome>What is an alpha generating opportunity, and how to determine which stocks fit the description</outcome>
+          <outcome>How to determine which discounted stocks are worth investing in, and which stocks are just value traps</outcome>
+          <outcome>Which European Pharma stocks are worth investing in today?</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/f8dABa6IBSw</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+    <topic id="2">
+      <speakers>
+        <speaker>
+          <name>Ben Johnson, CFA</name>
+          <title>Director of Global Exchange-Traded Fund Research, Morningstar, Inc.</title>
+          <photo_id>14958</photo_id>
+          <photo_local_path>assets/images/ben-johnson-cfa_14958.jpg</photo_local_path>
+          <bio>Ben Johnson, CFA, is director of global ETF and passive strategies research. Before assuming his current role, he was director of ETF research for Europe and Asia. He also previously served as a senior equity analyst, covering the agriculture and chemicals industries. Before joining Morningstar in 2006, he worked as a financial advisor for Morgan Stanley. Johnson holds a bachelor's degree in economics from the University of Wisconsin. He also holds the Chartered Financial Analyst (CFA) designation. In 2015, Fund Directions and Fund Action named Johnson among the 2015 Rising Stars of Mutual Funds.</bio>
+        </speaker>
+      </speakers>
+      <presentation>
+        <title>The Ins and Outs of Investing With ETFs</title>
+        <description>Ben Johnson, Morningstar's Director of Global ETF Research, shows how exchange-traded funds (ETFs) are an efficient means of accessing countless corners of global markets. He'll also discuss the key benefits of this investment wrapper, share tips for trading ETFs, and spotlight some of Morningstar's top-rated ETFs.</description>
+        <learning_outcomes>
+          <outcome>How ETFs differ from mutual funds, their benefits and drawbacks, and why and how to use them in your portfolio</outcome>
+          <outcome>Best practices for ETF trading</outcome>
+          <outcome>How Morningstar identifies best-of-breed ETFs</outcome>
+        </learning_outcomes>
+      </presentation>
+      <materials>
+        <recording>
+          <url>https://youtu.be/JMZMgDZylSw</url>
+          <label>Webinar Recording</label>
+          <status>not_validated</status>
+        </recording>
+      </materials>
+    </topic>
+  </topics>
+</meeting>

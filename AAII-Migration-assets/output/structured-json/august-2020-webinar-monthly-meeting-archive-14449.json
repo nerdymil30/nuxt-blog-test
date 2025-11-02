@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "title": "AUGUST 2020 Webinar Monthly Meeting ARCHIVE",
+    "link": "https://aaiila.org/august-2020-webinar-monthly-meeting-archive/",
+    "post_id": "14449",
+    "post_name": "august-2020-webinar-monthly-meeting-archive",
+    "post_date": "2020-08-28 02:31:45",
+    "category": "Hotel ANGELENO Monthly Meeting Archived",
+    "creator": "don"
+  },
+  "custom_fields": [
+    {
+      "meta_key": "stunnig_headers_bg_img",
+      "meta_value": "http://aaiila.org/wp-content/uploads/2018/08/slide_skirball-1.jpg"
+    },
+    {
+      "meta_key": "_thumbnail_id",
+      "meta_value": "12261"
+    }
+  ],
+  "event": {
+    "date": "Saturday, August 22, 2020",
+    "status": "ARCHIVED"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "speakers": [
+        {
+          "name": "Ken Fisher",
+          "title": "Founder, Executive Chairman and Co-Chief Investment Officer, Fisher Investments",
+          "bio": "",
+          "photo_id": "14460",
+          "photo_local_path": "assets/images/ken-fisher_14460.jpg"
+        }
+      ],
+      "presentation": {
+        "title": "",
+        "description": "In this talk Ken will display the what and why of several semi-predictable outcomes of American elections, why most market seers must always be wrong, and have been this year and will continue to do so. Then, he will delve into the most basic market lesson to learn from the COVID-19 experience that you can apply broadly to other market phenomena, and why the 2020's weak 1st half, tied to 2019, tells you nothing about it's back half. Ken will further delve into more specific views about how he sees markets for the back half of 2020 and into 2021 focusing on tools he has long utilized including the Pessimism of Disbelief and Confirmation Bias.",
+        "learning_outcomes": [
+          "How the 2020 bear and new bull market is the same and different than prior ones",
+          "How to know what to expect in markets from the November election regardless of who wins",
+          "How to understand why, what so many viewed as the stock market irrationally disconnected from a disastrous economy is not only rational but the way markets are supposed to work"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/O1mX0z0vZKA",
+          "label": "PRESENTER'S WEBINAR RECORDING"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "speakers": [
+        {
+          "name": "Noel Marroquin",
+          "title": "Senior Trading Solutions Specialist, TD Ameritrade",
+          "bio": "Chicago-based Active Trader Business Development Team member delivering consultations on TD Ameritrade's trading platforms with over 17 years experience. Throughout my career I have focused on delivering critical information and education to traders of varying skill levels, in order to make educated decisions.",
+          "photo_id": "14461",
+          "photo_local_path": "assets/images/noel-marroquin_14461.png"
+        }
+      ],
+      "presentation": {
+        "title": "Harnessing the Power of ThinkorSwim",
+        "description": "ThinkorSwim is the trading platform used by customers at TD Ameritrade. I will be providing a tour of ThinkorSwim to show investors how ThinkorSwim can enhance investor decision making with regards to buying or selling stocks, options, and ETFs. We will explore the numerous capabilities that ThinkorSwim can provide investors in terms of making customized charts, watchlists, navigation, and how to properly place trades.",
+        "learning_outcomes": [
+          "How investors can use ThinkorSwim to enhance their decision making and trading when selecting stocks, options, or ETFs",
+          "How to use the various features of ThinkorSwim, such as charts, watchlists, and how to place trades"
+        ]
+      },
+      "materials": []
+    },
+    {
+      "id": 3,
+      "speakers": [
+        {
+          "name": "Sean McLaughlin",
+          "title": "Senior Market Strategist, Trade Ideas LLC",
+          "bio": "",
+          "photo_id": "14462",
+          "photo_local_path": "assets/images/sean-mclaughlin_14462.png"
+        }
+      ],
+      "presentation": {
+        "title": "Leverage the Power of AI for Smarter Strategy and Algorithmic Trading",
+        "description": "Observe the Trade Ideas platform in action and see it's AI (artificial intelligence) features. Learn how Artificially Intelligent (AI) strategy can give you the power of performance without the demand for your time and energy!",
+        "learning_outcomes": [
+          "Learn the power of algorithmic trading to minimize human error and maximize edge capture",
+          "Learn how strategies are continually optimized to perform best in current market environments",
+          "Observe the Trade Ideas platform and see its AI (artificial intelligence)\nin action"
+        ]
+      },
+      "materials": [
+        {
+          "type": "recording",
+          "url": "https://youtu.be/4GCKFrKIAKE",
+          "label": "PRESENTER'S WEBINAR RECORDING"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1965 @@
+================================================================================
+BATCH SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+Scanning for files with speaker photo_ids...
+Found 50 files to process
+
+
+================================================================================
+[1/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: april-2021-webinar-meeting-archive-14812.json
+================================================================================
+  URL: https://aaiila.org/april-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Gatis Roze
+    Photo ID: 14810
+    URL: https://aaiila.org/wp-content/uploads/2021/03/Gatis-Roze-105373A_350x350-400x400...
+    Saving to: gatis-roze_14810.jpg
+    ✓ Downloaded (19001 bytes)
+
+  Downloading: Grayson Roze
+    Photo ID: 14809
+    URL: https://aaiila.org/wp-content/uploads/2021/03/grayson-roze-400x400.jpeg...
+    Saving to: grayson-roze_14809.jpeg
+    ✓ Downloaded (48718 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: april-2021-webinar-meeting-archive-14812.json
+    ✓ Updated XML: april-2021-webinar-meeting-archive-14812.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[2/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: april-2022-webinar-meeting-archive-15408.json
+================================================================================
+  URL: https://aaiila.org/april-2022-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Chris Watling
+    Photo ID: 15437
+    URL: https://aaiila.org/wp-content/uploads/2022/03/Chris-Watling-cropped-3-400x400.jp...
+    Saving to: chris-watling_15437.jpg
+    ✓ Downloaded (42431 bytes)
+
+  Downloading: Richard Bernstein
+    Photo ID: 15419
+    URL: https://aaiila.org/wp-content/uploads/2022/03/Richard-Bernstein-400x400.jpg...
+    Saving to: richard-bernstein_15419.jpg
+    ✓ Downloaded (19365 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: april-2022-webinar-meeting-archive-15408.json
+    ✓ Updated XML: april-2022-webinar-meeting-archive-15408.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[3/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: april-2024-skirballwebinar-archive-16632.json
+================================================================================
+  URL: https://aaiila.org/april-2024-skirball-webinar-archive/
+  ✓ Page fetched
+  Found 1 speakers with photo_ids
+  Found 1 image URLs on page
+
+  Downloading: Christine Benz
+    Photo ID: 12980
+    URL: https://aaiila.org/wp-content/uploads/2019/01/Christine_Benz2-400x400.jpg...
+    Saving to: christine-benz_12980.jpg
+    ✓ Downloaded (21306 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: april-2024-skirballwebinar-archive-16632.json
+    ✓ Updated XML: april-2024-skirballwebinar-archive-16632.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[4/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: april-2025-hotel-angelenowebinar-archive-17525.json
+================================================================================
+  URL: https://aaiila.org/april-2025-hotel-angeleno-webinar-archive/
+  ✓ Page fetched
+  Found 3 speakers with photo_ids
+  Found 3 image URLs on page
+
+  Downloading: Feroz Ansari
+    Photo ID: 17438
+    URL: https://aaiila.org/wp-content/uploads/2025/03/feroz-Ansari-thumbnail-resized-cro...
+    Saving to: feroz-ansari_17438.png
+    ✓ Downloaded (128969 bytes)
+
+  Downloading: John Souter
+    Photo ID: 17435
+    URL: https://aaiila.org/wp-content/uploads/2025/03/JohnSouter2-e1742259580472-400x400...
+    Saving to: john-souter_17435.jpg
+    ✓ Downloaded (21032 bytes)
+
+  Downloading: Nick Atkeson
+    Photo ID: 17434
+    URL: https://aaiila.org/wp-content/uploads/2025/03/NICK-e1742259381543-400x400.jpg...
+    Saving to: nick-atkeson_17434.jpg
+    ✓ Downloaded (19194 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: april-2025-hotel-angelenowebinar-archive-17525.json
+    ✓ Updated XML: april-2025-hotel-angelenowebinar-archive-17525.xml
+
+  Summary: 3 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 3 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[5/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: august-2020-webinar-monthly-meeting-archive-14449.json
+================================================================================
+  URL: https://aaiila.org/august-2020-webinar-monthly-meeting-archive/
+  ✓ Page fetched
+  Found 3 speakers with photo_ids
+  Found 3 image URLs on page
+
+  Downloading: Ken Fisher
+    Photo ID: 14460
+    URL: https://aaiila.org/wp-content/uploads/2020/08/Ken-Fisher-400x400.jpg...
+    Saving to: ken-fisher_14460.jpg
+    ✓ Downloaded (22100 bytes)
+
+  Downloading: Noel Marroquin
+    Photo ID: 14461
+    URL: https://aaiila.org/wp-content/uploads/2020/08/Noel-Marroquin-400x400.png...
+    Saving to: noel-marroquin_14461.png
+    ✓ Downloaded (167224 bytes)
+
+  Downloading: Sean McLaughlin
+    Photo ID: 14462
+    URL: https://aaiila.org/wp-content/uploads/2020/08/Sean-McLaughlin-400x400.png...
+    Saving to: sean-mclaughlin_14462.png
+    ✓ Downloaded (249128 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: august-2020-webinar-monthly-meeting-archive-14449.json
+    ✓ Updated XML: august-2020-webinar-monthly-meeting-archive-14449.xml
+
+  Summary: 3 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 3 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[6/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: august-2023-webinar-meeting-archive-16018.json
+================================================================================
+  URL: https://aaiila.org/august-2023-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Justin McNichols
+    Photo ID: 16026
+    URL: https://aaiila.org/wp-content/uploads/2023/05/Justin-McNichols-898-cropped-400x4...
+    Saving to: justin-mcnichols_16026.jpg
+    ✓ Downloaded (39889 bytes)
+
+  Downloading: Kevin Simpson
+    Photo ID: 16023
+    URL: https://aaiila.org/wp-content/uploads/2023/05/Kevin-Simpson-cropped-400x400.png...
+    Saving to: kevin-simpson_16023.png
+    ✓ Downloaded (188204 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: august-2023-webinar-meeting-archive-16018.json
+    ✓ Updated XML: august-2023-webinar-meeting-archive-16018.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[7/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: december-2020-webinar-bonus-meeting-archive-14581.json
+================================================================================
+  URL: https://aaiila.org/december-2020-webinar-bonus-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Ben Carlson, CFA
+    Photo ID: 14651
+    URL: https://aaiila.org/wp-content/uploads/2020/11/Ben-Carlson-headshot-400x400.png...
+    Saving to: ben-carlson-cfa_14651.png
+    ✓ Downloaded (258671 bytes)
+
+  Downloading: David M. Blanchett, Ph.D., CFA, CFP
+    Photo ID: 14650
+    URL: https://aaiila.org/wp-content/uploads/2020/11/David-Blanchett-Headshot-v-Tight-4...
+    Saving to: david-m-blanchett-phd-cfa-cfp_14650.jpeg
+    ✓ Downloaded (17830 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: december-2020-webinar-bonus-meeting-archive-14581.json
+    ✓ Updated XML: december-2020-webinar-bonus-meeting-archive-14581.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[8/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: february-2021-webinar-meeting-archive-14696.json
+================================================================================
+  URL: https://aaiila.org/february-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 1 speakers with photo_ids
+  Found 1 image URLs on page
+
+  Downloading: Mark Hulbert
+    Photo ID: 14699
+    URL: https://aaiila.org/wp-content/uploads/2021/01/Mark_J._Hulbert_crop-400x400.jpg...
+    Saving to: mark-hulbert_14699.jpg
+    ✓ Downloaded (18100 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: february-2021-webinar-meeting-archive-14696.json
+    ✓ Updated XML: february-2021-webinar-meeting-archive-14696.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[9/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: february-2022-webinar-meeting-archive-15306.json
+================================================================================
+  URL: https://aaiila.org/february-2022-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Peter Boockvar
+    Photo ID: 15314
+    URL: https://aaiila.org/wp-content/uploads/2022/01/PeterBoockvar-400x400.jpg...
+    Saving to: peter-boockvar_15314.jpg
+    ✓ Downloaded (32168 bytes)
+
+  Downloading: Barry C. Knapp
+    Photo ID: 15315
+    URL: https://aaiila.org/wp-content/uploads/2022/01/BARRY-KNAPP-a915fa_fbb642360f294ac...
+    Saving to: barry-c-knapp_15315.jpg
+    ✓ Downloaded (24695 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: february-2022-webinar-meeting-archive-15306.json
+    ✓ Updated XML: february-2022-webinar-meeting-archive-15306.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[10/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: february-2023-webinar-meeting-archive-15863.json
+================================================================================
+  URL: https://aaiila.org/february-2023-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Doug Ramsey
+    Photo ID: 15869
+    URL: https://aaiila.org/wp-content/uploads/2023/01/Doug-Ramsey-400x400.jpg...
+    Saving to: doug-ramsey_15869.jpg
+    ✓ Downloaded (16491 bytes)
+
+  Downloading: Cameron Dawson, CFA
+    Photo ID: 15868
+    URL: https://aaiila.org/wp-content/uploads/2023/01/Cameron-Dawson-400x400.jpg...
+    Saving to: cameron-dawson-cfa_15868.jpg
+    ✓ Downloaded (15850 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: february-2023-webinar-meeting-archive-15863.json
+    ✓ Updated XML: february-2023-webinar-meeting-archive-15863.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[11/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: february-2024-webinar-archive-16521.json
+================================================================================
+  URL: https://aaiila.org/february-2024-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Ivory Johnson
+    Photo ID: 16526
+    URL: https://aaiila.org/wp-content/uploads/2024/01/Ivory-Johnson-e1705875055454-400x4...
+    Saving to: ivory-johnson_16526.jpg
+    ✓ Downloaded (30149 bytes)
+
+  Downloading: Kevin Carter
+    Photo ID: 16527
+    URL: https://aaiila.org/wp-content/uploads/2024/01/kevincarter-400x400.jpg...
+    Saving to: kevin-carter_16527.jpg
+    ✓ Downloaded (70140 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: february-2024-webinar-archive-16521.json
+    ✓ Updated XML: february-2024-webinar-archive-16521.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[12/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: february-2025-webinar-archive-17356.json
+================================================================================
+  URL: https://aaiila.org/february-2025-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Amy P. Raskin
+    Photo ID: 17302
+    URL: https://aaiila.org/wp-content/uploads/2025/01/Amy-Raskin.jpb_-400x400.jpg...
+    Saving to: amy-p-raskin_17302.jpg
+    ✓ Downloaded (17568 bytes)
+
+  Downloading: Robert C. Doll, CFA
+    Photo ID: 17303
+    URL: https://aaiila.org/wp-content/uploads/2025/01/Bob-Doll-400x400.jpg...
+    Saving to: robert-c-doll-cfa_17303.jpg
+    ✓ Downloaded (19855 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: february-2025-webinar-archive-17356.json
+    ✓ Updated XML: february-2025-webinar-archive-17356.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[13/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: january-2021-webinar-meeting-archive-14674.json
+================================================================================
+  URL: https://aaiila.org/january-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Tom Petruno
+    Photo ID: 14676
+    URL: https://aaiila.org/wp-content/uploads/2020/12/Tom-Petruno-337-400x400.gif...
+    Saving to: tom-petruno_14676.gif
+    ✓ Downloaded (89030 bytes)
+
+  Downloading: Jeffrey Kleintop
+    Photo ID: 14677
+    URL: https://aaiila.org/wp-content/uploads/2020/12/Jeffrey-Kleintop-index-400x400.jpg...
+    Saving to: jeffrey-kleintop_14677.jpg
+    ✓ Downloaded (19722 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: january-2021-webinar-meeting-archive-14674.json
+    ✓ Updated XML: january-2021-webinar-meeting-archive-14674.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[14/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: january-2022-skirballwebinar-meeting-archive-15156.json
+================================================================================
+  URL: https://aaiila.org/january-2022-skirball-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Cullen Roche
+    Photo ID: 15171
+    URL: https://aaiila.org/wp-content/uploads/2021/12/Cullen-Roche-scaled-400x400.jpg...
+    Saving to: cullen-roche_15171.jpg
+    ✓ Downloaded (19153 bytes)
+
+  Downloading: Tony Danaher
+    Photo ID: 15297
+    URL: https://aaiila.org/wp-content/uploads/2022/01/Tony-Danaher-cropped-resized-2-400...
+    Saving to: tony-danaher_15297.jpg
+    ✓ Downloaded (38281 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: january-2022-skirballwebinar-meeting-archive-15156.json
+    ✓ Updated XML: january-2022-skirballwebinar-meeting-archive-15156.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[15/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: january-2023-skirballwebinar-meeting-archive-15796.json
+================================================================================
+  URL: https://aaiila.org/january-2023-skirball-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Sebastien Page, CFA
+    Photo ID: 15821
+    URL: https://aaiila.org/wp-content/uploads/2022/12/Sebastien-Page-400x400.jpg...
+    Saving to: sebastien-page-cfa_15821.jpg
+    ✓ Downloaded (17002 bytes)
+
+  Downloading: Bob Doll, CFA, CPA
+    Photo ID: 15823
+    URL: https://aaiila.org/wp-content/uploads/2022/12/Bob-Doll-1500-400x400.jpg...
+    Saving to: bob-doll-cfa-cpa_15823.jpg
+    ✓ Downloaded (34124 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: january-2023-skirballwebinar-meeting-archive-15796.json
+    ✓ Updated XML: january-2023-skirballwebinar-meeting-archive-15796.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[16/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: january-2025-webinar-archive-17276.json
+================================================================================
+  URL: https://aaiila.org/january-2025-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Anthony Danaher
+    Photo ID: 17245
+    URL: https://aaiila.org/wp-content/uploads/2024/12/Tony-Danaher-cropped-resized-3-400...
+    Saving to: anthony-danaher_17245.jpg
+    ✓ Downloaded (21886 bytes)
+
+  Downloading: Mark Skousen, Ph. D.
+    Photo ID: 13119
+    URL: https://aaiila.org/wp-content/uploads/2019/03/Mark-Skousen-400x400.jpg...
+    Saving to: mark-skousen-ph-d_13119.jpg
+    ✓ Downloaded (14852 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: january-2025-webinar-archive-17276.json
+    ✓ Updated XML: january-2025-webinar-archive-17276.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[17/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: july-2021-webinar-meeting-archive-14954.json
+================================================================================
+  URL: https://aaiila.org/july-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Micky Jagirdar
+    Photo ID: 14957
+    URL: https://aaiila.org/wp-content/uploads/2021/06/Jagirdar_Micky_web-400x400.png...
+    Saving to: micky-jagirdar_14957.png
+    ✓ Downloaded (157143 bytes)
+
+  Downloading: Ben Johnson, CFA
+    Photo ID: 14958
+    URL: https://aaiila.org/wp-content/uploads/2021/06/Ben-Johnson-_MGP4795_large-e162407...
+    Saving to: ben-johnson-cfa_14958.jpg
+    ✓ Downloaded (46212 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: july-2021-webinar-meeting-archive-14954.json
+    ✓ Updated XML: july-2021-webinar-meeting-archive-14954.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[18/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: july-2022-webinar-meeting-archive-15569.json
+================================================================================
+  URL: https://aaiila.org/july-2022-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Victoria Fernandez
+    Photo ID: 15565
+    URL: https://aaiila.org/wp-content/uploads/2022/06/Victoria-Fernandez-scaled-1-400x40...
+    Saving to: victoria-fernandez_15565.jpg
+    ✓ Downloaded (19904 bytes)
+
+  Downloading: Laurence Kotlikoff, Ph.D
+    Photo ID: 15568
+    URL: https://aaiila.org/wp-content/uploads/2022/06/Larry-Kotlikoff-600x600-1-400x400....
+    Saving to: laurence-kotlikoff-phd_15568.jpg
+    ✓ Downloaded (30718 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: july-2022-webinar-meeting-archive-15569.json
+    ✓ Updated XML: july-2022-webinar-meeting-archive-15569.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[19/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: july-2023-webinar-meeting-archive-16054.json
+================================================================================
+  URL: https://aaiila.org/july-2023-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Scott Nations
+    Photo ID: 16049
+    URL: https://aaiila.org/wp-content/uploads/2023/06/Scott-Nations-scaled-400x400.jpg...
+    Saving to: scott-nations_16049.jpg
+    ✓ Downloaded (19685 bytes)
+
+  Downloading: Fritz Gilbert
+    Photo ID: 16052
+    URL: https://aaiila.org/wp-content/uploads/2023/06/Fritz_Gilbert-resized-400x400.jpg...
+    Saving to: fritz-gilbert_16052.jpg
+    ✓ Downloaded (141167 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: july-2023-webinar-meeting-archive-16054.json
+    ✓ Updated XML: july-2023-webinar-meeting-archive-16054.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[20/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: july-2025-webinar-archive-17614.json
+================================================================================
+  URL: https://aaiila.org/july-2025-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Dan Niles
+    Photo ID: 17593
+    URL: https://aaiila.org/wp-content/uploads/2025/06/dan-niles-headshot-e1750206930693-...
+    Saving to: dan-niles_17593.jpg
+    ✓ Downloaded (18929 bytes)
+
+  Downloading: Kim Forrest
+    Photo ID: 17595
+    URL: https://aaiila.org/wp-content/uploads/2025/06/kim-forrest-300x450-1-400x400.jpg...
+    Saving to: kim-forrest_17595.jpg
+    ✓ Downloaded (27017 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: july-2025-webinar-archive-17614.json
+    ✓ Updated XML: july-2025-webinar-archive-17614.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[21/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: june-2020-webinar-bonus-meeting-archive-14287.json
+================================================================================
+  URL: https://aaiila.org/june-2020-webinar-bonus-meeting-archive/
+  ✓ Page fetched
+  Found 1 speakers with photo_ids
+  Found 1 image URLs on page
+
+  Downloading: Gary Karz, CFA
+    Photo ID: 14211
+    URL: https://aaiila.org/wp-content/uploads/2020/05/Gary-Karz-400x400.jpg...
+    Saving to: gary-karz-cfa_14211.jpg
+    ✓ Downloaded (26196 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2020-webinar-bonus-meeting-archive-14287.json
+    ✓ Updated XML: june-2020-webinar-bonus-meeting-archive-14287.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[22/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: june-2021-webinar-meeting-archive-14907.json
+================================================================================
+  URL: https://aaiila.org/june-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: David M. Lebovitz
+    Photo ID: 14909
+    URL: https://aaiila.org/wp-content/uploads/2021/05/David-Lebovitz-400x400.jpg...
+    Saving to: david-m-lebovitz_14909.jpg
+    ✓ Downloaded (41706 bytes)
+
+  Downloading: Allan Roth (CFP, CPA, MBA)
+    Photo ID: 14910
+    URL: https://aaiila.org/wp-content/uploads/2021/05/Allan-Roth-BLP_7221-400x400.jpg...
+    Saving to: allan-roth-cfp-cpa-mba_14910.jpg
+    ✓ Downloaded (39636 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2021-webinar-meeting-archive-14907.json
+    ✓ Updated XML: june-2021-webinar-meeting-archive-14907.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[23/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: june-2022-webinar-meeting-archive-15514.json
+================================================================================
+  URL: https://aaiila.org/june-2022-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Paul Merriman
+    Photo ID: 15538
+    URL: https://aaiila.org/wp-content/uploads/2022/05/Paul-Merriman-1-400x400.jpeg...
+    Saving to: paul-merriman_15538.jpeg
+    ✓ Downloaded (27199 bytes)
+
+  Downloading: Dan Niles
+    Photo ID: 15542
+    URL: https://aaiila.org/wp-content/uploads/2022/05/DTN_PicCropped_CNBC-400x400.jpeg...
+    Saving to: dan-niles_15542.jpeg
+    ✓ Downloaded (24658 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2022-webinar-meeting-archive-15514.json
+    ✓ Updated XML: june-2022-webinar-meeting-archive-15514.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[24/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: june-2024-webinar-archive-16740.json
+================================================================================
+  URL: https://aaiila.org/june-2024-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Chris Watling
+    Photo ID: 16744
+    URL: https://aaiila.org/wp-content/uploads/2024/05/Chris-Watling-400x400.jpg...
+    Saving to: chris-watling_16744.jpg
+    ✓ Downloaded (19151 bytes)
+
+  Downloading: Marilyn Cohen
+    Photo ID: 16746
+    URL: https://aaiila.org/wp-content/uploads/2024/05/Marilyn-Cohen-638SPK_350x350-400x4...
+    Saving to: marilyn-cohen_16746.jpg
+    ✓ Downloaded (27870 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2024-webinar-archive-16740.json
+    ✓ Updated XML: june-2024-webinar-archive-16740.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[25/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: june-2025-webinar-archive-17565.json
+================================================================================
+  URL: https://aaiila.org/june-2025-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Dr. Charles Lieberman,
+    Photo ID: 17548
+    URL: https://aaiila.org/wp-content/uploads/2025/05/Charles-Lieberman-scaled-e17472896...
+    Saving to: dr-charles-lieberman_17548.jpg
+    ✓ Downloaded (23545 bytes)
+
+  Downloading: Adam Parker
+    Photo ID: 17566
+    URL: https://aaiila.org/wp-content/uploads/2025/05/Adam-Portrait-Circle_edited-400x40...
+    Saving to: adam-parker_17566.jpg
+    ✓ Downloaded (28341 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2025-webinar-archive-17565.json
+    ✓ Updated XML: june-2025-webinar-archive-17565.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[26/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: march-2021-webinar-meeting-archive-14750.json
+================================================================================
+  URL: https://aaiila.org/march-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Nancy Tengler
+    Photo ID: 14753
+    URL: https://aaiila.org/wp-content/uploads/2021/02/Nancy-Tengler-400x400.jpeg...
+    Saving to: nancy-tengler_14753.jpeg
+    ✓ Downloaded (22440 bytes)
+
+  Downloading: Robert C. Doll, CFA
+    Photo ID: 14752
+    URL: https://aaiila.org/wp-content/uploads/2021/02/Bob-Doll-scaled-400x400.jpg...
+    Saving to: robert-c-doll-cfa_14752.jpg
+    ✓ Downloaded (37561 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: march-2021-webinar-meeting-archive-14750.json
+    ✓ Updated XML: march-2021-webinar-meeting-archive-14750.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[27/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: march-2022-skirballwebinar-meeting-archive-15322.json
+================================================================================
+  URL: https://aaiila.org/march-2022-skirball-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 1 speakers with photo_ids
+  Found 1 image URLs on page
+
+  Downloading: Christine Benz
+    Photo ID: 15358
+    URL: https://aaiila.org/wp-content/uploads/2022/02/christinephoto-e1644970316456-400x...
+    Saving to: christine-benz_15358.gif
+    ✓ Downloaded (93602 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: march-2022-skirballwebinar-meeting-archive-15322.json
+    ✓ Updated XML: march-2022-skirballwebinar-meeting-archive-15322.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[28/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: march-2023-webinar-meeting-archive-15903.json
+================================================================================
+  URL: https://aaiila.org/march-2023-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 1 speakers with photo_ids
+  Found 1 image URLs on page
+
+  Downloading: James Stack
+    Photo ID: 15907
+    URL: https://aaiila.org/wp-content/uploads/2023/02/James-Stack-March-2023-CROPPED-400...
+    Saving to: james-stack_15907.jpg
+    ✓ Downloaded (51931 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: march-2023-webinar-meeting-archive-15903.json
+    ✓ Updated XML: march-2023-webinar-meeting-archive-15903.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[29/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: march-2024-webinar-archive-16578.json
+================================================================================
+  URL: https://aaiila.org/march-2024-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Adam Parker
+    Photo ID: 16582
+    URL: https://aaiila.org/wp-content/uploads/2024/02/02-ADAM-PARKER-cropped-400x400.jpg...
+    Saving to: adam-parker_16582.jpg
+    ✓ Downloaded (37717 bytes)
+
+  Downloading: Chris Verrone
+    Photo ID: 16580
+    URL: https://aaiila.org/wp-content/uploads/2024/02/01-CHRIS-VERRONE-400x400.jpg...
+    Saving to: chris-verrone_16580.jpg
+    ✓ Downloaded (18766 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: march-2024-webinar-archive-16578.json
+    ✓ Updated XML: march-2024-webinar-archive-16578.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[30/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: march-2025-webinar-archive-17357.json
+================================================================================
+  URL: https://aaiila.org/march-2025-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Callie Cox
+    Photo ID: 17359
+    URL: https://aaiila.org/wp-content/uploads/2025/02/66705308dcb8286c96e31fae_CoxCallie...
+    Saving to: callie-cox_17359.jpg
+    ✓ Downloaded (25631 bytes)
+
+  Downloading: Jack Bowers
+    Photo ID: 17360
+    URL: https://aaiila.org/wp-content/uploads/2025/02/Jack-Bowers-302-400x400.gif...
+    Saving to: jack-bowers_17360.gif
+    ✓ Downloaded (124983 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: march-2025-webinar-archive-17357.json
+    ✓ Updated XML: march-2025-webinar-archive-17357.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[31/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: may-2020-webinar-monthly-meeting-archive-14234.json
+================================================================================
+  URL: https://aaiila.org/may-2020-webinar-monthly-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 0 image URLs on page
+
+  Summary: 0 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 0 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[32/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: may-2021-webinar-meeting-archive-14844.json
+================================================================================
+  URL: https://aaiila.org/may-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Michael K. Farr
+    Photo ID: 14859
+    URL: https://aaiila.org/wp-content/uploads/2021/04/105475139-1538063652028michaelfarr...
+    Saving to: michael-k-farr_14859.jpg
+    ✓ Downloaded (14791 bytes)
+
+  Downloading: Sebastien Page, CFA
+    Photo ID: 14858
+    URL: https://aaiila.org/wp-content/uploads/2021/04/5893e87e6e09a835008b4dee-400x400.j...
+    Saving to: sebastien-page-cfa_14858.jpeg
+    ✓ Downloaded (19129 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: may-2021-webinar-meeting-archive-14844.json
+    ✓ Updated XML: may-2021-webinar-meeting-archive-14844.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[33/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: may-2022-skirballwebinar-meeting-archive-15356.json
+================================================================================
+  URL: https://aaiila.org/may-2022-skirball-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Kevin Carter
+    Photo ID: 15471
+    URL: https://aaiila.org/wp-content/uploads/2022/03/Kevin-Carter-400x400.jpg...
+    Saving to: kevin-carter_15471.jpg
+    ✓ Downloaded (25393 bytes)
+
+  Downloading: Mark Skousen
+    Photo ID: 15469
+    URL: https://aaiila.org/wp-content/uploads/2022/03/Mark-Skousen-400x400.jpg...
+    Saving to: mark-skousen_15469.jpg
+    ✓ Downloaded (13581 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: may-2022-skirballwebinar-meeting-archive-15356.json
+    ✓ Updated XML: may-2022-skirballwebinar-meeting-archive-15356.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[34/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: may-2023-webinar-meeting-archive-15978.json
+================================================================================
+  URL: https://aaiila.org/may-2023-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Liz Young, CFA
+    Photo ID: 15980
+    URL: https://aaiila.org/wp-content/uploads/2023/04/LYoung127Cropped-400x400.jpg...
+    Saving to: liz-young-cfa_15980.jpg
+    ✓ Downloaded (42854 bytes)
+
+  Downloading: James Park
+    Photo ID: 15982
+    URL: https://aaiila.org/wp-content/uploads/2023/04/Park_Jim_022-cropped-400x400.jpg...
+    Saving to: james-park_15982.jpg
+    ✓ Downloaded (47218 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: may-2023-webinar-meeting-archive-15978.json
+    ✓ Updated XML: may-2023-webinar-meeting-archive-15978.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[35/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: may-2024-webinar-archive-16721.json
+================================================================================
+  URL: https://aaiila.org/may-2024-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: David L. Bahnsen
+    Photo ID: 16693
+    URL: https://aaiila.org/wp-content/uploads/2024/04/David-Bahnsen-400x400.jpg...
+    Saving to: david-l-bahnsen_16693.jpg
+    ✓ Downloaded (15772 bytes)
+
+  Downloading: Doug Ramsey, CFA, CMT
+    Photo ID: 16695
+    URL: https://aaiila.org/wp-content/uploads/2024/04/DSC_3768_LR_Doug-400x400.jpg...
+    Saving to: doug-ramsey-cfa-cmt_16695.jpg
+    ✓ Downloaded (19643 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: may-2024-webinar-archive-16721.json
+    ✓ Updated XML: may-2024-webinar-archive-16721.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[36/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: may-2025-webinar-archive-17459.json
+================================================================================
+  URL: https://aaiila.org/may-2025-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Alex Ebkarian
+    Photo ID: 17464
+    URL: https://aaiila.org/wp-content/uploads/2025/04/Alex-Ebkarian_edited-400x400.jpg...
+    Saving to: alex-ebkarian_17464.jpg
+    ✓ Downloaded (29266 bytes)
+
+  Downloading: Steve Chen
+    Photo ID: 17463
+    URL: https://aaiila.org/wp-content/uploads/2025/04/Stephen-Chen_edit2-400x400.jpg...
+    Saving to: steve-chen_17463.jpg
+    ✓ Downloaded (39629 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: may-2025-webinar-archive-17459.json
+    ✓ Updated XML: may-2025-webinar-archive-17459.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[37/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: november-2020-webinar-monthly-meeting-archive-14550.json
+================================================================================
+  URL: https://aaiila.org/november-2020-webinar-monthly-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Steven Romick, CFA
+    Photo ID: 14645
+    URL: https://aaiila.org/wp-content/uploads/2020/11/romick_steve-400x400.jpg...
+    Saving to: steven-romick-cfa_14645.jpg
+    ✓ Downloaded (19584 bytes)
+
+  Downloading: Jamie Hopkins, CFP
+    Photo ID: 14553
+    URL: https://aaiila.org/wp-content/uploads/2020/10/Jamie-Hopkins-e1602794224862-400x4...
+    Saving to: jamie-hopkins-cfp_14553.png
+    ✓ Downloaded (207840 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: november-2020-webinar-monthly-meeting-archive-14550.json
+    ✓ Updated XML: november-2020-webinar-monthly-meeting-archive-14550.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[38/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: november-2021-webinar-meeting-archive-15085.json
+================================================================================
+  URL: https://aaiila.org/november-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Wade Pfau, Ph.D., CFA, RICP
+    Photo ID: 15088
+    URL: https://aaiila.org/wp-content/uploads/2021/10/faculty-wade-pfau-wide-400x400.jpg...
+    Saving to: wade-pfau-phd-cfa-ricp_15088.jpg
+    ✓ Downloaded (17087 bytes)
+
+  Downloading: Dr. Ronald D. Lee
+    Photo ID: 15089
+    URL: https://aaiila.org/wp-content/uploads/2021/10/RONALD-LEE-HeadShotCHARLS_Dec2019-...
+    Saving to: dr-ronald-d-lee_15089.jpg
+    ✓ Downloaded (87351 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: november-2021-webinar-meeting-archive-15085.json
+    ✓ Updated XML: november-2021-webinar-meeting-archive-15085.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[39/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: november-2022-skirballwebinar-meeting-archive-15723.json
+================================================================================
+  URL: https://aaiila.org/november-2022-skirball-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Terri Spath, CFA, CFP
+    Photo ID: 15738
+    URL: https://aaiila.org/wp-content/uploads/2022/10/Terri-Spath-photo-400x400.jpg...
+    Saving to: terri-spath-cfa-cfp_15738.jpg
+    ✓ Downloaded (55231 bytes)
+
+  Downloading: Taylor R. Schulte, CFP
+    Photo ID: 15739
+    URL: https://aaiila.org/wp-content/uploads/2022/10/Taylor-Schulte-Headshot-400x400.jp...
+    Saving to: taylor-r-schulte-cfp_15739.jpg
+    ✓ Downloaded (25900 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: november-2022-skirballwebinar-meeting-archive-15723.json
+    ✓ Updated XML: november-2022-skirballwebinar-meeting-archive-15723.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[40/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: november-2023-skirballwebinar-archive-16287.json
+================================================================================
+  URL: https://aaiila.org/november-2023-skirball-webinar-notice/
+  ✓ Page fetched
+  Found 5 speakers with photo_ids
+  Found 5 image URLs on page
+
+  Downloading: JOSH EMANUEL, CFA
+    Photo ID: 16291
+    URL: https://aaiila.org/wp-content/uploads/2023/10/Josh-Emanuel-400x400.jpg...
+    Saving to: josh-emanuel-cfa_16291.jpg
+    ✓ Downloaded (16260 bytes)
+
+  Downloading: Todd Leavitt
+    Photo ID: 16318
+    URL: https://aaiila.org/wp-content/uploads/2023/10/todd-400x400.jpg...
+    Saving to: todd-leavitt_16318.jpg
+    ✓ Downloaded (17837 bytes)
+
+  Downloading: Chuck Spence
+    Photo ID: 16313
+    URL: https://aaiila.org/wp-content/uploads/2023/10/chuck-400x400.jpg...
+    Saving to: chuck-spence_16313.jpg
+    ✓ Downloaded (14674 bytes)
+
+  Downloading: Miles Mitchell
+    Photo ID: 16321
+    URL: https://aaiila.org/wp-content/uploads/2023/10/Miles-resized-cropped-400x400.jpg...
+    Saving to: miles-mitchell_16321.jpg
+    ✓ Downloaded (34923 bytes)
+
+  Downloading: JC O'Gabhann
+    Photo ID: 16316
+    URL: https://aaiila.org/wp-content/uploads/2023/10/JC-resized-400x400.jpg...
+    Saving to: jc-ogabhann_16316.jpg
+    ✓ Downloaded (60130 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: november-2023-skirballwebinar-archive-16287.json
+    ✓ Updated XML: november-2023-skirballwebinar-archive-16287.xml
+
+  Summary: 5 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 5 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[41/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: november-2024-webinar-archive-17034.json
+================================================================================
+  URL: https://aaiila.org/november-2024-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Christine Short
+    Photo ID: 17037
+    URL: https://aaiila.org/wp-content/uploads/2024/10/Christine-Short-400x400.jpg...
+    Saving to: christine-short_17037.jpg
+    ✓ Downloaded (18935 bytes)
+
+  Downloading: Paul Merriman
+    Photo ID: 17038
+    URL: https://aaiila.org/wp-content/uploads/2024/10/Paul-Merriman-00353287-CROPPED-e17...
+    Saving to: paul-merriman_17038.gif
+    ✓ Downloaded (105441 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: november-2024-webinar-archive-17034.json
+    ✓ Updated XML: november-2024-webinar-archive-17034.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[42/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: october-2021-webinar-meeting-archive-15044.json
+================================================================================
+  URL: https://aaiila.org/october-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Patrick Geddes
+    Photo ID: 15047
+    URL: https://aaiila.org/wp-content/uploads/2021/09/Patrick-Geddes-400x400.jpg...
+    Saving to: patrick-geddes_15047.jpg
+    ✓ Downloaded (28822 bytes)
+
+  Downloading: Larry Hatheway, PhD
+    Photo ID: 15046
+    URL: https://aaiila.org/wp-content/uploads/2021/09/Larry-Hatheway-400x400.jpg...
+    Saving to: larry-hatheway-phd_15046.jpg
+    ✓ Downloaded (18787 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: october-2021-webinar-meeting-archive-15044.json
+    ✓ Updated XML: october-2021-webinar-meeting-archive-15044.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[43/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: october-2023-webinar-meeting-archive-16225.json
+================================================================================
+  URL: https://aaiila.org/october-2023-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 1 speakers with photo_ids
+  Found 1 image URLs on page
+
+  Downloading: Bruce Johnstone
+    Photo ID: 16228
+    URL: https://aaiila.org/wp-content/uploads/2023/09/Bruce-Johnstone-199-400x400.gif...
+    Saving to: bruce-johnstone_16228.gif
+    ✓ Downloaded (61632 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: october-2023-webinar-meeting-archive-16225.json
+    ✓ Updated XML: october-2023-webinar-meeting-archive-16225.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[44/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: october-2024-webinar-archive-17009.json
+================================================================================
+  URL: https://aaiila.org/october-2024-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: James Paulsen
+    Photo ID: 17014
+    URL: https://aaiila.org/wp-content/uploads/2024/09/James-Paulsen-446-cropped-400x400....
+    Saving to: james-paulsen_17014.gif
+    ✓ Downloaded (97980 bytes)
+
+  Downloading: Mebane Faber
+    Photo ID: 17016
+    URL: https://aaiila.org/wp-content/uploads/2024/09/Mebane-Faber-275-cropped-400x400.g...
+    Saving to: mebane-faber_17016.gif
+    ✓ Downloaded (83746 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: october-2024-webinar-archive-17009.json
+    ✓ Updated XML: october-2024-webinar-archive-17009.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[45/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: october-2025-hotel-angeleno-webinar-archive-17801.json
+================================================================================
+  URL: https://aaiila.org/october-2025-hotel-angeleno-webinar-archive/
+  ✓ Page fetched
+  Found 5 speakers with photo_ids
+  Found 5 image URLs on page
+
+  Downloading: David Ryan
+    Photo ID: 17715
+    URL: https://aaiila.org/wp-content/uploads/2025/08/David-Ryan-Screenshot-2025-08-18-a...
+    Saving to: david-ryan_17715.png
+    ✓ Downloaded (95533 bytes)
+
+  Downloading: Barry Goldsmith
+    Photo ID: 17713
+    URL: https://aaiila.org/wp-content/uploads/2025/08/Barry-Goldsmith-rotated-400x400.jp...
+    Saving to: barry-goldsmith_17713.jpg
+    ✓ Downloaded (30536 bytes)
+
+  Downloading: Phillip Richards
+    Photo ID: 12301
+    URL: https://aaiila.org/wp-content/uploads/2018/10/boardmember_richards-400x400.jpg...
+    Saving to: phillip-richards_12301.jpg
+    ✓ Downloaded (26765 bytes)
+
+  Downloading: Fred Wallace
+    Photo ID: 17712
+    URL: https://aaiila.org/wp-content/uploads/2025/08/FWallacePhoto500-400x400.jpg...
+    Saving to: fred-wallace_17712.jpg
+    ✓ Downloaded (17354 bytes)
+
+  Downloading: Pierre C. Wong, MD
+    Photo ID: 17714
+    URL: https://aaiila.org/wp-content/uploads/2025/08/Pierre-Wong-PW-photo-400x400.jpeg...
+    Saving to: pierre-c-wong-md_17714.jpeg
+    ✓ Downloaded (33150 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: october-2025-hotel-angeleno-webinar-archive-17801.json
+    ✓ Updated XML: october-2025-hotel-angeleno-webinar-archive-17801.xml
+
+  Summary: 5 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 5 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[46/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: september-2020-webinar-monthly-meeting-archive-14436.json
+================================================================================
+  URL: https://aaiila.org/september-2020-webinar-monthly-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Howard Marks
+    Photo ID: 14439
+    URL: https://aaiila.org/wp-content/uploads/2020/08/Howard-Marks-color-2017-400x400.jp...
+    Saving to: howard-marks_14439.jpg
+    ✓ Downloaded (18505 bytes)
+
+  Downloading: Kristina Hooper
+    Photo ID: 14438
+    URL: https://aaiila.org/wp-content/uploads/2020/08/Kristina-Hooper-image001-400x400.j...
+    Saving to: kristina-hooper_14438.jpg
+    ✓ Downloaded (20360 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: september-2020-webinar-monthly-meeting-archive-14436.json
+    ✓ Updated XML: september-2020-webinar-monthly-meeting-archive-14436.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[47/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: september-2021-webinar-meeting-archive-14996.json
+================================================================================
+  URL: https://aaiila.org/september-2021-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Jason De Sena Trennert
+    Photo ID: 15006
+    URL: https://aaiila.org/wp-content/uploads/2021/08/JasonTrennert-Photo-2020-e16293408...
+    Saving to: jason-de-sena-trennert_15006.jpg
+    ✓ Downloaded (49245 bytes)
+
+  Downloading: Bruce Johnstone, CFA
+    Photo ID: 15005
+    URL: https://aaiila.org/wp-content/uploads/2021/08/Bruce-Johnstone-1289SPK_350x350-40...
+    Saving to: bruce-johnstone-cfa_15005.jpg
+    ✓ Downloaded (20996 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: september-2021-webinar-meeting-archive-14996.json
+    ✓ Updated XML: september-2021-webinar-meeting-archive-14996.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[48/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: september-2022-skirballwebinar-meeting-archive-15674.json
+================================================================================
+  URL: https://aaiila.org/september-2022-skirball-webinar-meeting-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Hal Reynolds, CFA
+    Photo ID: 15672
+    URL: https://aaiila.org/wp-content/uploads/2022/08/Hal-Reynolds-400x400.jpg...
+    Saving to: hal-reynolds-cfa_15672.jpg
+    ✓ Downloaded (12507 bytes)
+
+  Downloading: Frank Barbera
+    Photo ID: 15673
+    URL: https://aaiila.org/wp-content/uploads/2022/08/Frank-Barbara-scaled-400x400.jpg...
+    Saving to: frank-barbera_15673.jpg
+    ✓ Downloaded (17473 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: september-2022-skirballwebinar-meeting-archive-15674.json
+    ✓ Updated XML: september-2022-skirballwebinar-meeting-archive-15674.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[49/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: september-2023-skirballwebinar-archive-16194.json
+================================================================================
+  URL: https://aaiila.org/september-2023-skirball-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Gina Sanchez
+    Photo ID: 16145
+    URL: https://aaiila.org/wp-content/uploads/2023/08/Gina-Sanchez-CROP1-400x400.jpg...
+    Saving to: gina-sanchez_16145.jpg
+    ✓ Downloaded (41939 bytes)
+
+  Downloading: Nick Atkeson
+    Photo ID: 16148
+    URL: https://aaiila.org/wp-content/uploads/2023/08/Nick-Atkeson-CROPPED1-400x400.gif...
+    Saving to: nick-atkeson_16148.gif
+    ✓ Downloaded (78413 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: september-2023-skirballwebinar-archive-16194.json
+    ✓ Updated XML: september-2023-skirballwebinar-archive-16194.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[50/50]
+================================================================================
+================================================================================
+SPEAKER IMAGE DOWNLOADER
+================================================================================
+
+
+Processing: september-2025-webinar-archive-17765.json
+================================================================================
+  URL: https://aaiila.org/september-2025-webinar-archive/
+  ✓ Page fetched
+  Found 2 speakers with photo_ids
+  Found 2 image URLs on page
+
+  Downloading: Dennis Lockhart
+    Photo ID: 17669
+    URL: https://aaiila.org/wp-content/uploads/2025/08/Lockhart-400-400x400.jpg...
+    Saving to: dennis-lockhart_17669.jpg
+    ✓ Downloaded (27670 bytes)
+
+  Downloading: Talley Léger
+    Photo ID: 17668
+    URL: https://aaiila.org/wp-content/uploads/2025/08/Leger_Talley-Headshot-Small-600-40...
+    Saving to: talley-léger_17668.jpg
+    ✓ Downloaded (37251 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: september-2025-webinar-archive-17765.json
+    ✓ Updated XML: september-2025-webinar-archive-17765.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 images downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+BATCH PROCESSING COMPLETE
+================================================================================
+
+Files processed: 50/50
+Total images downloaded: 100
+Total images failed: 0
+
+✓ Files with successful downloads (49):
+  - april-2021-webinar-meeting-archive-14812.json: 2 images
+  - april-2022-webinar-meeting-archive-15408.json: 2 images
+  - april-2024-skirballwebinar-archive-16632.json: 1 images
+  - april-2025-hotel-angelenowebinar-archive-17525.json: 3 images
+  - august-2020-webinar-monthly-meeting-archive-14449.json: 3 images
+  - august-2023-webinar-meeting-archive-16018.json: 2 images
+  - december-2020-webinar-bonus-meeting-archive-14581.json: 2 images
+  - february-2021-webinar-meeting-archive-14696.json: 1 images
+  - february-2022-webinar-meeting-archive-15306.json: 2 images
+  - february-2023-webinar-meeting-archive-15863.json: 2 images
+  - february-2024-webinar-archive-16521.json: 2 images
+  - february-2025-webinar-archive-17356.json: 2 images
+  - january-2021-webinar-meeting-archive-14674.json: 2 images
+  - january-2022-skirballwebinar-meeting-archive-15156.json: 2 images
+  - january-2023-skirballwebinar-meeting-archive-15796.json: 2 images
+  - january-2025-webinar-archive-17276.json: 2 images
+  - july-2021-webinar-meeting-archive-14954.json: 2 images
+  - july-2022-webinar-meeting-archive-15569.json: 2 images
+  - july-2023-webinar-meeting-archive-16054.json: 2 images
+  - july-2025-webinar-archive-17614.json: 2 images
+  - june-2020-webinar-bonus-meeting-archive-14287.json: 1 images
+  - june-2021-webinar-meeting-archive-14907.json: 2 images
+  - june-2022-webinar-meeting-archive-15514.json: 2 images
+  - june-2024-webinar-archive-16740.json: 2 images
+  - june-2025-webinar-archive-17565.json: 2 images
+  - march-2021-webinar-meeting-archive-14750.json: 2 images
+  - march-2022-skirballwebinar-meeting-archive-15322.json: 1 images
+  - march-2023-webinar-meeting-archive-15903.json: 1 images
+  - march-2024-webinar-archive-16578.json: 2 images
+  - march-2025-webinar-archive-17357.json: 2 images
+  - may-2021-webinar-meeting-archive-14844.json: 2 images
+  - may-2022-skirballwebinar-meeting-archive-15356.json: 2 images
+  - may-2023-webinar-meeting-archive-15978.json: 2 images
+  - may-2024-webinar-archive-16721.json: 2 images
+  - may-2025-webinar-archive-17459.json: 2 images
+  - november-2020-webinar-monthly-meeting-archive-14550.json: 2 images
+  - november-2021-webinar-meeting-archive-15085.json: 2 images
+  - november-2022-skirballwebinar-meeting-archive-15723.json: 2 images
+  - november-2023-skirballwebinar-archive-16287.json: 5 images
+  - november-2024-webinar-archive-17034.json: 2 images
+  - october-2021-webinar-meeting-archive-15044.json: 2 images
+  - october-2023-webinar-meeting-archive-16225.json: 1 images
+  - october-2024-webinar-archive-17009.json: 2 images
+  - october-2025-hotel-angeleno-webinar-archive-17801.json: 5 images
+  - september-2020-webinar-monthly-meeting-archive-14436.json: 2 images
+  - september-2021-webinar-meeting-archive-14996.json: 2 images
+  - september-2022-skirballwebinar-meeting-archive-15674.json: 2 images
+  - september-2023-skirballwebinar-archive-16194.json: 2 images
+  - september-2025-webinar-archive-17765.json: 2 images
+
+✓ Report saved to: /Users/ravivedula/Dropbox/1-projects/Coding/test-learning/nuxt-blog/AAII-Migration-assets/output/image-download-report.json
+
