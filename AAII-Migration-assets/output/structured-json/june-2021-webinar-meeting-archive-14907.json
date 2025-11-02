@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2021/06/DL-Slides_AA-II_19June2021.pdf",
-          "label": "Presenter's Slides"
+          "label": "Presenter's Slides",
+          "local_path": "assets/materials/DL-Slides_AA-II_19June2021.pdf"
         }
       ]
     },
@@ -85,7 +86,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2021/06/AAII-Presentation-ALLAN-ROTH-6-19-21.pdf",
-          "label": "Presenter's Slides"
+          "label": "Presenter's Slides",
+          "local_path": "assets/materials/AAII-Presentation-ALLAN-ROTH-6-19-21.pdf"
         }
       ]
     }

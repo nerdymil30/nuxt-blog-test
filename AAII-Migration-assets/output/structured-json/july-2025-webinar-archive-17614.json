@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2025/07/DanNiles20250717Final.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/DanNiles20250717Final.pdf"
         }
       ]
     },
@@ -85,7 +86,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2025/07/Kim-Forrest-AAII-Los-Angeles-July-2025.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/Kim-Forrest-AAII-Los-Angeles-July-2025.pdf"
         }
       ]
     }

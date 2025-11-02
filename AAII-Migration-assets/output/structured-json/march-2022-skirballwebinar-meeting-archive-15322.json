@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2022/04/Best-Times.pdf",
-          "label": "Presenter's Slides - 9:00 am"
+          "label": "Presenter's Slides - 9:00 am",
+          "local_path": "assets/materials/Best-Times.pdf"
         },
         {
           "type": "recording",
@@ -62,7 +63,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2022/04/Terrible-Times.pdf",
-          "label": "Presenter's Slides - 10:45 am"
+          "label": "Presenter's Slides - 10:45 am",
+          "local_path": "assets/materials/Terrible-Times.pdf"
         }
       ]
     },

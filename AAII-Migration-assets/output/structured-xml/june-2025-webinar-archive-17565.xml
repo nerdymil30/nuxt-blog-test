@@ -54,11 +54,13 @@
           <url>https://aaiila.org/wp-content/uploads/2025/06/Tariffs.pdf</url>
           <label>Presenter's Slides - Tariffs</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Tariffs.pdf</local_path>
         </slides>
         <slides>
           <url>https://aaiila.org/wp-content/uploads/2025/06/Markets_Apr25.pdf</url>
           <label>Presenter's Slides - Markets</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Markets_Apr25.pdf</local_path>
         </slides>
       </materials>
     </topic>

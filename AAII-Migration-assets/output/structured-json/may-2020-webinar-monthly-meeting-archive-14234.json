@@ -51,7 +51,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2020/05/Powell-5-16-20.pdf",
-          "label": "Slides Only"
+          "label": "Slides Only",
+          "local_path": "assets/materials/Powell-5-16-20.pdf"
         }
       ]
     },
@@ -83,12 +84,14 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2020/05/Tuchman-5-16-20.pdf",
-          "label": "Slides Only"
+          "label": "Slides Only",
+          "local_path": "assets/materials/Tuchman-5-16-20.pdf"
         },
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2020/05/Tuchman-Best-and-Worst-Days.pdf",
-          "label": "Best and Worst Days Results"
+          "label": "Best and Worst Days Results",
+          "local_path": "assets/materials/Tuchman-Best-and-Worst-Days.pdf"
         }
       ]
     }

@@ -53,6 +53,7 @@
           <url>https://aaiila.org/wp-content/uploads/2022/04/Best-Times.pdf</url>
           <label>Presenter's Slides - 9:00 am</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Best-Times.pdf</local_path>
         </slides>
         <recording>
           <url>https://youtu.be/DJ-poIxIFnM</url>
@@ -63,6 +64,7 @@
           <url>https://aaiila.org/wp-content/uploads/2022/04/Terrible-Times.pdf</url>
           <label>Presenter's Slides - 10:45 am</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Terrible-Times.pdf</local_path>
         </slides>
       </materials>
     </topic>

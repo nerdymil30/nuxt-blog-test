@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2023/03/2023-AAII-Monetary-Showdown-For-AAII-Distribution.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/2023-AAII-Monetary-Showdown-For-AAII-Distribution.pdf"
         }
       ]
     }

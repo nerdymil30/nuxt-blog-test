@@ -55,6 +55,7 @@
           <url>https://aaiila.org/wp-content/uploads/2022/12/SPATH-4-horsemen-FINAL.pdf</url>
           <label>Presenter’s Slides</label>
           <status>not_validated</status>
+          <local_path>assets/materials/SPATH-4-horsemen-FINAL.pdf</local_path>
         </slides>
       </materials>
     </topic>
@@ -87,6 +88,7 @@
           <url>https://aaiila.org/wp-content/uploads/2022/12/Schulte-Inflation-AAII-Los-Angeles-2022.pdf</url>
           <label>Presenter’s Slides</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Schulte-Inflation-AAII-Los-Angeles-2022.pdf</local_path>
         </slides>
       </materials>
     </topic>

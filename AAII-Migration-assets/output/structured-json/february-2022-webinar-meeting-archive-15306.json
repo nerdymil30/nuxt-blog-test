@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2022/03/01-BOOCKVAR-Inflation-is-not-transitory-Oct-2021.pdf",
-          "label": "Presenter's Slides"
+          "label": "Presenter's Slides",
+          "local_path": "assets/materials/01-BOOCKVAR-Inflation-is-not-transitory-Oct-2021.pdf"
         }
       ]
     },
@@ -85,7 +86,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2022/03/02-KNAPP-Ironsides-Macroeconomics-AAII-Presentation-February-2022.pdf",
-          "label": "Presenter's Slides"
+          "label": "Presenter's Slides",
+          "local_path": "assets/materials/02-KNAPP-Ironsides-Macroeconomics-AAII-Presentation-February-2022.pdf"
         }
       ]
     }

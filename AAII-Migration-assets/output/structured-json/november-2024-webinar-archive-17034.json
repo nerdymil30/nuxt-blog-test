@@ -75,7 +75,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2024/11/11-Nov-2024-Paul-Merriman-Slides-AAII-LA-Final.pdf",
-          "label": "Webinar Slides"
+          "label": "Webinar Slides",
+          "local_path": "assets/materials/11-Nov-2024-Paul-Merriman-Slides-AAII-LA-Final.pdf"
         },
         {
           "type": "recording",

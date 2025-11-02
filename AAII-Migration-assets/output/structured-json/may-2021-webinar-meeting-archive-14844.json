@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2021/06/Page-Multi-Asset-Investing-May-2021-AAII.pdf",
-          "label": "Presenter's Slides"
+          "label": "Presenter's Slides",
+          "local_path": "assets/materials/Page-Multi-Asset-Investing-May-2021-AAII.pdf"
         }
       ]
     },

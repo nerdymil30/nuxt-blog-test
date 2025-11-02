@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://www.danniles.com/articles/2022-06-18",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/material_1_1.ppt"
         }
       ]
     },
@@ -85,7 +86,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2022/07/Paul-Merriman-AAII-Los-Angeles-Chapter-Final-PDFVersion.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/Paul-Merriman-AAII-Los-Angeles-Chapter-Final-PDFVersion.pdf"
         }
       ]
     }

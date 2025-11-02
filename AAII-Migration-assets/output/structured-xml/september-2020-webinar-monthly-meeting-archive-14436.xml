@@ -53,6 +53,7 @@
           <url>https://aaiila.org/wp-content/uploads/2020/09/Questions-for-Howard-Marks.pdf</url>
           <label>Questions For Howard Marks</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Questions-for-Howard-Marks.pdf</local_path>
         </slides>
       </materials>
     </topic>
@@ -80,6 +81,7 @@
           <url>https://aaiila.org/wp-content/uploads/2020/09/Kristina-Hooper-September-2020.pdf</url>
           <label>Presenter's Slides</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Kristina-Hooper-September-2020.pdf</local_path>
         </slides>
       </materials>
     </topic>

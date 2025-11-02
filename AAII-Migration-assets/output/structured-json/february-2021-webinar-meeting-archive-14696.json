@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2021/03/2021-02-20-Mark-Hulbert-Slides.pdf",
-          "label": "Mark Hulbert Slide Presentation"
+          "label": "Mark Hulbert Slide Presentation",
+          "local_path": "assets/materials/2021-02-20-Mark-Hulbert-Slides.pdf"
         }
       ]
     }

@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2023/03/2023-02-18-Sowing-The-Seeds-For-The-Next-Bull-Market.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/2023-02-18-Sowing-The-Seeds-For-The-Next-Bull-Market.pdf"
         }
       ]
     },
@@ -85,7 +86,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2023/03/NewEdge-Wealth-2023-Outlook-and-February-Update-2-19-23.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/NewEdge-Wealth-2023-Outlook-and-February-Update-2-19-23.pdf"
         }
       ]
     }

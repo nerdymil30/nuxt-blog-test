@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2022/05/Kevin-Carter-EMQQ-Global-Introduction-5.18.22.pdf",
-          "label": "Presenter's Slides"
+          "label": "Presenter's Slides",
+          "local_path": "assets/materials/Kevin-Carter-EMQQ-Global-Introduction-5.18.22.pdf"
         }
       ]
     },
@@ -85,7 +86,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2022/05/Mark-Skousen-Wisdom-Madness-of-Crowds_2022-05-28.pdf",
-          "label": "Presenter's Slides"
+          "label": "Presenter's Slides",
+          "local_path": "assets/materials/Mark-Skousen-Wisdom-Madness-of-Crowds_2022-05-28.pdf"
         }
       ]
     }

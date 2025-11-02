@@ -55,6 +55,7 @@ demand</outcome>
           <url>https://aaiila.org/wp-content/uploads/2025/07/DanNiles20250717Final.pdf</url>
           <label>Presenter’s Slides</label>
           <status>not_validated</status>
+          <local_path>assets/materials/DanNiles20250717Final.pdf</local_path>
         </slides>
       </materials>
     </topic>
@@ -90,6 +91,7 @@ from them</outcome>
           <url>https://aaiila.org/wp-content/uploads/2025/07/Kim-Forrest-AAII-Los-Angeles-July-2025.pdf</url>
           <label>Presenter’s Slides</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Kim-Forrest-AAII-Los-Angeles-July-2025.pdf</local_path>
         </slides>
       </materials>
     </topic>

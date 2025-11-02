@@ -53,12 +53,14 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2025/06/Tariffs.pdf",
-          "label": "Presenter's Slides - Tariffs"
+          "label": "Presenter's Slides - Tariffs",
+          "local_path": "assets/materials/Tariffs.pdf"
         },
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2025/06/Markets_Apr25.pdf",
-          "label": "Presenter's Slides - Markets"
+          "label": "Presenter's Slides - Markets",
+          "local_path": "assets/materials/Markets_Apr25.pdf"
         }
       ]
     },

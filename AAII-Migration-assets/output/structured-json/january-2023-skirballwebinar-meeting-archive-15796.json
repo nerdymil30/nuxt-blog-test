@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2023/02/Sebastien-Page-AA-Outlook_SPage_MASTER_Images_Retail_01132023.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/Sebastien-Page-AA-Outlook_SPage_MASTER_Images_Retail_01132023.pdf"
         }
       ]
     },
@@ -85,7 +86,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2023/02/Robert-Doll-AAII-Ten-Predictions-Presentation_01222.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/Robert-Doll-AAII-Ten-Predictions-Presentation_01222.pdf"
         }
       ]
     }

@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2020/09/Questions-for-Howard-Marks.pdf",
-          "label": "Questions For Howard Marks"
+          "label": "Questions For Howard Marks",
+          "local_path": "assets/materials/Questions-for-Howard-Marks.pdf"
         }
       ]
     },
@@ -80,7 +81,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2020/09/Kristina-Hooper-September-2020.pdf",
-          "label": "Presenter's Slides"
+          "label": "Presenter's Slides",
+          "local_path": "assets/materials/Kristina-Hooper-September-2020.pdf"
         }
       ]
     }

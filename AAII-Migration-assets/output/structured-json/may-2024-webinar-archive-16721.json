@@ -70,7 +70,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2024/11/05-MAY-2024-05-18-Webinar.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/05-MAY-2024-05-18-Webinar.pdf"
         }
       ]
     }

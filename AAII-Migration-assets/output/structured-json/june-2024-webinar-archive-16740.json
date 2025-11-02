@@ -53,7 +53,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2024/11/06-JUN-Chris-Watling-Longview-15th-June-2024-AAII-LA-Chapter-Webinar-1.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/06-JUN-Chris-Watling-Longview-15th-June-2024-AAII-LA-Chapter-Webinar-1.pdf"
         }
       ]
     },
@@ -86,7 +87,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2024/11/06-JUN-AAII-LA-6-15-24-Marilyn-Cohen-Suffering-Bond-Fatigue-V3.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/06-JUN-AAII-LA-6-15-24-Marilyn-Cohen-Suffering-Bond-Fatigue-V3.pdf"
         }
       ]
     }

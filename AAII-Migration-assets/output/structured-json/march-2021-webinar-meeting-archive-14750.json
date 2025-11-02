@@ -69,7 +69,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2021/03/Nancy-Tengler-Slices-AAII-Los-Angeles-3-20-21-FINAL.pdf",
-          "label": "Nancy Tengler Slides"
+          "label": "Nancy Tengler Slides",
+          "local_path": "assets/materials/Nancy-Tengler-Slices-AAII-Los-Angeles-3-20-21-FINAL.pdf"
         }
       ]
     }

@@ -47,7 +47,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2021/09/09.18.2021_AAII_Los-Angeles-CA_SCRUBBED-Slides-by-Bruce-Johnstone.pdf",
-          "label": "Presenter's Slides"
+          "label": "Presenter's Slides",
+          "local_path": "assets/materials/09.18.2021_AAII_Los-Angeles-CA_SCRUBBED-Slides-by-Bruce-Johnstone.pdf"
         }
       ]
     },

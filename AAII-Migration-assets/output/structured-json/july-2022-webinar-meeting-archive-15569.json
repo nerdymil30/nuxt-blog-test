@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2022/07/PDF-FINAL-Victorias-New-Deck-7.13.22-.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/PDF-FINAL-Victorias-New-Deck-7.13.22-.pdf"
         }
       ]
     },
@@ -85,7 +86,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2022/07/Maxifi_Laurence_Jul2022.pdf",
-          "label": "Presenter’s Slides"
+          "label": "Presenter’s Slides",
+          "local_path": "assets/materials/Maxifi_Laurence_Jul2022.pdf"
         }
       ]
     }

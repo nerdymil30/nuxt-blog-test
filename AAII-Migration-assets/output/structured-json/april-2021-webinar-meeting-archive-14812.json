@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2021/04/Roze_AAII_LA_2021_Part1.pdf",
-          "label": "Gatis Roze Slides - Part 1"
+          "label": "Gatis Roze Slides - Part 1",
+          "local_path": "assets/materials/Roze_AAII_LA_2021_Part1.pdf"
         }
       ]
     },
@@ -85,7 +86,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2021/04/Roze_AAII_LA_2021_Part2.pdf",
-          "label": "Grayson Roze Slides - Part 2"
+          "label": "Grayson Roze Slides - Part 2",
+          "local_path": "assets/materials/Roze_AAII_LA_2021_Part2.pdf"
         }
       ]
     },
@@ -110,7 +112,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2021/04/Roze_AAII_LA_2021_Part3.pdf",
-          "label": "Roze Duo Slides - Part 3"
+          "label": "Roze Duo Slides - Part 3",
+          "local_path": "assets/materials/Roze_AAII_LA_2021_Part3.pdf"
         }
       ]
     }

@@ -52,6 +52,7 @@
           <url>https://aaiila.org/wp-content/uploads/2020/05/Powell-5-16-20.pdf</url>
           <label>Slides Only</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Powell-5-16-20.pdf</local_path>
         </slides>
       </materials>
     </topic>
@@ -83,11 +84,13 @@
           <url>https://aaiila.org/wp-content/uploads/2020/05/Tuchman-5-16-20.pdf</url>
           <label>Slides Only</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Tuchman-5-16-20.pdf</local_path>
         </slides>
         <slides>
           <url>https://aaiila.org/wp-content/uploads/2020/05/Tuchman-Best-and-Worst-Days.pdf</url>
           <label>Best and Worst Days Results</label>
           <status>not_validated</status>
+          <local_path>assets/materials/Tuchman-Best-and-Worst-Days.pdf</local_path>
         </slides>
       </materials>
     </topic>

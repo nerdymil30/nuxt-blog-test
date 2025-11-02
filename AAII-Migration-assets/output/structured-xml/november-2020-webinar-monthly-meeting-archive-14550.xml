@@ -53,6 +53,7 @@
           <url>https://aaiila.org/wp-content/uploads/2020/12/StevenRomickPreso.pdf</url>
           <label>Presenter's Slides</label>
           <status>not_validated</status>
+          <local_path>assets/materials/StevenRomickPreso.pdf</local_path>
         </slides>
       </materials>
     </topic>
@@ -85,6 +86,7 @@
           <url>https://aaiila.org/wp-content/uploads/2020/12/CP_Biden_Presidency_Impact_101120.pdf</url>
           <label>Presenter's Slides</label>
           <status>not_validated</status>
+          <local_path>assets/materials/CP_Biden_Presidency_Impact_101120.pdf</local_path>
         </slides>
       </materials>
     </topic>

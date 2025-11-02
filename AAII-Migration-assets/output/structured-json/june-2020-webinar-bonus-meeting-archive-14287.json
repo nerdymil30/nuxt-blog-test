@@ -52,7 +52,8 @@
         {
           "type": "slides",
           "url": "https://aaiila.org/wp-content/uploads/2020/06/6-4-2020-Karz.pdf",
-          "label": "View Slides Only"
+          "label": "View Slides Only",
+          "local_path": "assets/materials/6-4-2020-Karz.pdf"
         }
       ]
     }

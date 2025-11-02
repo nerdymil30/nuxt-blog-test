@@ -1,0 +1,968 @@
+================================================================================
+BATCH MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+Scanning for files with downloadable materials...
+Found 28 files to process
+
+
+================================================================================
+[1/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: april-2021-webinar-meeting-archive-14812.json
+================================================================================
+  Found 3 downloadable materials
+
+  Downloading: Gatis Roze Slides - Part 1
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2021/04/Roze_AAII_LA_2021_Part1.pdf...
+    Saving to: Roze_AAII_LA_2021_Part1.pdf
+    ✓ Downloaded (8926981 bytes)
+
+  Downloading: Grayson Roze Slides - Part 2
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2021/04/Roze_AAII_LA_2021_Part2.pdf...
+    Saving to: Roze_AAII_LA_2021_Part2.pdf
+    ✓ Downloaded (13359381 bytes)
+
+  Downloading: Roze Duo Slides - Part 3
+    Topic ID: 3
+    URL: https://aaiila.org/wp-content/uploads/2021/04/Roze_AAII_LA_2021_Part3.pdf...
+    Saving to: Roze_AAII_LA_2021_Part3.pdf
+    ✓ Downloaded (3120716 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: april-2021-webinar-meeting-archive-14812.json
+    ✓ Updated XML: april-2021-webinar-meeting-archive-14812.xml
+
+  Summary: 3 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 3 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[2/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: april-2022-webinar-meeting-archive-15408.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Presenter's Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2022/04/Chris-Watling-AAII-LA-Chapter-23-A...
+    Saving to: Chris-Watling-AAII-LA-Chapter-23-April-2022.pdf
+    ✓ Downloaded (4730597 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: april-2022-webinar-meeting-archive-15408.json
+    ✓ Updated XML: april-2022-webinar-meeting-archive-15408.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[3/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: december-2020-webinar-bonus-meeting-archive-14581.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Presenter's Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2021/01/AAII-Guar-Inc-Blanchett-12-20.pdf...
+    Saving to: AAII-Guar-Inc-Blanchett-12-20.pdf
+    ✓ Downloaded (5503396 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: december-2020-webinar-bonus-meeting-archive-14581.json
+    ✓ Updated XML: december-2020-webinar-bonus-meeting-archive-14581.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[4/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: february-2021-webinar-meeting-archive-14696.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Mark Hulbert Slide Presentation
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2021/03/2021-02-20-Mark-Hulbert-Slides.pdf...
+    Saving to: 2021-02-20-Mark-Hulbert-Slides.pdf
+    ✓ Downloaded (1148551 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: february-2021-webinar-meeting-archive-14696.json
+    ✓ Updated XML: february-2021-webinar-meeting-archive-14696.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[5/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: february-2022-webinar-meeting-archive-15306.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter's Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2022/03/01-BOOCKVAR-Inflation-is-not-trans...
+    Saving to: 01-BOOCKVAR-Inflation-is-not-transitory-Oct-2021.pdf
+    ✓ Downloaded (2304016 bytes)
+
+  Downloading: Presenter's Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2022/03/02-KNAPP-Ironsides-Macroeconomics-...
+    Saving to: 02-KNAPP-Ironsides-Macroeconomics-AAII-Presentation-February-2022.pdf
+    ✓ Downloaded (2537990 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: february-2022-webinar-meeting-archive-15306.json
+    ✓ Updated XML: february-2022-webinar-meeting-archive-15306.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[6/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: february-2023-webinar-meeting-archive-15863.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter’s Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2023/03/2023-02-18-Sowing-The-Seeds-For-Th...
+    Saving to: 2023-02-18-Sowing-The-Seeds-For-The-Next-Bull-Market.pdf
+    ✓ Downloaded (7168402 bytes)
+
+  Downloading: Presenter’s Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2023/03/NewEdge-Wealth-2023-Outlook-and-Fe...
+    Saving to: NewEdge-Wealth-2023-Outlook-and-February-Update-2-19-23.pdf
+    ✓ Downloaded (5733108 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: february-2023-webinar-meeting-archive-15863.json
+    ✓ Updated XML: february-2023-webinar-meeting-archive-15863.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[7/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: february-2024-webinar-archive-16521.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Presenter's Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2024/11/Ivory-Johnson-AAII-Presentation.pd...
+    Saving to: Ivory-Johnson-AAII-Presentation.pdf
+    ✓ Downloaded (1813676 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: february-2024-webinar-archive-16521.json
+    ✓ Updated XML: february-2024-webinar-archive-16521.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[8/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: january-2023-skirballwebinar-meeting-archive-15796.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter’s Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2023/02/Sebastien-Page-AA-Outlook_SPage_MA...
+    Saving to: Sebastien-Page-AA-Outlook_SPage_MASTER_Images_Retail_01132023.pdf
+    ✓ Downloaded (1559241 bytes)
+
+  Downloading: Presenter’s Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2023/02/Robert-Doll-AAII-Ten-Predictions-P...
+    Saving to: Robert-Doll-AAII-Ten-Predictions-Presentation_01222.pdf
+    ✓ Downloaded (4706441 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: january-2023-skirballwebinar-meeting-archive-15796.json
+    ✓ Updated XML: january-2023-skirballwebinar-meeting-archive-15796.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[9/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: july-2022-webinar-meeting-archive-15569.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter’s Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2022/07/PDF-FINAL-Victorias-New-Deck-7.13....
+    Saving to: PDF-FINAL-Victorias-New-Deck-7.13.22-.pdf
+    ✓ Downloaded (3623466 bytes)
+
+  Downloading: Presenter’s Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2022/07/Maxifi_Laurence_Jul2022.pdf...
+    Saving to: Maxifi_Laurence_Jul2022.pdf
+    ✓ Downloaded (1267471 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: july-2022-webinar-meeting-archive-15569.json
+    ✓ Updated XML: july-2022-webinar-meeting-archive-15569.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[10/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: july-2025-webinar-archive-17614.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter’s Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2025/07/DanNiles20250717Final.pdf...
+    Saving to: DanNiles20250717Final.pdf
+    ✓ Downloaded (3519163 bytes)
+
+  Downloading: Presenter’s Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2025/07/Kim-Forrest-AAII-Los-Angeles-July-...
+    Saving to: Kim-Forrest-AAII-Los-Angeles-July-2025.pdf
+    ✓ Downloaded (443024 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: july-2025-webinar-archive-17614.json
+    ✓ Updated XML: july-2025-webinar-archive-17614.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[11/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: june-2020-webinar-bonus-meeting-archive-14287.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: View Slides Only
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2020/06/6-4-2020-Karz.pdf...
+    Saving to: 6-4-2020-Karz.pdf
+    ✓ Downloaded (2050959 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2020-webinar-bonus-meeting-archive-14287.json
+    ✓ Updated XML: june-2020-webinar-bonus-meeting-archive-14287.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[12/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: june-2021-webinar-meeting-archive-14907.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter's Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2021/06/DL-Slides_AA-II_19June2021.pdf...
+    Saving to: DL-Slides_AA-II_19June2021.pdf
+    ✓ Downloaded (1239865 bytes)
+
+  Downloading: Presenter's Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2021/06/AAII-Presentation-ALLAN-ROTH-6-19-...
+    Saving to: AAII-Presentation-ALLAN-ROTH-6-19-21.pdf
+    ✓ Downloaded (1113928 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2021-webinar-meeting-archive-14907.json
+    ✓ Updated XML: june-2021-webinar-meeting-archive-14907.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[13/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: june-2022-webinar-meeting-archive-15514.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter’s Slides
+    Topic ID: 1
+    URL: https://www.danniles.com/articles/2022-06-18...
+    Saving to: material_1_1.ppt
+    ✓ Downloaded (343380 bytes)
+
+  Downloading: Presenter’s Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2022/07/Paul-Merriman-AAII-Los-Angeles-Cha...
+    Saving to: Paul-Merriman-AAII-Los-Angeles-Chapter-Final-PDFVersion.pdf
+    ✓ Downloaded (4684108 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2022-webinar-meeting-archive-15514.json
+    ✓ Updated XML: june-2022-webinar-meeting-archive-15514.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[14/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: june-2024-webinar-archive-16740.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter’s Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2024/11/06-JUN-Chris-Watling-Longview-15th...
+    Saving to: 06-JUN-Chris-Watling-Longview-15th-June-2024-AAII-LA-Chapter-Webinar-1.pdf
+    ✓ Downloaded (4437964 bytes)
+
+  Downloading: Presenter’s Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2024/11/06-JUN-AAII-LA-6-15-24-Marilyn-Coh...
+    Saving to: 06-JUN-AAII-LA-6-15-24-Marilyn-Cohen-Suffering-Bond-Fatigue-V3.pdf
+    ✓ Downloaded (1845119 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2024-webinar-archive-16740.json
+    ✓ Updated XML: june-2024-webinar-archive-16740.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[15/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: june-2025-webinar-archive-17565.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter's Slides - Tariffs
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2025/06/Tariffs.pdf...
+    Saving to: Tariffs.pdf
+    ✓ Downloaded (2328151 bytes)
+
+  Downloading: Presenter's Slides - Markets
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2025/06/Markets_Apr25.pdf...
+    Saving to: Markets_Apr25.pdf
+    ✓ Downloaded (1116889 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: june-2025-webinar-archive-17565.json
+    ✓ Updated XML: june-2025-webinar-archive-17565.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[16/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: march-2021-webinar-meeting-archive-14750.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Nancy Tengler Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2021/03/Nancy-Tengler-Slices-AAII-Los-Ange...
+    Saving to: Nancy-Tengler-Slices-AAII-Los-Angeles-3-20-21-FINAL.pdf
+    ✓ Downloaded (1936532 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: march-2021-webinar-meeting-archive-14750.json
+    ✓ Updated XML: march-2021-webinar-meeting-archive-14750.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[17/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: march-2022-skirballwebinar-meeting-archive-15322.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter's Slides - 9:00 am
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2022/04/Best-Times.pdf...
+    Saving to: Best-Times.pdf
+    ✓ Downloaded (1459464 bytes)
+
+  Downloading: Presenter's Slides - 10:45 am
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2022/04/Terrible-Times.pdf...
+    Saving to: Terrible-Times.pdf
+    ✓ Downloaded (2142369 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: march-2022-skirballwebinar-meeting-archive-15322.json
+    ✓ Updated XML: march-2022-skirballwebinar-meeting-archive-15322.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[18/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: march-2023-webinar-meeting-archive-15903.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Presenter’s Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2023/03/2023-AAII-Monetary-Showdown-For-AA...
+    Saving to: 2023-AAII-Monetary-Showdown-For-AAII-Distribution.pdf
+    ✓ Downloaded (3986353 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: march-2023-webinar-meeting-archive-15903.json
+    ✓ Updated XML: march-2023-webinar-meeting-archive-15903.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[19/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: may-2020-webinar-monthly-meeting-archive-14234.json
+================================================================================
+  Found 3 downloadable materials
+
+  Downloading: Slides Only
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2020/05/Powell-5-16-20.pdf...
+    Saving to: Powell-5-16-20.pdf
+    ✓ Downloaded (1484527 bytes)
+
+  Downloading: Slides Only
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2020/05/Tuchman-5-16-20.pdf...
+    Saving to: Tuchman-5-16-20.pdf
+    ✓ Downloaded (4870398 bytes)
+
+  Downloading: Best and Worst Days Results
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2020/05/Tuchman-Best-and-Worst-Days.pdf...
+    Saving to: Tuchman-Best-and-Worst-Days.pdf
+    ✓ Downloaded (221732 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: may-2020-webinar-monthly-meeting-archive-14234.json
+    ✓ Updated XML: may-2020-webinar-monthly-meeting-archive-14234.xml
+
+  Summary: 3 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 3 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[20/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: may-2021-webinar-meeting-archive-14844.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Presenter's Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2021/06/Page-Multi-Asset-Investing-May-202...
+    Saving to: Page-Multi-Asset-Investing-May-2021-AAII.pdf
+    ✓ Downloaded (2933503 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: may-2021-webinar-meeting-archive-14844.json
+    ✓ Updated XML: may-2021-webinar-meeting-archive-14844.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[21/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: may-2022-skirballwebinar-meeting-archive-15356.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter's Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2022/05/Kevin-Carter-EMQQ-Global-Introduct...
+    Saving to: Kevin-Carter-EMQQ-Global-Introduction-5.18.22.pdf
+    ✓ Downloaded (11904165 bytes)
+
+  Downloading: Presenter's Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2022/05/Mark-Skousen-Wisdom-Madness-of-Cro...
+    Saving to: Mark-Skousen-Wisdom-Madness-of-Crowds_2022-05-28.pdf
+    ✓ Downloaded (3939517 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: may-2022-skirballwebinar-meeting-archive-15356.json
+    ✓ Updated XML: may-2022-skirballwebinar-meeting-archive-15356.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[22/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: may-2024-webinar-archive-16721.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Presenter’s Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2024/11/05-MAY-2024-05-18-Webinar.pdf...
+    Saving to: 05-MAY-2024-05-18-Webinar.pdf
+    ✓ Downloaded (6229518 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: may-2024-webinar-archive-16721.json
+    ✓ Updated XML: may-2024-webinar-archive-16721.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[23/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: november-2020-webinar-monthly-meeting-archive-14550.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter's Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2020/12/StevenRomickPreso.pdf...
+    Saving to: StevenRomickPreso.pdf
+    ✓ Downloaded (1579115 bytes)
+
+  Downloading: Presenter's Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2020/12/CP_Biden_Presidency_Impact_101120....
+    Saving to: CP_Biden_Presidency_Impact_101120.pdf
+    ✓ Downloaded (3879034 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: november-2020-webinar-monthly-meeting-archive-14550.json
+    ✓ Updated XML: november-2020-webinar-monthly-meeting-archive-14550.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[24/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: november-2022-skirballwebinar-meeting-archive-15723.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Presenter’s Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2022/12/SPATH-4-horsemen-FINAL.pdf...
+    Saving to: SPATH-4-horsemen-FINAL.pdf
+    ✓ Downloaded (7345564 bytes)
+
+  Downloading: Presenter’s Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2022/12/Schulte-Inflation-AAII-Los-Angeles...
+    Saving to: Schulte-Inflation-AAII-Los-Angeles-2022.pdf
+    ✓ Downloaded (1720526 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: november-2022-skirballwebinar-meeting-archive-15723.json
+    ✓ Updated XML: november-2022-skirballwebinar-meeting-archive-15723.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[25/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: november-2024-webinar-archive-17034.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Webinar Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2024/11/11-Nov-2024-Paul-Merriman-Slides-A...
+    Saving to: 11-Nov-2024-Paul-Merriman-Slides-AAII-LA-Final.pdf
+    ✓ Downloaded (15422358 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: november-2024-webinar-archive-17034.json
+    ✓ Updated XML: november-2024-webinar-archive-17034.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[26/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: october-2023-webinar-meeting-archive-16225.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2023/12/10.21.2023_AAII_Los-Angeles_SCRUBB...
+    Saving to: 10.21.2023_AAII_Los-Angeles_SCRUBBED.pdf
+    ✓ Downloaded (1954137 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: october-2023-webinar-meeting-archive-16225.json
+    ✓ Updated XML: october-2023-webinar-meeting-archive-16225.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[27/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: september-2020-webinar-monthly-meeting-archive-14436.json
+================================================================================
+  Found 2 downloadable materials
+
+  Downloading: Questions For Howard Marks
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2020/09/Questions-for-Howard-Marks.pdf...
+    Saving to: Questions-for-Howard-Marks.pdf
+    ✓ Downloaded (913434 bytes)
+
+  Downloading: Presenter's Slides
+    Topic ID: 2
+    URL: https://aaiila.org/wp-content/uploads/2020/09/Kristina-Hooper-September-2020.pdf...
+    Saving to: Kristina-Hooper-September-2020.pdf
+    ✓ Downloaded (1174826 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: september-2020-webinar-monthly-meeting-archive-14436.json
+    ✓ Updated XML: september-2020-webinar-monthly-meeting-archive-14436.xml
+
+  Summary: 2 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 2 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+[28/28]
+================================================================================
+================================================================================
+MATERIALS DOWNLOADER (PDF/PPT)
+================================================================================
+
+
+Processing: september-2021-webinar-meeting-archive-14996.json
+================================================================================
+  Found 1 downloadable materials
+
+  Downloading: Presenter's Slides
+    Topic ID: 1
+    URL: https://aaiila.org/wp-content/uploads/2021/09/09.18.2021_AAII_Los-Angeles-CA_SCR...
+    Saving to: 09.18.2021_AAII_Los-Angeles-CA_SCRUBBED-Slides-by-Bruce-Johnstone.pdf
+    ✓ Downloaded (1738705 bytes)
+
+  Updating structured data files...
+    ✓ Updated JSON: september-2021-webinar-meeting-archive-14996.json
+    ✓ Updated XML: september-2021-webinar-meeting-archive-14996.xml
+
+  Summary: 1 downloaded, 0 failed
+
+================================================================================
+COMPLETE: 1 materials downloaded, 0 failed
+================================================================================
+
+
+================================================================================
+BATCH PROCESSING COMPLETE
+================================================================================
+
+Files processed: 28/28
+Total materials downloaded: 46
+Total materials failed: 0
+
+✓ Files with successful downloads (28):
+  - april-2021-webinar-meeting-archive-14812.json: 3 materials
+  - april-2022-webinar-meeting-archive-15408.json: 1 materials
+  - december-2020-webinar-bonus-meeting-archive-14581.json: 1 materials
+  - february-2021-webinar-meeting-archive-14696.json: 1 materials
+  - february-2022-webinar-meeting-archive-15306.json: 2 materials
+  - february-2023-webinar-meeting-archive-15863.json: 2 materials
+  - february-2024-webinar-archive-16521.json: 1 materials
+  - january-2023-skirballwebinar-meeting-archive-15796.json: 2 materials
+  - july-2022-webinar-meeting-archive-15569.json: 2 materials
+  - july-2025-webinar-archive-17614.json: 2 materials
+  - june-2020-webinar-bonus-meeting-archive-14287.json: 1 materials
+  - june-2021-webinar-meeting-archive-14907.json: 2 materials
+  - june-2022-webinar-meeting-archive-15514.json: 2 materials
+  - june-2024-webinar-archive-16740.json: 2 materials
+  - june-2025-webinar-archive-17565.json: 2 materials
+  - march-2021-webinar-meeting-archive-14750.json: 1 materials
+  - march-2022-skirballwebinar-meeting-archive-15322.json: 2 materials
+  - march-2023-webinar-meeting-archive-15903.json: 1 materials
+  - may-2020-webinar-monthly-meeting-archive-14234.json: 3 materials
+  - may-2021-webinar-meeting-archive-14844.json: 1 materials
+  - may-2022-skirballwebinar-meeting-archive-15356.json: 2 materials
+  - may-2024-webinar-archive-16721.json: 1 materials
+  - november-2020-webinar-monthly-meeting-archive-14550.json: 2 materials
+  - november-2022-skirballwebinar-meeting-archive-15723.json: 2 materials
+  - november-2024-webinar-archive-17034.json: 1 materials
+  - october-2023-webinar-meeting-archive-16225.json: 1 materials
+  - september-2020-webinar-monthly-meeting-archive-14436.json: 2 materials
+  - september-2021-webinar-meeting-archive-14996.json: 1 materials
+
+✓ Report saved to: /Users/ravivedula/Dropbox/1-projects/Coding/test-learning/nuxt-blog/AAII-Migration-assets/output/materials-download-report.json
+
